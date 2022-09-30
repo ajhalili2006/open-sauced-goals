@@ -13,20 +13,20 @@
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 4381,
-    "open_issues_count": 44,
+    "stargazers_count": 4390,
+    "open_issues_count": 51,
     "forks_count": 127
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 1066,
+    "stargazers_count": 1069,
     "open_issues_count": 5,
     "forks_count": 21
   },
   {
     "full_name": "sonigy/YCS",
     "stargazers_count": 39,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
@@ -44,74 +44,74 @@
   {
     "full_name": "MCMrARM/revolution-irc",
     "stargazers_count": 447,
-    "open_issues_count": 156,
+    "open_issues_count": 157,
     "forks_count": 58
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
     "stargazers_count": 608,
-    "open_issues_count": 70,
+    "open_issues_count": 72,
     "forks_count": 148
   },
   {
     "full_name": "ttionya/vaultwarden-backup",
-    "stargazers_count": 366,
+    "stargazers_count": 367,
     "open_issues_count": 9,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "toptal/haste-server",
-    "stargazers_count": 2602,
+    "stargazers_count": 2601,
     "open_issues_count": 21,
-    "forks_count": 714
+    "forks_count": 715
   },
   {
     "full_name": "charmbracelet/charm",
-    "stargazers_count": 1549,
+    "stargazers_count": 1558,
     "open_issues_count": 20,
     "forks_count": 52
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 15005,
+    "stargazers_count": 15046,
     "open_issues_count": 55,
-    "forks_count": 414
+    "forks_count": 415
   },
   {
     "full_name": "FydeOS/openFyde",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ProtonVPN/android-app",
-    "stargazers_count": 1022,
+    "stargazers_count": 1030,
     "open_issues_count": 51,
-    "forks_count": 173
+    "forks_count": 174
   },
   {
     "full_name": "PeterCxy/Shelter",
-    "stargazers_count": 1324,
-    "open_issues_count": 102,
+    "stargazers_count": 1328,
+    "open_issues_count": 103,
     "forks_count": 124
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 18101,
-    "open_issues_count": 66,
-    "forks_count": 2792
+    "stargazers_count": 18172,
+    "open_issues_count": 69,
+    "forks_count": 2810
   },
   {
     "full_name": "jpwhite3/northwind-SQLite3",
-    "stargazers_count": 258,
+    "stargazers_count": 257,
     "open_issues_count": 2,
     "forks_count": 161
   },
   {
     "full_name": "Olivr/free-domain",
-    "stargazers_count": 205,
+    "stargazers_count": 211,
     "open_issues_count": 14,
-    "forks_count": 126
+    "forks_count": 129
   },
   {
     "full_name": "Upinel/localhost.direct",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 49954,
+    "stargazers_count": 50022,
     "open_issues_count": 15,
-    "forks_count": 7192
+    "forks_count": 7208
   },
   {
     "full_name": "kr1sp1n/awesome-gemini",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "denoland/fresh",
-    "stargazers_count": 8994,
-    "open_issues_count": 133,
-    "forks_count": 340
+    "stargazers_count": 9049,
+    "open_issues_count": 135,
+    "forks_count": 344
   },
   {
     "full_name": "topjohnwu/libsu",
-    "stargazers_count": 1182,
+    "stargazers_count": 1183,
     "open_issues_count": 1,
-    "forks_count": 265
+    "forks_count": 266
   },
   {
     "full_name": "google/libphonenumber",
-    "stargazers_count": 14210,
-    "open_issues_count": 84,
-    "forks_count": 1886
+    "stargazers_count": 14215,
+    "open_issues_count": 82,
+    "forks_count": 1891
   },
   {
     "full_name": "reitermarkus/dotfiles",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "sivel/speedtest-cli",
-    "stargazers_count": 12225,
+    "stargazers_count": 12233,
     "open_issues_count": 53,
-    "forks_count": 1790
+    "forks_count": 1792
   },
   {
     "full_name": "ije/html",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "CypherpunkArmory/UserLAnd",
-    "stargazers_count": 2638,
+    "stargazers_count": 2642,
     "open_issues_count": 499,
     "forks_count": 294
   }
