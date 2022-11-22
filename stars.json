@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "nothings/stb",
+    "stargazers_count": 20392,
+    "open_issues_count": 174,
+    "forks_count": 7123
+  },
+  {
+    "full_name": "bitlbee/bitlbee",
+    "stargazers_count": 556,
+    "open_issues_count": 11,
+    "forks_count": 113
+  },
+  {
     "full_name": "suan/github-flavored-markdown-test",
     "stargazers_count": 31,
     "open_issues_count": 1,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 607,
-    "open_issues_count": 35,
+    "stargazers_count": 619,
+    "open_issues_count": 36,
     "forks_count": 28
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 203299,
-    "open_issues_count": 337,
-    "forks_count": 36595
+    "stargazers_count": 203723,
+    "open_issues_count": 338,
+    "forks_count": 36657
   },
   {
     "full_name": "Xe/site",
@@ -25,15 +37,15 @@
   },
   {
     "full_name": "kyb3r/logviewer",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 17,
-    "forks_count": 939
+    "forks_count": 943
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5178,
+    "stargazers_count": 5182,
     "open_issues_count": 28,
-    "forks_count": 798
+    "forks_count": 799
   },
   {
     "full_name": "googlecreativelab/webvr-musicalforest",
@@ -55,13 +67,13 @@
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 4878,
-    "open_issues_count": 63,
-    "forks_count": 153
+    "stargazers_count": 4894,
+    "open_issues_count": 64,
+    "forks_count": 155
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 1099,
+    "stargazers_count": 1100,
     "open_issues_count": 5,
     "forks_count": 23
   },
@@ -73,7 +85,7 @@
   },
   {
     "full_name": "ircv3/ircv3-specifications",
-    "stargazers_count": 738,
+    "stargazers_count": 746,
     "open_issues_count": 70,
     "forks_count": 77
   },
@@ -92,91 +104,79 @@
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
     "stargazers_count": 632,
-    "open_issues_count": 73,
-    "forks_count": 155
+    "open_issues_count": 74,
+    "forks_count": 154
   },
   {
     "full_name": "ttionya/vaultwarden-backup",
-    "stargazers_count": 441,
-    "open_issues_count": 10,
+    "stargazers_count": 442,
+    "open_issues_count": 9,
     "forks_count": 67
   },
   {
     "full_name": "toptal/haste-server",
-    "stargazers_count": 2638,
+    "stargazers_count": 2640,
     "open_issues_count": 20,
-    "forks_count": 732
+    "forks_count": 733
   },
   {
     "full_name": "charmbracelet/charm",
-    "stargazers_count": 1645,
+    "stargazers_count": 1646,
     "open_issues_count": 23,
     "forks_count": 52
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 15919,
-    "open_issues_count": 58,
-    "forks_count": 470
+    "stargazers_count": 15955,
+    "open_issues_count": 59,
+    "forks_count": 475
   },
   {
     "full_name": "FydeOS/openFyde",
-    "stargazers_count": 10,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "ProtonVPN/android-app",
-    "stargazers_count": 1091,
-    "open_issues_count": 49,
+    "stargazers_count": 1096,
+    "open_issues_count": 45,
     "forks_count": 182
   },
   {
     "full_name": "PeterCxy/Shelter",
-    "stargazers_count": 1428,
+    "stargazers_count": 1432,
     "open_issues_count": 108,
     "forks_count": 130
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 19266,
-    "open_issues_count": 82,
-    "forks_count": 3102
+    "stargazers_count": 19366,
+    "open_issues_count": 84,
+    "forks_count": 3141
   },
   {
     "full_name": "jpwhite3/northwind-SQLite3",
-    "stargazers_count": 271,
+    "stargazers_count": 273,
     "open_issues_count": 2,
     "forks_count": 164
   },
   {
     "full_name": "Olivr/free-domain",
-    "stargazers_count": 245,
+    "stargazers_count": 248,
     "open_issues_count": 21,
-    "forks_count": 170
+    "forks_count": 172
   },
   {
     "full_name": "Upinel/localhost.direct",
-    "stargazers_count": 151,
+    "stargazers_count": 154,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 51343,
+    "stargazers_count": 51413,
     "open_issues_count": 16,
-    "forks_count": 7310
-  },
-  {
-    "full_name": "kr1sp1n/awesome-gemini",
-    "stargazers_count": 684,
-    "open_issues_count": 3,
-    "forks_count": 79
-  },
-  {
-    "full_name": "denoland/fresh",
-    "stargazers_count": 9430,
-    "open_issues_count": 149,
-    "forks_count": 380
+    "forks_count": 7314
   }
 ]
