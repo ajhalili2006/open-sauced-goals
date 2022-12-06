@@ -1,49 +1,49 @@
 [
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 20504,
-    "open_issues_count": 174,
-    "forks_count": 7166
+    "stargazers_count": 20539,
+    "open_issues_count": 175,
+    "forks_count": 7178
   },
   {
     "full_name": "bitlbee/bitlbee",
-    "stargazers_count": 557,
+    "stargazers_count": 558,
     "open_issues_count": 11,
     "forks_count": 114
   },
   {
     "full_name": "suan/github-flavored-markdown-test",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 1,
     "forks_count": 57
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 657,
-    "open_issues_count": 38,
-    "forks_count": 31
+    "stargazers_count": 670,
+    "open_issues_count": 37,
+    "forks_count": 33
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 204577,
+    "stargazers_count": 204869,
     "open_issues_count": 338,
-    "forks_count": 36814
+    "forks_count": 36861
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 448,
-    "open_issues_count": 12,
+    "stargazers_count": 449,
+    "open_issues_count": 13,
     "forks_count": 98
   },
   {
     "full_name": "kyb3r/logviewer",
     "stargazers_count": 71,
     "open_issues_count": 17,
-    "forks_count": 958
+    "forks_count": 965
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5195,
+    "stargazers_count": 5198,
     "open_issues_count": 28,
     "forks_count": 800
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 4973,
-    "open_issues_count": 64,
-    "forks_count": 158
+    "stargazers_count": 4990,
+    "open_issues_count": 68,
+    "forks_count": 161
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 1108,
+    "stargazers_count": 1115,
     "open_issues_count": 5,
     "forks_count": 23
   },
   {
     "full_name": "sonigy/YCS",
     "stargazers_count": 46,
-    "open_issues_count": 6,
-    "forks_count": 2
+    "open_issues_count": 7,
+    "forks_count": 3
   },
   {
     "full_name": "ircv3/ircv3-specifications",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "mskian/my-termux-setup",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 1,
     "forks_count": 16
   },
@@ -104,13 +104,13 @@
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
     "stargazers_count": 636,
-    "open_issues_count": 74,
-    "forks_count": 153
+    "open_issues_count": 81,
+    "forks_count": 154
   },
   {
     "full_name": "ttionya/vaultwarden-backup",
-    "stargazers_count": 452,
-    "open_issues_count": 9,
+    "stargazers_count": 457,
+    "open_issues_count": 10,
     "forks_count": 68
   },
   {
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "charmbracelet/charm",
-    "stargazers_count": 1657,
+    "stargazers_count": 1659,
     "open_issues_count": 24,
     "forks_count": 52
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16087,
-    "open_issues_count": 59,
-    "forks_count": 481
+    "stargazers_count": 16123,
+    "open_issues_count": 61,
+    "forks_count": 483
   },
   {
     "full_name": "FydeOS/openFyde",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "ProtonVPN/android-app",
-    "stargazers_count": 1114,
+    "stargazers_count": 1120,
     "open_issues_count": 46,
-    "forks_count": 183
+    "forks_count": 185
   },
   {
     "full_name": "PeterCxy/Shelter",
-    "stargazers_count": 1444,
+    "stargazers_count": 1448,
     "open_issues_count": 112,
-    "forks_count": 132
+    "forks_count": 134
   },
   {
     "full_name": "docker/awesome-compose",
-    "stargazers_count": 19603,
-    "open_issues_count": 85,
-    "forks_count": 3201
+    "stargazers_count": 19702,
+    "open_issues_count": 86,
+    "forks_count": 3231
   },
   {
     "full_name": "jpwhite3/northwind-SQLite3",
-    "stargazers_count": 274,
+    "stargazers_count": 276,
     "open_issues_count": 2,
     "forks_count": 164
   },
   {
     "full_name": "Olivr/free-domain",
-    "stargazers_count": 254,
-    "open_issues_count": 31,
-    "forks_count": 182
+    "stargazers_count": 255,
+    "open_issues_count": 30,
+    "forks_count": 183
   },
   {
     "full_name": "Upinel/localhost.direct",
-    "stargazers_count": 164,
+    "stargazers_count": 165,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "DopplerHQ/awesome-interview-questions",
-    "stargazers_count": 51732,
+    "stargazers_count": 51813,
     "open_issues_count": 15,
-    "forks_count": 7346
+    "forks_count": 7352
   }
 ]
