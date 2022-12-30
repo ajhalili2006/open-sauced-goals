@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "ryanoasis/nerd-fonts",
+    "stargazers_count": 40538,
+    "open_issues_count": 246,
+    "forks_count": 3147
+  },
+  {
+    "full_name": "harperreed/harper.tilde",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "XMRWallet/Website",
     "stargazers_count": 15,
     "open_issues_count": 3,
@@ -14,14 +26,14 @@
   {
     "full_name": "matrix-org/matrix-public-archive",
     "stargazers_count": 34,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 4
   },
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 20689,
-    "open_issues_count": 183,
-    "forks_count": 7246
+    "stargazers_count": 20707,
+    "open_issues_count": 184,
+    "forks_count": 7268
   },
   {
     "full_name": "bitlbee/bitlbee",
@@ -37,43 +49,43 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 744,
-    "open_issues_count": 45,
+    "stargazers_count": 761,
+    "open_issues_count": 46,
     "forks_count": 37
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 206396,
+    "stargazers_count": 206779,
     "open_issues_count": 342,
-    "forks_count": 37068
+    "forks_count": 37115
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 455,
-    "open_issues_count": 16,
-    "forks_count": 99
+    "stargazers_count": 457,
+    "open_issues_count": 9,
+    "forks_count": 100
   },
   {
     "full_name": "kyb3r/logviewer",
     "stargazers_count": 72,
     "open_issues_count": 16,
-    "forks_count": 999
+    "forks_count": 1005
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5218,
+    "stargazers_count": 5220,
     "open_issues_count": 30,
     "forks_count": 807
   },
   {
     "full_name": "googlecreativelab/webvr-musicalforest",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 2,
     "forks_count": 40
   },
   {
     "full_name": "rosdec/deno_fresh_heroes",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 5039,
-    "open_issues_count": 51,
-    "forks_count": 168
+    "stargazers_count": 5054,
+    "open_issues_count": 57,
+    "forks_count": 169
   },
   {
     "full_name": "samtay/so",
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "mskian/my-termux-setup",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 1,
     "forks_count": 16
   },
@@ -117,18 +129,18 @@
     "full_name": "MCMrARM/revolution-irc",
     "stargazers_count": 456,
     "open_issues_count": 161,
-    "forks_count": 60
+    "forks_count": 61
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
-    "stargazers_count": 641,
-    "open_issues_count": 80,
+    "stargazers_count": 640,
+    "open_issues_count": 81,
     "forks_count": 154
   },
   {
     "full_name": "ttionya/vaultwarden-backup",
-    "stargazers_count": 470,
-    "open_issues_count": 10,
+    "stargazers_count": 480,
+    "open_issues_count": 12,
     "forks_count": 70
   },
   {
@@ -139,15 +151,15 @@
   },
   {
     "full_name": "charmbracelet/charm",
-    "stargazers_count": 1689,
+    "stargazers_count": 1694,
     "open_issues_count": 23,
     "forks_count": 53
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16355,
-    "open_issues_count": 63,
-    "forks_count": 498
+    "stargazers_count": 16381,
+    "open_issues_count": 65,
+    "forks_count": 500
   },
   {
     "full_name": "FydeOS/openFyde",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "ProtonVPN/android-app",
-    "stargazers_count": 1149,
-    "open_issues_count": 47,
+    "stargazers_count": 1151,
+    "open_issues_count": 46,
     "forks_count": 189
   },
   {
     "full_name": "PeterCxy/Shelter",
-    "stargazers_count": 1468,
+    "stargazers_count": 1471,
     "open_issues_count": 112,
     "forks_count": 136
-  },
-  {
-    "full_name": "docker/awesome-compose",
-    "stargazers_count": 20248,
-    "open_issues_count": 80,
-    "forks_count": 3384
-  },
-  {
-    "full_name": "jpwhite3/northwind-SQLite3",
-    "stargazers_count": 285,
-    "open_issues_count": 2,
-    "forks_count": 165
   }
 ]
