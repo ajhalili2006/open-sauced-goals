@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Shopify/maintenance_tasks",
+    "stargazers_count": 572,
+    "open_issues_count": 24,
+    "forks_count": 23
+  },
+  {
     "full_name": "karelklima/ldkit",
     "stargazers_count": 18,
     "open_issues_count": 11,
@@ -8,7 +14,7 @@
   {
     "full_name": "miraheze/ManageWiki",
     "stargazers_count": 23,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 23
   },
   {
@@ -19,9 +25,9 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 40669,
-    "open_issues_count": 243,
-    "forks_count": 3153
+    "stargazers_count": 40763,
+    "open_issues_count": 239,
+    "forks_count": 3160
   },
   {
     "full_name": "harperreed/harper.tilde",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "matrix-org/matrix-public-archive",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 35,
     "forks_count": 3
   },
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 20764,
-    "open_issues_count": 184,
-    "forks_count": 7265
+    "stargazers_count": 20815,
+    "open_issues_count": 185,
+    "forks_count": 7272
   },
   {
     "full_name": "bitlbee/bitlbee",
@@ -67,15 +73,15 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 781,
-    "open_issues_count": 43,
+    "stargazers_count": 787,
+    "open_issues_count": 44,
     "forks_count": 37
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 207288,
-    "open_issues_count": 343,
-    "forks_count": 37176
+    "stargazers_count": 208022,
+    "open_issues_count": 346,
+    "forks_count": 37274
   },
   {
     "full_name": "Xe/site",
@@ -86,14 +92,14 @@
   {
     "full_name": "kyb3r/logviewer",
     "stargazers_count": 72,
-    "open_issues_count": 16,
-    "forks_count": 1012
+    "open_issues_count": 17,
+    "forks_count": 1023
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5229,
+    "stargazers_count": 5236,
     "open_issues_count": 30,
-    "forks_count": 808
+    "forks_count": 809
   },
   {
     "full_name": "googlecreativelab/webvr-musicalforest",
@@ -109,25 +115,25 @@
   },
   {
     "full_name": "Tatsh/kate-wakatime",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 5109,
-    "open_issues_count": 54,
-    "forks_count": 171
+    "stargazers_count": 5124,
+    "open_issues_count": 64,
+    "forks_count": 173
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 1147,
+    "stargazers_count": 1148,
     "open_issues_count": 5,
     "forks_count": 26
   },
   {
     "full_name": "sonigy/YCS",
-    "stargazers_count": 50,
+    "stargazers_count": 52,
     "open_issues_count": 8,
     "forks_count": 3
   },
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "mskian/my-termux-setup",
-    "stargazers_count": 160,
+    "stargazers_count": 161,
     "open_issues_count": 1,
-    "forks_count": 16
+    "forks_count": 15
   },
   {
     "full_name": "MCMrARM/revolution-irc",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
-    "stargazers_count": 642,
+    "stargazers_count": 643,
     "open_issues_count": 79,
     "forks_count": 153
   },
   {
     "full_name": "ttionya/vaultwarden-backup",
-    "stargazers_count": 486,
+    "stargazers_count": 490,
     "open_issues_count": 13,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "toptal/haste-server",
-    "stargazers_count": 2666,
+    "stargazers_count": 2667,
     "open_issues_count": 24,
-    "forks_count": 737
+    "forks_count": 739
   },
   {
     "full_name": "charmbracelet/charm",
-    "stargazers_count": 1704,
-    "open_issues_count": 23,
+    "stargazers_count": 1705,
+    "open_issues_count": 24,
     "forks_count": 53
-  },
-  {
-    "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 16427,
-    "open_issues_count": 65,
-    "forks_count": 507
   }
 ]
