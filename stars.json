@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 572,
+    "stargazers_count": 574,
     "open_issues_count": 24,
     "forks_count": 23
   },
   {
     "full_name": "karelklima/ldkit",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 11,
     "forks_count": 1
   },
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 40763,
-    "open_issues_count": 239,
-    "forks_count": 3160
+    "stargazers_count": 40820,
+    "open_issues_count": 234,
+    "forks_count": 3166
   },
   {
     "full_name": "harperreed/harper.tilde",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 20815,
+    "stargazers_count": 20839,
     "open_issues_count": 185,
-    "forks_count": 7272
+    "forks_count": 7281
   },
   {
     "full_name": "bitlbee/bitlbee",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 787,
-    "open_issues_count": 44,
-    "forks_count": 37
+    "stargazers_count": 797,
+    "open_issues_count": 46,
+    "forks_count": 40
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 208022,
-    "open_issues_count": 346,
-    "forks_count": 37274
+    "stargazers_count": 208352,
+    "open_issues_count": 348,
+    "forks_count": 37321
   },
   {
     "full_name": "Xe/site",
@@ -93,13 +93,13 @@
     "full_name": "kyb3r/logviewer",
     "stargazers_count": 72,
     "open_issues_count": 17,
-    "forks_count": 1023
+    "forks_count": 1035
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5236,
+    "stargazers_count": 5242,
     "open_issues_count": 30,
-    "forks_count": 809
+    "forks_count": 810
   },
   {
     "full_name": "googlecreativelab/webvr-musicalforest",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 5124,
-    "open_issues_count": 64,
+    "stargazers_count": 5133,
+    "open_issues_count": 58,
     "forks_count": 173
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 1148,
+    "stargazers_count": 1153,
     "open_issues_count": 5,
     "forks_count": 26
   },
@@ -147,17 +147,17 @@
     "full_name": "mskian/my-termux-setup",
     "stargazers_count": 161,
     "open_issues_count": 1,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "MCMrARM/revolution-irc",
-    "stargazers_count": 457,
+    "stargazers_count": 455,
     "open_issues_count": 161,
     "forks_count": 61
   },
   {
     "full_name": "InnerSourceCommons/InnerSourcePatterns",
-    "stargazers_count": 643,
+    "stargazers_count": 644,
     "open_issues_count": 79,
     "forks_count": 153
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "toptal/haste-server",
-    "stargazers_count": 2667,
-    "open_issues_count": 24,
-    "forks_count": 739
+    "stargazers_count": 2668,
+    "open_issues_count": 23,
+    "forks_count": 741
   },
   {
     "full_name": "charmbracelet/charm",
-    "stargazers_count": 1705,
+    "stargazers_count": 1708,
     "open_issues_count": 24,
     "forks_count": 53
   }
