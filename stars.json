@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "httpcats/http.cat",
+    "stargazers_count": 2088,
+    "open_issues_count": 28,
+    "forks_count": 108
+  },
+  {
+    "full_name": "simonw/til",
+    "stargazers_count": 637,
+    "open_issues_count": 11,
+    "forks_count": 60
+  },
+  {
     "full_name": "FutureMillennium/Screenshot-YouTube",
     "stargazers_count": 88,
     "open_issues_count": 13,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "ajhalili2006/passwdstore-personal",
@@ -25,14 +37,14 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 6803,
-    "open_issues_count": 156,
-    "forks_count": 403
+    "stargazers_count": 6851,
+    "open_issues_count": 158,
+    "forks_count": 408
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 604,
-    "open_issues_count": 26,
+    "stargazers_count": 605,
+    "open_issues_count": 27,
     "forks_count": 27
   },
   {
@@ -43,7 +55,7 @@
   },
   {
     "full_name": "miraheze/ManageWiki",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 4,
     "forks_count": 24
   },
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 41328,
-    "open_issues_count": 127,
-    "forks_count": 3183
+    "stargazers_count": 41426,
+    "open_issues_count": 109,
+    "forks_count": 3189
   },
   {
     "full_name": "harperreed/harper.tilde",
@@ -85,14 +97,14 @@
   },
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 20991,
-    "open_issues_count": 166,
-    "forks_count": 7316
+    "stargazers_count": 21026,
+    "open_issues_count": 167,
+    "forks_count": 7315
   },
   {
     "full_name": "bitlbee/bitlbee",
     "stargazers_count": 561,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 115
   },
   {
@@ -103,33 +115,33 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 968,
-    "open_issues_count": 44,
-    "forks_count": 50
+    "stargazers_count": 991,
+    "open_issues_count": 43,
+    "forks_count": 51
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 210272,
-    "open_issues_count": 350,
-    "forks_count": 37592
+    "stargazers_count": 210698,
+    "open_issues_count": 351,
+    "forks_count": 37676
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 463,
-    "open_issues_count": 12,
-    "forks_count": 98
+    "stargazers_count": 465,
+    "open_issues_count": 9,
+    "forks_count": 97
   },
   {
     "full_name": "kyb3r/logviewer",
     "stargazers_count": 75,
     "open_issues_count": 17,
-    "forks_count": 1064
+    "forks_count": 1073
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5286,
-    "open_issues_count": 30,
-    "forks_count": 817
+    "stargazers_count": 5294,
+    "open_issues_count": 26,
+    "forks_count": 819
   },
   {
     "full_name": "googlecreativelab/webvr-musicalforest",
@@ -151,13 +163,13 @@
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 5226,
-    "open_issues_count": 56,
+    "stargazers_count": 5245,
+    "open_issues_count": 53,
     "forks_count": 183
   },
   {
     "full_name": "samtay/so",
-    "stargazers_count": 1165,
+    "stargazers_count": 1170,
     "open_issues_count": 5,
     "forks_count": 26
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 56,
     "open_issues_count": 8,
     "forks_count": 3
-  },
-  {
-    "full_name": "ircv3/ircv3-specifications",
-    "stargazers_count": 751,
-    "open_issues_count": 77,
-    "forks_count": 76
-  },
-  {
-    "full_name": "mskian/my-termux-setup",
-    "stargazers_count": 171,
-    "open_issues_count": 1,
-    "forks_count": 17
   }
 ]
