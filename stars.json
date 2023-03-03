@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "martinkadlec0/hc-tcg",
+    "stargazers_count": 98,
+    "open_issues_count": 26,
+    "forks_count": 42
+  },
+  {
+    "full_name": "cdnjs/packages",
+    "stargazers_count": 312,
+    "open_issues_count": 34,
+    "forks_count": 255
+  },
+  {
     "full_name": "ajhalili2006/tildeverse-web",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 2118,
+    "stargazers_count": 2122,
     "open_issues_count": 28,
     "forks_count": 113
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 649,
+    "stargazers_count": 651,
     "open_issues_count": 13,
-    "forks_count": 63
+    "forks_count": 68
   },
   {
     "full_name": "FutureMillennium/Screenshot-YouTube",
@@ -31,7 +43,7 @@
   },
   {
     "full_name": "agowa338/WSL-DistroLauncher-Alpine",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 2,
     "forks_count": 30
   },
@@ -43,26 +55,26 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 6984,
-    "open_issues_count": 166,
-    "forks_count": 415
+    "stargazers_count": 7010,
+    "open_issues_count": 165,
+    "forks_count": 418
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 625,
-    "open_issues_count": 28,
+    "stargazers_count": 628,
+    "open_issues_count": 30,
     "forks_count": 33
   },
   {
     "full_name": "karelklima/ldkit",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 11,
     "forks_count": 1
   },
   {
     "full_name": "miraheze/ManageWiki",
     "stargazers_count": 24,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 24
   },
   {
@@ -73,9 +85,9 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 41934,
+    "stargazers_count": 42011,
     "open_issues_count": 78,
-    "forks_count": 3223
+    "forks_count": 3230
   },
   {
     "full_name": "harperreed/harper.tilde",
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 21187,
+    "stargazers_count": 21203,
     "open_issues_count": 161,
-    "forks_count": 7367
+    "forks_count": 7375
   },
   {
     "full_name": "bitlbee/bitlbee",
@@ -121,31 +133,31 @@
   },
   {
     "full_name": "devcontainers/spec",
-    "stargazers_count": 1057,
-    "open_issues_count": 46,
+    "stargazers_count": 1076,
+    "open_issues_count": 48,
     "forks_count": 55
   },
   {
     "full_name": "donnemartin/system-design-primer",
-    "stargazers_count": 212512,
+    "stargazers_count": 212894,
     "open_issues_count": 359,
-    "forks_count": 37967
+    "forks_count": 38022
   },
   {
     "full_name": "Xe/site",
-    "stargazers_count": 465,
-    "open_issues_count": 13,
+    "stargazers_count": 466,
+    "open_issues_count": 12,
     "forks_count": 98
   },
   {
     "full_name": "kyb3r/logviewer",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 17,
-    "forks_count": 1074
+    "forks_count": 1076
   },
   {
     "full_name": "googlecreativelab/quickdraw-dataset",
-    "stargazers_count": 5320,
+    "stargazers_count": 5326,
     "open_issues_count": 27,
     "forks_count": 823
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 9
-  },
-  {
-    "full_name": "logto-io/logto",
-    "stargazers_count": 5308,
-    "open_issues_count": 51,
-    "forks_count": 190
-  },
-  {
-    "full_name": "samtay/so",
-    "stargazers_count": 1196,
-    "open_issues_count": 5,
-    "forks_count": 29
   }
 ]
