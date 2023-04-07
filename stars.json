@@ -1,20 +1,20 @@
 [
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58483,
+    "stargazers_count": 58514,
     "open_issues_count": 322,
-    "forks_count": 11373
+    "forks_count": 11383
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 459,
+    "stargazers_count": 461,
     "open_issues_count": 11,
     "forks_count": 22
   },
   {
     "full_name": "matrix-org/matrix-spec-proposals",
     "stargazers_count": 855,
-    "open_issues_count": 395,
+    "open_issues_count": 398,
     "forks_count": 348
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "cachix/cachix",
-    "stargazers_count": 564,
-    "open_issues_count": 77,
+    "stargazers_count": 565,
+    "open_issues_count": 78,
     "forks_count": 38
   },
   {
@@ -50,13 +50,13 @@
   {
     "full_name": "martinkadlec0/hc-tcg",
     "stargazers_count": 133,
-    "open_issues_count": 24,
-    "forks_count": 56
+    "open_issues_count": 27,
+    "forks_count": 57
   },
   {
     "full_name": "cdnjs/packages",
-    "stargazers_count": 312,
-    "open_issues_count": 27,
+    "stargazers_count": 313,
+    "open_issues_count": 31,
     "forks_count": 257
   },
   {
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 2175,
+    "stargazers_count": 2176,
     "open_issues_count": 28,
     "forks_count": 114
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 687,
+    "stargazers_count": 690,
     "open_issues_count": 15,
-    "forks_count": 71
+    "forks_count": 72
   },
   {
     "full_name": "FutureMillennium/Screenshot-YouTube",
     "stargazers_count": 91,
     "open_issues_count": 13,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "ajhalili2006/passwdstore-personal",
@@ -93,7 +93,7 @@
     "full_name": "agowa338/WSL-DistroLauncher-Alpine",
     "stargazers_count": 183,
     "open_issues_count": 3,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "markbates/grift",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 7269,
-    "open_issues_count": 185,
-    "forks_count": 435
+    "stargazers_count": 7287,
+    "open_issues_count": 181,
+    "forks_count": 436
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 669,
+    "stargazers_count": 672,
     "open_issues_count": 30,
     "forks_count": 36
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 42682,
+    "stargazers_count": 42783,
     "open_issues_count": 72,
-    "forks_count": 3251
+    "forks_count": 3265
   },
   {
     "full_name": "harperreed/harper.tilde",
@@ -158,19 +158,19 @@
   {
     "full_name": "matrix-org/matrix-public-archive",
     "stargazers_count": 46,
-    "open_issues_count": 39,
+    "open_issues_count": 38,
     "forks_count": 3
   },
   {
     "full_name": "nothings/stb",
-    "stargazers_count": 21517,
-    "open_issues_count": 163,
-    "forks_count": 7439
+    "stargazers_count": 21598,
+    "open_issues_count": 165,
+    "forks_count": 7460
   },
   {
     "full_name": "bitlbee/bitlbee",
     "stargazers_count": 566,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 117
   },
   {
