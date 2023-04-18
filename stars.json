@@ -1,14 +1,14 @@
 [
   {
     "full_name": "vivaxy/vscode-conventional-commits",
-    "stargazers_count": 231,
+    "stargazers_count": 232,
     "open_issues_count": 40,
     "forks_count": 23
   },
   {
     "full_name": "cabo/kramdown-rfc",
-    "stargazers_count": 147,
-    "open_issues_count": 58,
+    "stargazers_count": 149,
+    "open_issues_count": 57,
     "forks_count": 73
   },
   {
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4883,
-    "open_issues_count": 300,
-    "forks_count": 1551
+    "stargazers_count": 4885,
+    "open_issues_count": 301,
+    "forks_count": 1554
   },
   {
     "full_name": "benapetr/wikimedia-bot",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58571,
+    "stargazers_count": 58602,
     "open_issues_count": 322,
-    "forks_count": 11385
+    "forks_count": 11392
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 472,
-    "open_issues_count": 12,
+    "stargazers_count": 481,
+    "open_issues_count": 13,
     "forks_count": 22
   },
   {
     "full_name": "matrix-org/matrix-spec-proposals",
     "stargazers_count": 855,
-    "open_issues_count": 402,
-    "forks_count": 348
+    "open_issues_count": 403,
+    "forks_count": 349
   },
   {
     "full_name": "coda/openai-pack",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "cachix/cachix",
-    "stargazers_count": 572,
+    "stargazers_count": 574,
     "open_issues_count": 79,
     "forks_count": 38
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "martinkadlec0/hc-tcg",
-    "stargazers_count": 136,
+    "stargazers_count": 138,
     "open_issues_count": 24,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "cdnjs/packages",
-    "stargazers_count": 314,
-    "open_issues_count": 34,
-    "forks_count": 258
+    "stargazers_count": 315,
+    "open_issues_count": 41,
+    "forks_count": 259
   },
   {
     "full_name": "ajhalili2006/tildeverse-web",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 2184,
-    "open_issues_count": 28,
-    "forks_count": 113
+    "stargazers_count": 2192,
+    "open_issues_count": 29,
+    "forks_count": 112
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 696,
-    "open_issues_count": 17,
+    "stargazers_count": 697,
+    "open_issues_count": 18,
     "forks_count": 72
   },
   {
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 7332,
-    "open_issues_count": 185,
+    "stargazers_count": 7353,
+    "open_issues_count": 181,
     "forks_count": 439
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 677,
+    "stargazers_count": 678,
     "open_issues_count": 30,
     "forks_count": 35
   },
@@ -152,7 +152,7 @@
   {
     "full_name": "miraheze/ManageWiki",
     "stargazers_count": 24,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 25
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 42931,
+    "stargazers_count": 43041,
     "open_issues_count": 73,
-    "forks_count": 3280
+    "forks_count": 3287
   },
   {
     "full_name": "harperreed/harper.tilde",
