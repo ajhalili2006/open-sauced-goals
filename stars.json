@@ -7,15 +7,15 @@
   },
   {
     "full_name": "asdf-community/asdf-python",
-    "stargazers_count": 511,
-    "open_issues_count": 49,
+    "stargazers_count": 510,
+    "open_issues_count": 50,
     "forks_count": 47
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16192,
-    "open_issues_count": 3995,
-    "forks_count": 5233
+    "stargazers_count": 16227,
+    "open_issues_count": 4014,
+    "forks_count": 5242
   },
   {
     "full_name": "vivaxy/vscode-conventional-commits",
@@ -26,19 +26,19 @@
   {
     "full_name": "cabo/kramdown-rfc",
     "stargazers_count": 150,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 74
   },
   {
     "full_name": "ietf-tools/rfcxml-templates-and-schemas",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4902,
-    "open_issues_count": 306,
+    "stargazers_count": 4913,
+    "open_issues_count": 310,
     "forks_count": 1557
   },
   {
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58646,
+    "stargazers_count": 58654,
     "open_issues_count": 322,
-    "forks_count": 11395
+    "forks_count": 11400
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 494,
+    "stargazers_count": 497,
     "open_issues_count": 12,
     "forks_count": 22
   },
   {
     "full_name": "matrix-org/matrix-spec-proposals",
     "stargazers_count": 855,
-    "open_issues_count": 403,
-    "forks_count": 350
+    "open_issues_count": 405,
+    "forks_count": 353
   },
   {
     "full_name": "coda/openai-pack",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "cachix/cachix",
-    "stargazers_count": 579,
+    "stargazers_count": 582,
     "open_issues_count": 83,
     "forks_count": 39
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "jtojnar/nixfiles",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 4,
     "forks_count": 2
   },
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "martinkadlec0/hc-tcg",
-    "stargazers_count": 140,
-    "open_issues_count": 21,
+    "stargazers_count": 141,
+    "open_issues_count": 22,
     "forks_count": 59
   },
   {
     "full_name": "cdnjs/packages",
-    "stargazers_count": 316,
-    "open_issues_count": 44,
-    "forks_count": 259
+    "stargazers_count": 317,
+    "open_issues_count": 45,
+    "forks_count": 261
   },
   {
     "full_name": "ajhalili2006/tildeverse-web",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 2199,
+    "stargazers_count": 2207,
     "open_issues_count": 29,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 702,
-    "open_issues_count": 18,
+    "stargazers_count": 705,
+    "open_issues_count": 19,
     "forks_count": 73
   },
   {
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "agowa338/WSL-DistroLauncher-Alpine",
-    "stargazers_count": 183,
+    "stargazers_count": 184,
     "open_issues_count": 2,
     "forks_count": 31
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 7407,
-    "open_issues_count": 192,
-    "forks_count": 442
+    "stargazers_count": 7428,
+    "open_issues_count": 191,
+    "forks_count": 441
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 686,
+    "stargazers_count": 685,
     "open_issues_count": 29,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "karelklima/ldkit",
@@ -170,7 +170,7 @@
   {
     "full_name": "miraheze/ManageWiki",
     "stargazers_count": 24,
-    "open_issues_count": 7,
+    "open_issues_count": 6,
     "forks_count": 25
   },
   {
