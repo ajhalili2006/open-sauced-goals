@@ -1,21 +1,33 @@
 [
   {
-    "full_name": "Community-Lores/awesome-neurodiversity",
+    "full_name": "lorebooks-wiki/squad-collaborative-notes",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "microsoft/TypeScript",
+    "stargazers_count": 91031,
+    "open_issues_count": 6259,
+    "forks_count": 11733
+  },
+  {
+    "full_name": "lorebooks-wiki/awesome-neurodiversity",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
     "full_name": "asdf-community/asdf-python",
-    "stargazers_count": 515,
+    "stargazers_count": 516,
     "open_issues_count": 49,
     "forks_count": 47
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16299,
-    "open_issues_count": 4048,
-    "forks_count": 5259
+    "stargazers_count": 16348,
+    "open_issues_count": 4055,
+    "forks_count": 5260
   },
   {
     "full_name": "vivaxy/vscode-conventional-commits",
@@ -37,9 +49,9 @@
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4924,
-    "open_issues_count": 317,
-    "forks_count": 1558
+    "stargazers_count": 4925,
+    "open_issues_count": 311,
+    "forks_count": 1557
   },
   {
     "full_name": "benapetr/wikimedia-bot",
@@ -49,26 +61,26 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58711,
+    "stargazers_count": 58747,
     "open_issues_count": 322,
-    "forks_count": 11407
+    "forks_count": 11408
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 517,
+    "stargazers_count": 529,
     "open_issues_count": 13,
     "forks_count": 22
   },
   {
     "full_name": "matrix-org/matrix-spec-proposals",
-    "stargazers_count": 858,
-    "open_issues_count": 408,
+    "stargazers_count": 860,
+    "open_issues_count": 405,
     "forks_count": 355
   },
   {
     "full_name": "coda/openai-pack",
     "stargazers_count": 11,
-    "open_issues_count": 4,
+    "open_issues_count": 12,
     "forks_count": 4
   },
   {
@@ -97,14 +109,14 @@
   },
   {
     "full_name": "martinkadlec0/hc-tcg",
-    "stargazers_count": 143,
-    "open_issues_count": 22,
-    "forks_count": 59
+    "stargazers_count": 142,
+    "open_issues_count": 23,
+    "forks_count": 60
   },
   {
     "full_name": "cdnjs/packages",
-    "stargazers_count": 317,
-    "open_issues_count": 38,
+    "stargazers_count": 318,
+    "open_issues_count": 39,
     "forks_count": 263
   },
   {
@@ -115,19 +127,19 @@
   },
   {
     "full_name": "httpcats/http.cat",
-    "stargazers_count": 2220,
-    "open_issues_count": 29,
-    "forks_count": 116
+    "stargazers_count": 2232,
+    "open_issues_count": 30,
+    "forks_count": 118
   },
   {
     "full_name": "simonw/til",
-    "stargazers_count": 711,
+    "stargazers_count": 714,
     "open_issues_count": 17,
     "forks_count": 74
   },
   {
     "full_name": "FutureMillennium/Screenshot-YouTube",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 10,
     "forks_count": 24
   },
@@ -151,14 +163,14 @@
   },
   {
     "full_name": "go-task/task",
-    "stargazers_count": 7461,
-    "open_issues_count": 193,
+    "stargazers_count": 7481,
+    "open_issues_count": 190,
     "forks_count": 443
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 686,
-    "open_issues_count": 29,
+    "stargazers_count": 687,
+    "open_issues_count": 32,
     "forks_count": 37
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 26,
     "open_issues_count": 12,
     "forks_count": 2
-  },
-  {
-    "full_name": "miraheze/ManageWiki",
-    "stargazers_count": 24,
-    "open_issues_count": 5,
-    "forks_count": 25
-  },
-  {
-    "full_name": "RecapTime/.github",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
