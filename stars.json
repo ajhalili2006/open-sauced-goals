@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "lapce/lapce",
+    "stargazers_count": 25540,
+    "open_issues_count": 640,
+    "forks_count": 765
+  },
+  {
+    "full_name": "stripe/vscode-stripe",
+    "stargazers_count": 110,
+    "open_issues_count": 56,
+    "forks_count": 30
+  },
+  {
+    "full_name": "RecapTime/squad-bots",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "keybase/go-keybase-chat-bot",
     "stargazers_count": 107,
     "open_issues_count": 5,
@@ -7,14 +25,14 @@
   },
   {
     "full_name": "zerossl/zerossl-bot",
-    "stargazers_count": 161,
+    "stargazers_count": 160,
     "open_issues_count": 4,
     "forks_count": 55
   },
   {
     "full_name": "immers-space/activitypub-express",
     "stargazers_count": 214,
-    "open_issues_count": 21,
+    "open_issues_count": 23,
     "forks_count": 18
   },
   {
@@ -26,20 +44,20 @@
   {
     "full_name": "storj/gateway-mt",
     "stargazers_count": 36,
-    "open_issues_count": 98,
+    "open_issues_count": 97,
     "forks_count": 16
   },
   {
     "full_name": "megaease/Remembering-Haoel",
-    "stargazers_count": 1845,
-    "open_issues_count": 11,
-    "forks_count": 118
+    "stargazers_count": 2339,
+    "open_issues_count": 14,
+    "forks_count": 225
   },
   {
     "full_name": "hendricius/the-sourdough-framework",
-    "stargazers_count": 1928,
-    "open_issues_count": 7,
-    "forks_count": 92
+    "stargazers_count": 2128,
+    "open_issues_count": 5,
+    "forks_count": 126
   },
   {
     "full_name": "ajhalili2006-experiments/kooky-insane-stuff",
@@ -51,13 +69,13 @@
     "full_name": "ProjectSegfault/website",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 89422,
-    "open_issues_count": 1348,
-    "forks_count": 4859
+    "stargazers_count": 89469,
+    "open_issues_count": 1336,
+    "forks_count": 4862
   },
   {
     "full_name": "RecapTime/infra-monitoring",
@@ -67,7 +85,7 @@
   },
   {
     "full_name": "phusion/baseimage-docker",
-    "stargazers_count": 8698,
+    "stargazers_count": 8701,
     "open_issues_count": 4,
     "forks_count": 1099
   },
@@ -79,9 +97,9 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 91299,
-    "open_issues_count": 6308,
-    "forks_count": 11758
+    "stargazers_count": 91387,
+    "open_issues_count": 6309,
+    "forks_count": 11774
   },
   {
     "full_name": "lorebooks-wiki/awesome-neurodiversity",
@@ -92,18 +110,18 @@
   {
     "full_name": "asdf-community/asdf-python",
     "stargazers_count": 516,
-    "open_issues_count": 50,
+    "open_issues_count": 51,
     "forks_count": 47
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16461,
-    "open_issues_count": 4081,
-    "forks_count": 5290
+    "stargazers_count": 16499,
+    "open_issues_count": 4084,
+    "forks_count": 5298
   },
   {
     "full_name": "vivaxy/vscode-conventional-commits",
-    "stargazers_count": 234,
+    "stargazers_count": 236,
     "open_issues_count": 41,
     "forks_count": 25
   },
@@ -111,7 +129,7 @@
     "full_name": "cabo/kramdown-rfc",
     "stargazers_count": 152,
     "open_issues_count": 54,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "ietf-tools/rfcxml-templates-and-schemas",
@@ -121,9 +139,9 @@
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4930,
-    "open_issues_count": 309,
-    "forks_count": 1555
+    "stargazers_count": 4936,
+    "open_issues_count": 310,
+    "forks_count": 1556
   },
   {
     "full_name": "benapetr/wikimedia-bot",
@@ -133,50 +151,32 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58821,
+    "stargazers_count": 58847,
     "open_issues_count": 322,
-    "forks_count": 11413
+    "forks_count": 11422
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 586,
+    "stargazers_count": 599,
     "open_issues_count": 14,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "matrix-org/matrix-spec-proposals",
-    "stargazers_count": 861,
-    "open_issues_count": 406,
+    "stargazers_count": 863,
+    "open_issues_count": 408,
     "forks_count": 355
   },
   {
     "full_name": "coda/openai-pack",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 12,
     "forks_count": 4
   },
   {
     "full_name": "cachix/cachix",
-    "stargazers_count": 589,
-    "open_issues_count": 85,
+    "stargazers_count": 591,
+    "open_issues_count": 84,
     "forks_count": 39
-  },
-  {
-    "full_name": "shazow/nixfiles",
-    "stargazers_count": 23,
-    "open_issues_count": 1,
-    "forks_count": 6
-  },
-  {
-    "full_name": "jtojnar/nixfiles",
-    "stargazers_count": 39,
-    "open_issues_count": 4,
-    "forks_count": 2
-  },
-  {
-    "full_name": "Vivien-lelouette/nixos-configuration",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
