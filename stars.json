@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 25540,
-    "open_issues_count": 640,
-    "forks_count": 765
+    "stargazers_count": 25580,
+    "open_issues_count": 638,
+    "forks_count": 767
   },
   {
     "full_name": "stripe/vscode-stripe",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "immers-space/activitypub-express",
-    "stargazers_count": 214,
+    "stargazers_count": 215,
     "open_issues_count": 23,
     "forks_count": 18
   },
@@ -44,20 +44,20 @@
   {
     "full_name": "storj/gateway-mt",
     "stargazers_count": 36,
-    "open_issues_count": 97,
+    "open_issues_count": 96,
     "forks_count": 16
   },
   {
     "full_name": "megaease/Remembering-Haoel",
-    "stargazers_count": 2339,
+    "stargazers_count": 2447,
     "open_issues_count": 14,
-    "forks_count": 225
+    "forks_count": 234
   },
   {
     "full_name": "hendricius/the-sourdough-framework",
-    "stargazers_count": 2128,
-    "open_issues_count": 5,
-    "forks_count": 126
+    "stargazers_count": 2174,
+    "open_issues_count": 6,
+    "forks_count": 127
   },
   {
     "full_name": "ajhalili2006-experiments/kooky-insane-stuff",
@@ -69,13 +69,13 @@
     "full_name": "ProjectSegfault/website",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 4
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 89469,
-    "open_issues_count": 1336,
-    "forks_count": 4862
+    "stargazers_count": 89511,
+    "open_issues_count": 1352,
+    "forks_count": 4867
   },
   {
     "full_name": "RecapTime/infra-monitoring",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "phusion/baseimage-docker",
-    "stargazers_count": 8701,
+    "stargazers_count": 8702,
     "open_issues_count": 4,
-    "forks_count": 1099
+    "forks_count": 1100
   },
   {
     "full_name": "lorebooks-wiki/squad-collaborative-notes",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 91387,
-    "open_issues_count": 6309,
-    "forks_count": 11774
+    "stargazers_count": 91483,
+    "open_issues_count": 6315,
+    "forks_count": 11778
   },
   {
     "full_name": "lorebooks-wiki/awesome-neurodiversity",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "asdf-community/asdf-python",
-    "stargazers_count": 516,
+    "stargazers_count": 518,
     "open_issues_count": 51,
     "forks_count": 47
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16499,
-    "open_issues_count": 4084,
-    "forks_count": 5298
+    "stargazers_count": 16545,
+    "open_issues_count": 4087,
+    "forks_count": 5310
   },
   {
     "full_name": "vivaxy/vscode-conventional-commits",
-    "stargazers_count": 236,
+    "stargazers_count": 238,
     "open_issues_count": 41,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "cabo/kramdown-rfc",
@@ -139,33 +139,33 @@
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4936,
+    "stargazers_count": 4943,
     "open_issues_count": 310,
-    "forks_count": 1556
+    "forks_count": 1558
   },
   {
     "full_name": "benapetr/wikimedia-bot",
     "stargazers_count": 36,
     "open_issues_count": 4,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58847,
+    "stargazers_count": 58869,
     "open_issues_count": 322,
-    "forks_count": 11422
+    "forks_count": 11428
   },
   {
     "full_name": "oxalica/nil",
-    "stargazers_count": 599,
-    "open_issues_count": 14,
-    "forks_count": 23
+    "stargazers_count": 606,
+    "open_issues_count": 16,
+    "forks_count": 24
   },
   {
     "full_name": "matrix-org/matrix-spec-proposals",
     "stargazers_count": 863,
     "open_issues_count": 408,
-    "forks_count": 355
+    "forks_count": 354
   },
   {
     "full_name": "coda/openai-pack",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cachix/cachix",
-    "stargazers_count": 591,
-    "open_issues_count": 84,
+    "stargazers_count": 593,
+    "open_issues_count": 86,
     "forks_count": 39
   }
 ]
