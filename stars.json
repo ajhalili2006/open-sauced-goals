@@ -8,26 +8,26 @@
   {
     "full_name": "nodejs/admin",
     "stargazers_count": 133,
-    "open_issues_count": 61,
+    "open_issues_count": 60,
     "forks_count": 171
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 17987,
-    "open_issues_count": 2896,
-    "forks_count": 6342
+    "stargazers_count": 18002,
+    "open_issues_count": 2903,
+    "forks_count": 6345
   },
   {
     "full_name": "dlemstra/magick-wasm",
-    "stargazers_count": 302,
-    "open_issues_count": 3,
+    "stargazers_count": 304,
+    "open_issues_count": 4,
     "forks_count": 20
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 25937,
-    "open_issues_count": 657,
-    "forks_count": 774
+    "stargazers_count": 26003,
+    "open_issues_count": 664,
+    "forks_count": 775
   },
   {
     "full_name": "stripe/vscode-stripe",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "megaease/Remembering-Haoel",
-    "stargazers_count": 2588,
-    "open_issues_count": 14,
-    "forks_count": 251
+    "stargazers_count": 2594,
+    "open_issues_count": 16,
+    "forks_count": 253
   },
   {
     "full_name": "hendricius/the-sourdough-framework",
-    "stargazers_count": 2250,
-    "open_issues_count": 5,
-    "forks_count": 131
+    "stargazers_count": 2257,
+    "open_issues_count": 7,
+    "forks_count": 132
   },
   {
     "full_name": "ajhalili2006-experiments/kooky-insane-stuff",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 89798,
-    "open_issues_count": 1368,
-    "forks_count": 4887
+    "stargazers_count": 89843,
+    "open_issues_count": 1384,
+    "forks_count": 4891
   },
   {
     "full_name": "RecapTime/infra-monitoring",
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "phusion/baseimage-docker",
-    "stargazers_count": 8712,
+    "stargazers_count": 8714,
     "open_issues_count": 4,
     "forks_count": 1102
   },
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 92047,
-    "open_issues_count": 6285,
-    "forks_count": 11844
+    "stargazers_count": 92134,
+    "open_issues_count": 6308,
+    "forks_count": 11870
   },
   {
     "full_name": "awesome-neurodiversity/awesome-neurodiversity",
@@ -133,25 +133,25 @@
   },
   {
     "full_name": "asdf-community/asdf-python",
-    "stargazers_count": 522,
+    "stargazers_count": 525,
     "open_issues_count": 51,
     "forks_count": 48
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16746,
-    "open_issues_count": 4122,
-    "forks_count": 5364
+    "stargazers_count": 16779,
+    "open_issues_count": 4109,
+    "forks_count": 5372
   },
   {
     "full_name": "vivaxy/vscode-conventional-commits",
-    "stargazers_count": 238,
-    "open_issues_count": 42,
+    "stargazers_count": 239,
+    "open_issues_count": 43,
     "forks_count": 25
   },
   {
     "full_name": "cabo/kramdown-rfc",
-    "stargazers_count": 156,
+    "stargazers_count": 157,
     "open_issues_count": 56,
     "forks_count": 77
   },
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4969,
-    "open_issues_count": 311,
+    "stargazers_count": 4974,
+    "open_issues_count": 312,
     "forks_count": 1561
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "adam-p/markdown-here",
-    "stargazers_count": 58976,
+    "stargazers_count": 59001,
     "open_issues_count": 322,
-    "forks_count": 11442
+    "forks_count": 11446
   }
 ]
