@@ -14,25 +14,25 @@
   {
     "full_name": "nodejs/admin",
     "stargazers_count": 132,
-    "open_issues_count": 59,
+    "open_issues_count": 57,
     "forks_count": 171
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 18046,
-    "open_issues_count": 2896,
-    "forks_count": 6360
+    "stargazers_count": 18070,
+    "open_issues_count": 2894,
+    "forks_count": 6369
   },
   {
     "full_name": "dlemstra/magick-wasm",
-    "stargazers_count": 307,
+    "stargazers_count": 309,
     "open_issues_count": 3,
     "forks_count": 20
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 26066,
-    "open_issues_count": 666,
+    "stargazers_count": 26086,
+    "open_issues_count": 668,
     "forks_count": 778
   },
   {
@@ -79,13 +79,13 @@
   },
   {
     "full_name": "megaease/Remembering-Haoel",
-    "stargazers_count": 2609,
-    "open_issues_count": 15,
+    "stargazers_count": 2614,
+    "open_issues_count": 14,
     "forks_count": 254
   },
   {
     "full_name": "hendricius/the-sourdough-framework",
-    "stargazers_count": 2263,
+    "stargazers_count": 2265,
     "open_issues_count": 6,
     "forks_count": 132
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 89917,
-    "open_issues_count": 1410,
-    "forks_count": 4903
+    "stargazers_count": 89953,
+    "open_issues_count": 1416,
+    "forks_count": 4912
   },
   {
     "full_name": "RecapTime/infra-monitoring",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "phusion/baseimage-docker",
-    "stargazers_count": 8720,
+    "stargazers_count": 8723,
     "open_issues_count": 4,
     "forks_count": 1102
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 92290,
-    "open_issues_count": 6193,
-    "forks_count": 11900
+    "stargazers_count": 92344,
+    "open_issues_count": 6200,
+    "forks_count": 11910
   },
   {
     "full_name": "awesome-neurodiversity/awesome-neurodiversity",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "OpenAPITools/openapi-generator",
-    "stargazers_count": 16839,
-    "open_issues_count": 4125,
-    "forks_count": 5397
+    "stargazers_count": 16882,
+    "open_issues_count": 4134,
+    "forks_count": 5410
   },
   {
     "full_name": "vivaxy/vscode-conventional-commits",
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "roundcube/roundcubemail",
-    "stargazers_count": 4984,
-    "open_issues_count": 309,
+    "stargazers_count": 4986,
+    "open_issues_count": 312,
     "forks_count": 1560
   },
   {
