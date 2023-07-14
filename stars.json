@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "canonical/lxd",
+    "stargazers_count": 3970,
+    "open_issues_count": 102,
+    "forks_count": 872
+  },
+  {
+    "full_name": "actions/gh-actions-cache",
+    "stargazers_count": 241,
+    "open_issues_count": 10,
+    "forks_count": 54
+  },
+  {
     "full_name": "discourse/discourse-solved",
     "stargazers_count": 155,
     "open_issues_count": 1,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "nix-community/rnix-lsp",
-    "stargazers_count": 627,
+    "stargazers_count": 628,
     "open_issues_count": 21,
     "forks_count": 44
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4588,
-    "open_issues_count": 114,
-    "forks_count": 287
+    "stargazers_count": 4623,
+    "open_issues_count": 126,
+    "forks_count": 301
   },
   {
     "full_name": "tailscale/terms-and-conditions",
@@ -26,20 +38,20 @@
   {
     "full_name": "upciti/wakemeops",
     "stargazers_count": 86,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 243945,
-    "open_issues_count": 523,
-    "forks_count": 34276
+    "stargazers_count": 244214,
+    "open_issues_count": 518,
+    "forks_count": 34298
   },
   {
     "full_name": "MetaMask/metamask-extension",
-    "stargazers_count": 10225,
-    "open_issues_count": 2059,
-    "forks_count": 4237
+    "stargazers_count": 10235,
+    "open_issues_count": 2062,
+    "forks_count": 4242
   },
   {
     "full_name": "hackerschoice/segfault",
@@ -62,14 +74,14 @@
   {
     "full_name": "nodejs/admin",
     "stargazers_count": 133,
-    "open_issues_count": 58,
+    "open_issues_count": 55,
     "forks_count": 172
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 18111,
-    "open_issues_count": 2891,
-    "forks_count": 6394
+    "stargazers_count": 18129,
+    "open_issues_count": 2867,
+    "forks_count": 6396
   },
   {
     "full_name": "dlemstra/magick-wasm",
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 26202,
-    "open_issues_count": 666,
-    "forks_count": 786
+    "stargazers_count": 26238,
+    "open_issues_count": 668,
+    "forks_count": 785
   },
   {
     "full_name": "stripe/vscode-stripe",
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "keybase/go-keybase-chat-bot",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 5,
     "forks_count": 40
   },
@@ -109,7 +121,7 @@
   },
   {
     "full_name": "immers-space/activitypub-express",
-    "stargazers_count": 234,
+    "stargazers_count": 237,
     "open_issues_count": 22,
     "forks_count": 18
   },
@@ -122,19 +134,19 @@
   {
     "full_name": "storj/gateway-mt",
     "stargazers_count": 37,
-    "open_issues_count": 100,
+    "open_issues_count": 101,
     "forks_count": 15
   },
   {
     "full_name": "megaease/Remembering-Haoel",
-    "stargazers_count": 2636,
+    "stargazers_count": 2647,
     "open_issues_count": 14,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "hendricius/the-sourdough-framework",
-    "stargazers_count": 2272,
-    "open_issues_count": 1,
+    "stargazers_count": 2277,
+    "open_issues_count": 2,
     "forks_count": 133
   },
   {
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 90050,
-    "open_issues_count": 1441,
-    "forks_count": 4926
+    "stargazers_count": 90069,
+    "open_issues_count": 1453,
+    "forks_count": 4930
   },
   {
     "full_name": "RecapTime/infra-monitoring",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "phusion/baseimage-docker",
-    "stargazers_count": 8725,
+    "stargazers_count": 8726,
     "open_issues_count": 4,
     "forks_count": 1101
-  },
-  {
-    "full_name": "lorebooks-wiki/squad-collaborative-notes",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "microsoft/TypeScript",
-    "stargazers_count": 92585,
-    "open_issues_count": 6114,
-    "forks_count": 11954
   }
 ]
