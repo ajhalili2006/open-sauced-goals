@@ -1,19 +1,43 @@
 [
   {
+    "full_name": "ajhalili2006/digital-garden",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "foambubble/foam",
+    "stargazers_count": 13945,
+    "open_issues_count": 84,
+    "forks_count": 592
+  },
+  {
+    "full_name": "SOBotics/Boson",
+    "stargazers_count": 4,
+    "open_issues_count": 5,
+    "forks_count": 6
+  },
+  {
+    "full_name": "filips123/PWAsForFirefox",
+    "stargazers_count": 1480,
+    "open_issues_count": 33,
+    "forks_count": 35
+  },
+  {
     "full_name": "misskey-dev/misskey",
-    "stargazers_count": 7734,
-    "open_issues_count": 1601,
-    "forks_count": 985
+    "stargazers_count": 7819,
+    "open_issues_count": 1621,
+    "forks_count": 999
   },
   {
     "full_name": "sylhare/Type-on-Strap",
     "stargazers_count": 743,
     "open_issues_count": 5,
-    "forks_count": 846
+    "forks_count": 850
   },
   {
     "full_name": "pages-themes/hacker",
-    "stargazers_count": 787,
+    "stargazers_count": 790,
     "open_issues_count": 48,
     "forks_count": 1086
   },
@@ -21,19 +45,19 @@
     "full_name": "mmistakes/jekyll-theme-basically-basic",
     "stargazers_count": 797,
     "open_issues_count": 10,
-    "forks_count": 1203
+    "forks_count": 1204
   },
   {
     "full_name": "kitian616/jekyll-TeXt-theme",
     "stargazers_count": 2842,
     "open_issues_count": 159,
-    "forks_count": 2369
+    "forks_count": 2372
   },
   {
     "full_name": "pages-themes/cayman",
-    "stargazers_count": 1047,
+    "stargazers_count": 1046,
     "open_issues_count": 38,
-    "forks_count": 2957
+    "forks_count": 2956
   },
   {
     "full_name": "jarrekk/Jalpc",
@@ -49,25 +73,25 @@
   },
   {
     "full_name": "Lxtharia/minegrub-theme",
-    "stargazers_count": 1475,
-    "open_issues_count": 2,
-    "forks_count": 16
+    "stargazers_count": 2333,
+    "open_issues_count": 3,
+    "forks_count": 20
   },
   {
     "full_name": "quay/quay",
-    "stargazers_count": 2214,
-    "open_issues_count": 55,
+    "stargazers_count": 2215,
+    "open_issues_count": 59,
     "forks_count": 249
   },
   {
     "full_name": "canonical/lxd",
-    "stargazers_count": 3985,
-    "open_issues_count": 87,
-    "forks_count": 876
+    "stargazers_count": 3991,
+    "open_issues_count": 92,
+    "forks_count": 875
   },
   {
     "full_name": "actions/gh-actions-cache",
-    "stargazers_count": 244,
+    "stargazers_count": 246,
     "open_issues_count": 10,
     "forks_count": 56
   },
@@ -79,15 +103,15 @@
   },
   {
     "full_name": "nix-community/rnix-lsp",
-    "stargazers_count": 631,
+    "stargazers_count": 635,
     "open_issues_count": 21,
     "forks_count": 44
   },
   {
     "full_name": "bluesky-social/atproto",
-    "stargazers_count": 4689,
-    "open_issues_count": 121,
-    "forks_count": 306
+    "stargazers_count": 4703,
+    "open_issues_count": 119,
+    "forks_count": 308
   },
   {
     "full_name": "tailscale/terms-and-conditions",
@@ -103,19 +127,19 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 244931,
-    "open_issues_count": 546,
-    "forks_count": 34362
+    "stargazers_count": 245248,
+    "open_issues_count": 553,
+    "forks_count": 34378
   },
   {
     "full_name": "MetaMask/metamask-extension",
-    "stargazers_count": 10267,
-    "open_issues_count": 2082,
-    "forks_count": 4271
+    "stargazers_count": 10292,
+    "open_issues_count": 2056,
+    "forks_count": 4281
   },
   {
     "full_name": "hackerschoice/segfault",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 27,
     "forks_count": 24
   },
@@ -139,9 +163,9 @@
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 18160,
-    "open_issues_count": 2856,
-    "forks_count": 6409
+    "stargazers_count": 18177,
+    "open_issues_count": 2853,
+    "forks_count": 6412
   },
   {
     "full_name": "dlemstra/magick-wasm",
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 26287,
-    "open_issues_count": 661,
-    "forks_count": 788
-  },
-  {
-    "full_name": "stripe/vscode-stripe",
-    "stargazers_count": 109,
-    "open_issues_count": 59,
-    "forks_count": 32
-  },
-  {
-    "full_name": "recaptime-dev/squad-bots",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "keybase/go-keybase-chat-bot",
-    "stargazers_count": 108,
-    "open_issues_count": 5,
-    "forks_count": 40
-  },
-  {
-    "full_name": "zerossl/zerossl-bot",
-    "stargazers_count": 168,
-    "open_issues_count": 4,
-    "forks_count": 57
+    "stargazers_count": 26325,
+    "open_issues_count": 665,
+    "forks_count": 791
   }
 ]
