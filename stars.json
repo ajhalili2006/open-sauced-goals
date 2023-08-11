@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "recaptime-dev/website-next",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "MarkMindCkm/obsidian-markmind",
+    "stargazers_count": 555,
+    "open_issues_count": 404,
+    "forks_count": 25
+  },
+  {
     "full_name": "cirruslabs/cirrus-ci-docs",
     "stargazers_count": 325,
-    "open_issues_count": 82,
+    "open_issues_count": 83,
     "forks_count": 128
   },
   {
@@ -20,14 +32,14 @@
   {
     "full_name": "rubygems/rubygems.org",
     "stargazers_count": 2203,
-    "open_issues_count": 77,
+    "open_issues_count": 80,
     "forks_count": 927
   },
   {
     "full_name": "kagisearch/kagi-docs",
-    "stargazers_count": 42,
-    "open_issues_count": 3,
-    "forks_count": 60
+    "stargazers_count": 43,
+    "open_issues_count": 2,
+    "forks_count": 61
   },
   {
     "full_name": "HeIIow2/music-downloader",
@@ -37,8 +49,8 @@
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1537,
-    "open_issues_count": 6,
+    "stargazers_count": 1577,
+    "open_issues_count": 5,
     "forks_count": 29
   },
   {
@@ -55,49 +67,49 @@
   },
   {
     "full_name": "massgravel/Microsoft-Activation-Scripts",
-    "stargazers_count": 39117,
+    "stargazers_count": 39346,
     "open_issues_count": 1,
-    "forks_count": 4215
+    "forks_count": 4237
   },
   {
     "full_name": "GoogleChrome/chromium-dashboard",
-    "stargazers_count": 592,
-    "open_issues_count": 412,
+    "stargazers_count": 593,
+    "open_issues_count": 408,
     "forks_count": 454
   },
   {
     "full_name": "sonnyp/Commit",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 16,
     "forks_count": 21
   },
   {
     "full_name": "SunLab-GMU/PySecDB",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 4874,
-    "open_issues_count": 443,
-    "forks_count": 393
+    "stargazers_count": 4902,
+    "open_issues_count": 444,
+    "forks_count": 396
   },
   {
     "full_name": "git-lfs/git-lfs",
-    "stargazers_count": 11683,
-    "open_issues_count": 322,
-    "forks_count": 2200
+    "stargazers_count": 11692,
+    "open_issues_count": 326,
+    "forks_count": 2203
   },
   {
     "full_name": "apple/password-manager-resources",
-    "stargazers_count": 3823,
+    "stargazers_count": 3824,
     "open_issues_count": 93,
-    "forks_count": 423
+    "forks_count": 424
   },
   {
     "full_name": "mozilla/FirefoxColor",
-    "stargazers_count": 408,
+    "stargazers_count": 411,
     "open_issues_count": 110,
     "forks_count": 103
   },
@@ -121,7 +133,7 @@
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13982,
+    "stargazers_count": 13992,
     "open_issues_count": 83,
     "forks_count": 594
   },
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "filips123/PWAsForFirefox",
-    "stargazers_count": 1513,
-    "open_issues_count": 31,
+    "stargazers_count": 1519,
+    "open_issues_count": 32,
     "forks_count": 35
   },
   {
     "full_name": "misskey-dev/misskey",
-    "stargazers_count": 8151,
-    "open_issues_count": 1655,
-    "forks_count": 1032
+    "stargazers_count": 8177,
+    "open_issues_count": 1809,
+    "forks_count": 1038
   },
   {
     "full_name": "sylhare/Type-on-Strap",
-    "stargazers_count": 744,
-    "open_issues_count": 4,
-    "forks_count": 852
+    "stargazers_count": 746,
+    "open_issues_count": 2,
+    "forks_count": 853
   },
   {
     "full_name": "pages-themes/hacker",
     "stargazers_count": 795,
     "open_issues_count": 49,
-    "forks_count": 1085
+    "forks_count": 1087
   },
   {
     "full_name": "mmistakes/jekyll-theme-basically-basic",
-    "stargazers_count": 796,
+    "stargazers_count": 797,
     "open_issues_count": 10,
-    "forks_count": 1201
+    "forks_count": 1202
   },
   {
     "full_name": "kitian616/jekyll-TeXt-theme",
-    "stargazers_count": 2851,
+    "stargazers_count": 2856,
     "open_issues_count": 159,
-    "forks_count": 2378
-  },
-  {
-    "full_name": "pages-themes/cayman",
-    "stargazers_count": 1051,
-    "open_issues_count": 38,
-    "forks_count": 2968
-  },
-  {
-    "full_name": "jarrekk/Jalpc",
-    "stargazers_count": 978,
-    "open_issues_count": 40,
-    "forks_count": 1096
+    "forks_count": 2385
   }
 ]
