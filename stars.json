@@ -1,20 +1,44 @@
 [
   {
+    "full_name": "siyuan-note/siyuan",
+    "stargazers_count": 11769,
+    "open_issues_count": 67,
+    "forks_count": 894
+  },
+  {
+    "full_name": "pacstall/pacstall-programs",
+    "stargazers_count": 113,
+    "open_issues_count": 123,
+    "forks_count": 88
+  },
+  {
+    "full_name": "imgbot/Imgbot",
+    "stargazers_count": 1099,
+    "open_issues_count": 61,
+    "forks_count": 297
+  },
+  {
+    "full_name": "recaptime-dev/squad",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "recaptime-dev/website-next",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "MarkMindCkm/obsidian-markmind",
-    "stargazers_count": 555,
-    "open_issues_count": 404,
+    "stargazers_count": 559,
+    "open_issues_count": 405,
     "forks_count": 25
   },
   {
     "full_name": "cirruslabs/cirrus-ci-docs",
-    "stargazers_count": 325,
-    "open_issues_count": 83,
+    "stargazers_count": 328,
+    "open_issues_count": 80,
     "forks_count": 128
   },
   {
@@ -31,14 +55,14 @@
   },
   {
     "full_name": "rubygems/rubygems.org",
-    "stargazers_count": 2203,
-    "open_issues_count": 80,
-    "forks_count": 927
+    "stargazers_count": 2204,
+    "open_issues_count": 78,
+    "forks_count": 929
   },
   {
     "full_name": "kagisearch/kagi-docs",
     "stargazers_count": 43,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 61
   },
   {
@@ -49,9 +73,9 @@
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1577,
-    "open_issues_count": 5,
-    "forks_count": 29
+    "stargazers_count": 1595,
+    "open_issues_count": 6,
+    "forks_count": 30
   },
   {
     "full_name": "muffinista/rust-rss-to-fedi",
@@ -67,19 +91,19 @@
   },
   {
     "full_name": "massgravel/Microsoft-Activation-Scripts",
-    "stargazers_count": 39346,
+    "stargazers_count": 39699,
     "open_issues_count": 1,
-    "forks_count": 4237
+    "forks_count": 4260
   },
   {
     "full_name": "GoogleChrome/chromium-dashboard",
-    "stargazers_count": 593,
-    "open_issues_count": 408,
+    "stargazers_count": 594,
+    "open_issues_count": 411,
     "forks_count": 454
   },
   {
     "full_name": "sonnyp/Commit",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 16,
     "forks_count": 21
   },
@@ -91,21 +115,21 @@
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 4902,
-    "open_issues_count": 444,
-    "forks_count": 396
+    "stargazers_count": 4937,
+    "open_issues_count": 459,
+    "forks_count": 400
   },
   {
     "full_name": "git-lfs/git-lfs",
-    "stargazers_count": 11692,
-    "open_issues_count": 326,
-    "forks_count": 2203
+    "stargazers_count": 11702,
+    "open_issues_count": 327,
+    "forks_count": 2206
   },
   {
     "full_name": "apple/password-manager-resources",
-    "stargazers_count": 3824,
-    "open_issues_count": 93,
-    "forks_count": 424
+    "stargazers_count": 3823,
+    "open_issues_count": 94,
+    "forks_count": 425
   },
   {
     "full_name": "mozilla/FirefoxColor",
@@ -133,9 +157,9 @@
   },
   {
     "full_name": "foambubble/foam",
-    "stargazers_count": 13992,
-    "open_issues_count": 83,
-    "forks_count": 594
+    "stargazers_count": 14009,
+    "open_issues_count": 84,
+    "forks_count": 595
   },
   {
     "full_name": "SOBotics/Boson",
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "filips123/PWAsForFirefox",
-    "stargazers_count": 1519,
+    "stargazers_count": 1529,
     "open_issues_count": 32,
     "forks_count": 35
   },
   {
     "full_name": "misskey-dev/misskey",
-    "stargazers_count": 8177,
-    "open_issues_count": 1809,
-    "forks_count": 1038
-  },
-  {
-    "full_name": "sylhare/Type-on-Strap",
-    "stargazers_count": 746,
-    "open_issues_count": 2,
-    "forks_count": 853
-  },
-  {
-    "full_name": "pages-themes/hacker",
-    "stargazers_count": 795,
-    "open_issues_count": 49,
-    "forks_count": 1087
-  },
-  {
-    "full_name": "mmistakes/jekyll-theme-basically-basic",
-    "stargazers_count": 797,
-    "open_issues_count": 10,
-    "forks_count": 1202
-  },
-  {
-    "full_name": "kitian616/jekyll-TeXt-theme",
-    "stargazers_count": 2856,
-    "open_issues_count": 159,
-    "forks_count": 2385
+    "stargazers_count": 8220,
+    "open_issues_count": 1667,
+    "forks_count": 1048
   }
 ]
