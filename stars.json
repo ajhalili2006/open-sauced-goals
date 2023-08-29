@@ -1,13 +1,31 @@
 [
   {
+    "full_name": "nix-community/NUR",
+    "stargazers_count": 944,
+    "open_issues_count": 23,
+    "forks_count": 249
+  },
+  {
+    "full_name": "nix-community/nur-packages-template",
+    "stargazers_count": 81,
+    "open_issues_count": 2,
+    "forks_count": 94
+  },
+  {
+    "full_name": "discourse/discourse-post-voting",
+    "stargazers_count": 20,
+    "open_issues_count": 4,
+    "forks_count": 10
+  },
+  {
     "full_name": "direnv/direnv",
-    "stargazers_count": 10796,
+    "stargazers_count": 10800,
     "open_issues_count": 285,
-    "forks_count": 594
+    "forks_count": 595
   },
   {
     "full_name": "mkdocs/mkdocs-redirects",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 12,
     "forks_count": 21
   },
@@ -49,32 +67,32 @@
   },
   {
     "full_name": "F1bonacc1/process-compose",
-    "stargazers_count": 294,
+    "stargazers_count": 296,
     "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "salesforce/ja3",
-    "stargazers_count": 2235,
+    "stargazers_count": 2238,
     "open_issues_count": 31,
     "forks_count": 279
   },
   {
     "full_name": "redis/redis",
-    "stargazers_count": 61189,
+    "stargazers_count": 61245,
     "open_issues_count": 2468,
-    "forks_count": 22873
+    "forks_count": 22877
   },
   {
     "full_name": "jetpack-io/opensource",
     "stargazers_count": 4,
-    "open_issues_count": 2,
-    "forks_count": 20
+    "open_issues_count": 4,
+    "forks_count": 21
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 5961,
-    "open_issues_count": 96,
+    "stargazers_count": 5977,
+    "open_issues_count": 102,
     "forks_count": 115
   },
   {
@@ -103,13 +121,13 @@
   },
   {
     "full_name": "github/advisory-database",
-    "stargazers_count": 1449,
-    "open_issues_count": 62,
-    "forks_count": 240
+    "stargazers_count": 1457,
+    "open_issues_count": 66,
+    "forks_count": 243
   },
   {
     "full_name": "dwyl/start-here",
-    "stargazers_count": 1698,
+    "stargazers_count": 1700,
     "open_issues_count": 103,
     "forks_count": 113
   },
@@ -121,26 +139,26 @@
   },
   {
     "full_name": "louim/in-case-of-fire",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "open_issues_count": 1,
     "forks_count": 28
   },
   {
     "full_name": "siyuan-note/siyuan",
-    "stargazers_count": 11956,
-    "open_issues_count": 64,
-    "forks_count": 914
+    "stargazers_count": 11994,
+    "open_issues_count": 58,
+    "forks_count": 916
   },
   {
     "full_name": "pacstall/pacstall-programs",
-    "stargazers_count": 115,
-    "open_issues_count": 109,
-    "forks_count": 89
+    "stargazers_count": 117,
+    "open_issues_count": 105,
+    "forks_count": 91
   },
   {
     "full_name": "imgbot/Imgbot",
     "stargazers_count": 1103,
-    "open_issues_count": 62,
+    "open_issues_count": 63,
     "forks_count": 297
   },
   {
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "MarkMindCkm/obsidian-markmind",
-    "stargazers_count": 564,
-    "open_issues_count": 413,
+    "stargazers_count": 566,
+    "open_issues_count": 417,
     "forks_count": 25
-  },
-  {
-    "full_name": "cirruslabs/cirrus-ci-docs",
-    "stargazers_count": 327,
-    "open_issues_count": 83,
-    "forks_count": 128
-  },
-  {
-    "full_name": "eigenmagic/fediblockhole",
-    "stargazers_count": 48,
-    "open_issues_count": 7,
-    "forks_count": 5
-  },
-  {
-    "full_name": "iansan5653/github-markdown-a11y-extension",
-    "stargazers_count": 12,
-    "open_issues_count": 3,
-    "forks_count": 0
   }
 ]
