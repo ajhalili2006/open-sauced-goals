@@ -1,25 +1,55 @@
 [
   {
+    "full_name": "mkaply/extended_color_management",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "cisco/openh264",
+    "stargazers_count": 5105,
+    "open_issues_count": 201,
+    "forks_count": 1783
+  },
+  {
+    "full_name": "bitwarden/server",
+    "stargazers_count": 13122,
+    "open_issues_count": 136,
+    "forks_count": 1129
+  },
+  {
+    "full_name": "tsconfig/bases",
+    "stargazers_count": 4513,
+    "open_issues_count": 30,
+    "forks_count": 178
+  },
+  {
+    "full_name": "supabase/supabase",
+    "stargazers_count": 56369,
+    "open_issues_count": 373,
+    "forks_count": 4766
+  },
+  {
     "full_name": "raid-teyar/raidteyar-shittier",
-    "stargazers_count": 14,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "pypa/pipenv",
-    "stargazers_count": 24100,
-    "open_issues_count": 179,
-    "forks_count": 1893
+    "stargazers_count": 24102,
+    "open_issues_count": 174,
+    "forks_count": 1895
   },
   {
     "full_name": "opencollective/opencollective-api",
     "stargazers_count": 370,
-    "open_issues_count": 27,
-    "forks_count": 282
+    "open_issues_count": 25,
+    "forks_count": 283
   },
   {
     "full_name": "badges/awesome-badges",
-    "stargazers_count": 284,
+    "stargazers_count": 287,
     "open_issues_count": 0,
     "forks_count": 28
   },
@@ -32,24 +62,24 @@
   {
     "full_name": "cachix/cachix-action",
     "stargazers_count": 189,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 35
   },
   {
     "full_name": "keepassxreboot/keepassxc",
-    "stargazers_count": 16894,
+    "stargazers_count": 16916,
     "open_issues_count": 610,
-    "forks_count": 1269
+    "forks_count": 1270
   },
   {
     "full_name": "web-infra-dev/oxc",
-    "stargazers_count": 1770,
-    "open_issues_count": 66,
+    "stargazers_count": 1795,
+    "open_issues_count": 63,
     "forks_count": 87
   },
   {
     "full_name": "nix-community/NUR",
-    "stargazers_count": 947,
+    "stargazers_count": 948,
     "open_issues_count": 23,
     "forks_count": 249
   },
@@ -61,15 +91,15 @@
   },
   {
     "full_name": "discourse/discourse-post-voting",
-    "stargazers_count": 20,
-    "open_issues_count": 5,
+    "stargazers_count": 21,
+    "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "direnv/direnv",
-    "stargazers_count": 10823,
-    "open_issues_count": 287,
-    "forks_count": 596
+    "stargazers_count": 10830,
+    "open_issues_count": 288,
+    "forks_count": 598
   },
   {
     "full_name": "mkdocs/mkdocs-redirects",
@@ -92,7 +122,7 @@
   {
     "full_name": "gitpodify/workspace-images",
     "stargazers_count": 1,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 0
   },
   {
@@ -115,21 +145,21 @@
   },
   {
     "full_name": "F1bonacc1/process-compose",
-    "stargazers_count": 299,
-    "open_issues_count": 9,
+    "stargazers_count": 300,
+    "open_issues_count": 11,
     "forks_count": 11
   },
   {
     "full_name": "salesforce/ja3",
-    "stargazers_count": 2249,
+    "stargazers_count": 2256,
     "open_issues_count": 31,
     "forks_count": 279
   },
   {
     "full_name": "redis/redis",
-    "stargazers_count": 61337,
-    "open_issues_count": 2471,
-    "forks_count": 22823
+    "stargazers_count": 61387,
+    "open_issues_count": 2478,
+    "forks_count": 22835
   },
   {
     "full_name": "jetpack-io/opensource",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "jetpack-io/devbox",
-    "stargazers_count": 5998,
-    "open_issues_count": 105,
+    "stargazers_count": 6002,
+    "open_issues_count": 104,
     "forks_count": 118
   },
   {
     "full_name": "a5k-actions/shellchecker",
     "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "aziham/obsidian-dark",
-    "stargazers_count": 14,
     "open_issues_count": 2,
-    "forks_count": 1
-  },
-  {
-    "full_name": "arduino/setup-task",
-    "stargazers_count": 61,
-    "open_issues_count": 4,
-    "forks_count": 12
-  },
-  {
-    "full_name": "tulir/maumirror",
-    "stargazers_count": 6,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "github/advisory-database",
-    "stargazers_count": 1458,
-    "open_issues_count": 92,
-    "forks_count": 241
-  },
-  {
-    "full_name": "dwyl/start-here",
-    "stargazers_count": 1700,
-    "open_issues_count": 104,
-    "forks_count": 113
+    "forks_count": 0
   }
 ]
