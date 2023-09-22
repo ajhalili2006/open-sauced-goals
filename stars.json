@@ -1,8 +1,26 @@
 [
   {
+    "full_name": "denoland/deno-docs",
+    "stargazers_count": 13,
+    "open_issues_count": 45,
+    "forks_count": 9
+  },
+  {
+    "full_name": "hachyderm/hachyderm",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "hachyderm/community",
+    "stargazers_count": 471,
+    "open_issues_count": 15,
+    "forks_count": 52
+  },
+  {
     "full_name": "remirror/remirror",
-    "stargazers_count": 2413,
-    "open_issues_count": 148,
+    "stargazers_count": 2415,
+    "open_issues_count": 149,
     "forks_count": 215
   },
   {
@@ -19,21 +37,21 @@
   },
   {
     "full_name": "joypixels/emoji-toolkit",
-    "stargazers_count": 375,
+    "stargazers_count": 377,
     "open_issues_count": 20,
     "forks_count": 47
   },
   {
     "full_name": "geekan/MetaGPT",
-    "stargazers_count": 26346,
-    "open_issues_count": 158,
-    "forks_count": 3020
+    "stargazers_count": 26627,
+    "open_issues_count": 159,
+    "forks_count": 3058
   },
   {
     "full_name": "adacable/painlessPeek",
     "stargazers_count": 17,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "open_issues_count": 2,
+    "forks_count": 2
   },
   {
     "full_name": "iftas-org/rfcs",
@@ -43,69 +61,69 @@
   },
   {
     "full_name": "DeterminateSystems/fh",
-    "stargazers_count": 21,
-    "open_issues_count": 3,
+    "stargazers_count": 27,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "watermelontools/watermelon",
     "stargazers_count": 11,
-    "open_issues_count": 15,
+    "open_issues_count": 20,
     "forks_count": 2
   },
   {
     "full_name": "zulip/zulip-archive",
     "stargazers_count": 60,
     "open_issues_count": 21,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "mailvelope/mailvelope",
-    "stargazers_count": 1608,
-    "open_issues_count": 272,
+    "stargazers_count": 1610,
+    "open_issues_count": 273,
     "forks_count": 217
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1776,
-    "open_issues_count": 62,
-    "forks_count": 152
+    "stargazers_count": 1781,
+    "open_issues_count": 58,
+    "forks_count": 155
   },
   {
     "full_name": "KevinPayravi/indie-wiki-buddy",
     "stargazers_count": 46,
-    "open_issues_count": 55,
+    "open_issues_count": 53,
     "forks_count": 13
   },
   {
     "full_name": "rust-lang/rust-clippy",
-    "stargazers_count": 9832,
-    "open_issues_count": 1867,
-    "forks_count": 1302
+    "stargazers_count": 9849,
+    "open_issues_count": 1871,
+    "forks_count": 1306
   },
   {
     "full_name": "readthedocs/addons",
     "stargazers_count": 5,
-    "open_issues_count": 53,
+    "open_issues_count": 54,
     "forks_count": 1
   },
   {
     "full_name": "joshgerdes/jekyll-uno",
     "stargazers_count": 616,
     "open_issues_count": 9,
-    "forks_count": 574
+    "forks_count": 573
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 61167,
-    "open_issues_count": 1779,
-    "forks_count": 1744
+    "stargazers_count": 62099,
+    "open_issues_count": 1811,
+    "forks_count": 1791
   },
   {
     "full_name": "NixOS/nix.dev",
-    "stargazers_count": 1459,
-    "open_issues_count": 160,
-    "forks_count": 177
+    "stargazers_count": 1466,
+    "open_issues_count": 161,
+    "forks_count": 176
   },
   {
     "full_name": "shadow-maint/shadow",
@@ -115,15 +133,15 @@
   },
   {
     "full_name": "emersion/hydroxide",
-    "stargazers_count": 1286,
+    "stargazers_count": 1291,
     "open_issues_count": 69,
     "forks_count": 107
   },
   {
     "full_name": "rust-lang/rfcs",
-    "stargazers_count": 5392,
-    "open_issues_count": 725,
-    "forks_count": 1533
+    "stargazers_count": 5396,
+    "open_issues_count": 726,
+    "forks_count": 1535
   },
   {
     "full_name": "recaptime-dev/RTSIPs",
@@ -133,9 +151,9 @@
   },
   {
     "full_name": "freeCodeCamp/boilerplate-npm",
-    "stargazers_count": 513,
+    "stargazers_count": 512,
     "open_issues_count": 1,
-    "forks_count": 7063
+    "forks_count": 7091
   },
   {
     "full_name": "mkaply/extended_color_management",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "cisco/openh264",
-    "stargazers_count": 5118,
+    "stargazers_count": 5122,
     "open_issues_count": 204,
-    "forks_count": 1787
+    "forks_count": 1790
   },
   {
     "full_name": "bitwarden/server",
-    "stargazers_count": 13175,
-    "open_issues_count": 138,
-    "forks_count": 1137
+    "stargazers_count": 13190,
+    "open_issues_count": 142,
+    "forks_count": 1139
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 4596,
-    "open_issues_count": 29,
+    "stargazers_count": 4617,
+    "open_issues_count": 30,
     "forks_count": 182
-  },
-  {
-    "full_name": "supabase/supabase",
-    "stargazers_count": 56819,
-    "open_issues_count": 387,
-    "forks_count": 4856
-  },
-  {
-    "full_name": "raid-teyar/raidteyar-shittier",
-    "stargazers_count": 21,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pypa/pipenv",
-    "stargazers_count": 24116,
-    "open_issues_count": 172,
-    "forks_count": 1897
   }
 ]
