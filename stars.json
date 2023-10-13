@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "tailscale-dev/vscode-tailscale",
+    "stargazers_count": 45,
+    "open_issues_count": 53,
+    "forks_count": 1
+  },
+  {
+    "full_name": "SteamRE/SteamKit",
+    "stargazers_count": 2333,
+    "open_issues_count": 51,
+    "forks_count": 465
+  },
+  {
+    "full_name": "PonyvilleFM/aura",
+    "stargazers_count": 36,
+    "open_issues_count": 6,
+    "forks_count": 7
+  },
+  {
+    "full_name": "Xe/waifud",
+    "stargazers_count": 140,
+    "open_issues_count": 16,
+    "forks_count": 5
+  },
+  {
+    "full_name": "qpdf/qpdf",
+    "stargazers_count": 2691,
+    "open_issues_count": 166,
+    "forks_count": 229
+  },
+  {
+    "full_name": "pikepdf/pikepdf",
+    "stargazers_count": 1875,
+    "open_issues_count": 40,
+    "forks_count": 171
+  },
+  {
     "full_name": "snoonetIRC/website",
     "stargazers_count": 3,
     "open_issues_count": 7,
@@ -7,43 +43,43 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2483,
+    "stargazers_count": 2486,
     "open_issues_count": 17,
     "forks_count": 259
   },
   {
     "full_name": "ihabunek/toot",
     "stargazers_count": 1017,
-    "open_issues_count": 93,
+    "open_issues_count": 94,
     "forks_count": 103
   },
   {
     "full_name": "fontsource/font-files",
-    "stargazers_count": 57,
+    "stargazers_count": 59,
     "open_issues_count": 20,
     "forks_count": 11
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 4966,
+    "stargazers_count": 4979,
     "open_issues_count": 18,
-    "forks_count": 238
+    "forks_count": 239
   },
   {
     "full_name": "casbin/casbin",
-    "stargazers_count": 15822,
+    "stargazers_count": 15841,
     "open_issues_count": 32,
-    "forks_count": 1622
+    "forks_count": 1623
   },
   {
     "full_name": "casdoor/casdoor",
-    "stargazers_count": 7160,
-    "open_issues_count": 113,
-    "forks_count": 870
+    "stargazers_count": 7176,
+    "open_issues_count": 111,
+    "forks_count": 871
   },
   {
     "full_name": "bashtage/sphinx-material",
-    "stargazers_count": 291,
+    "stargazers_count": 292,
     "open_issues_count": 37,
     "forks_count": 90
   },
@@ -67,7 +103,7 @@
   },
   {
     "full_name": "basecamp/audits1984",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 6,
     "forks_count": 16
   },
@@ -79,13 +115,13 @@
   },
   {
     "full_name": "basecamp/policies",
-    "stargazers_count": 1889,
+    "stargazers_count": 1891,
     "open_issues_count": 1,
     "forks_count": 265
   },
   {
     "full_name": "osano/cookieconsent",
-    "stargazers_count": 3273,
+    "stargazers_count": 3276,
     "open_issues_count": 91,
     "forks_count": 594
   },
@@ -109,13 +145,13 @@
   },
   {
     "full_name": "ankane/awesome-legal",
-    "stargazers_count": 647,
+    "stargazers_count": 648,
     "open_issues_count": 0,
     "forks_count": 40
   },
   {
     "full_name": "jackmorgan/the-plain-contract",
-    "stargazers_count": 267,
+    "stargazers_count": 268,
     "open_issues_count": 1,
     "forks_count": 16
   },
@@ -127,56 +163,20 @@
   },
   {
     "full_name": "pradyunsg/furo",
-    "stargazers_count": 2083,
-    "open_issues_count": 33,
-    "forks_count": 274
+    "stargazers_count": 2088,
+    "open_issues_count": 34,
+    "forks_count": 276
   },
   {
     "full_name": "mozilla/inclusion",
-    "stargazers_count": 631,
+    "stargazers_count": 633,
     "open_issues_count": 6,
     "forks_count": 355
   },
   {
     "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 1701,
-    "open_issues_count": 556,
-    "forks_count": 568
-  },
-  {
-    "full_name": "uBlockOrigin/uBOL-home",
-    "stargazers_count": 74,
-    "open_issues_count": 7,
-    "forks_count": 6
-  },
-  {
-    "full_name": "awesome-neurodiversity/neurodiversity-x-mental-health",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "awesome-neurodiversity/community-reading-lists",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ModMalwareInvestigation/turnstile-for-forms-frontend",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ModMalwareInvestigation/turnstile-for-forms",
-    "stargazers_count": 7,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "owenthereal/upterm",
-    "stargazers_count": 671,
-    "open_issues_count": 27,
-    "forks_count": 48
+    "stargazers_count": 1702,
+    "open_issues_count": 559,
+    "forks_count": 570
   }
 ]
