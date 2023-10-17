@@ -1,13 +1,43 @@
 [
   {
+    "full_name": "LazyVim/LazyVim",
+    "stargazers_count": 9552,
+    "open_issues_count": 17,
+    "forks_count": 645
+  },
+  {
+    "full_name": "dsherret/dax",
+    "stargazers_count": 406,
+    "open_issues_count": 26,
+    "forks_count": 21
+  },
+  {
+    "full_name": "asdf-community/asdf-direnv",
+    "stargazers_count": 471,
+    "open_issues_count": 2,
+    "forks_count": 36
+  },
+  {
+    "full_name": "asdf-vm/asdf-plugins",
+    "stargazers_count": 986,
+    "open_issues_count": 24,
+    "forks_count": 405
+  },
+  {
+    "full_name": "crazy-max/diun",
+    "stargazers_count": 2211,
+    "open_issues_count": 48,
+    "forks_count": 98
+  },
+  {
     "full_name": "tailscale-dev/vscode-tailscale",
     "stargazers_count": 45,
-    "open_issues_count": 53,
+    "open_issues_count": 52,
     "forks_count": 1
   },
   {
     "full_name": "SteamRE/SteamKit",
-    "stargazers_count": 2333,
+    "stargazers_count": 2335,
     "open_issues_count": 51,
     "forks_count": 465
   },
@@ -19,21 +49,21 @@
   },
   {
     "full_name": "Xe/waifud",
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "open_issues_count": 16,
     "forks_count": 5
   },
   {
     "full_name": "qpdf/qpdf",
-    "stargazers_count": 2691,
-    "open_issues_count": 166,
+    "stargazers_count": 2694,
+    "open_issues_count": 165,
     "forks_count": 229
   },
   {
     "full_name": "pikepdf/pikepdf",
-    "stargazers_count": 1875,
+    "stargazers_count": 1881,
     "open_issues_count": 40,
-    "forks_count": 171
+    "forks_count": 170
   },
   {
     "full_name": "snoonetIRC/website",
@@ -43,9 +73,9 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2486,
+    "stargazers_count": 2490,
     "open_issues_count": 17,
-    "forks_count": 259
+    "forks_count": 261
   },
   {
     "full_name": "ihabunek/toot",
@@ -55,27 +85,27 @@
   },
   {
     "full_name": "fontsource/font-files",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 20,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 4979,
+    "stargazers_count": 4987,
     "open_issues_count": 18,
-    "forks_count": 239
+    "forks_count": 240
   },
   {
     "full_name": "casbin/casbin",
-    "stargazers_count": 15841,
-    "open_issues_count": 32,
-    "forks_count": 1623
+    "stargazers_count": 15860,
+    "open_issues_count": 34,
+    "forks_count": 1625
   },
   {
     "full_name": "casdoor/casdoor",
-    "stargazers_count": 7176,
-    "open_issues_count": 111,
-    "forks_count": 871
+    "stargazers_count": 7199,
+    "open_issues_count": 115,
+    "forks_count": 873
   },
   {
     "full_name": "bashtage/sphinx-material",
@@ -115,15 +145,15 @@
   },
   {
     "full_name": "basecamp/policies",
-    "stargazers_count": 1891,
-    "open_issues_count": 1,
+    "stargazers_count": 1892,
+    "open_issues_count": 0,
     "forks_count": 265
   },
   {
     "full_name": "osano/cookieconsent",
-    "stargazers_count": 3276,
+    "stargazers_count": 3277,
     "open_issues_count": 91,
-    "forks_count": 594
+    "forks_count": 592
   },
   {
     "full_name": "ciarrocki/LibreLaw",
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "ankane/awesome-legal",
-    "stargazers_count": 648,
+    "stargazers_count": 649,
     "open_issues_count": 0,
     "forks_count": 40
-  },
-  {
-    "full_name": "jackmorgan/the-plain-contract",
-    "stargazers_count": 268,
-    "open_issues_count": 1,
-    "forks_count": 16
-  },
-  {
-    "full_name": "recaptime-dev/legal-policies",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "pradyunsg/furo",
-    "stargazers_count": 2088,
-    "open_issues_count": 34,
-    "forks_count": 276
-  },
-  {
-    "full_name": "mozilla/inclusion",
-    "stargazers_count": 633,
-    "open_issues_count": 6,
-    "forks_count": 355
-  },
-  {
-    "full_name": "PKief/vscode-material-icon-theme",
-    "stargazers_count": 1702,
-    "open_issues_count": 559,
-    "forks_count": 570
   }
 ]
