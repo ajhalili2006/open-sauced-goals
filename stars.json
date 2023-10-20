@@ -1,13 +1,67 @@
 [
   {
+    "full_name": "SorkinType/Alatsi",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "perguto/Country-Flag-Emojis-for-Windows",
+    "stargazers_count": 67,
+    "open_issues_count": 6,
+    "forks_count": 1
+  },
+  {
+    "full_name": "13rac1/twemoji-color-font",
+    "stargazers_count": 1535,
+    "open_issues_count": 38,
+    "forks_count": 66
+  },
+  {
+    "full_name": "codecrafters-io/course-sdk",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "sigstore/sigstore-python",
+    "stargazers_count": 188,
+    "open_issues_count": 31,
+    "forks_count": 41
+  },
+  {
+    "full_name": "scidsg/hushline",
+    "stargazers_count": 21,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "sts10/csafe",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "MSzturc/obsidian-advanced-slides",
+    "stargazers_count": 728,
+    "open_issues_count": 75,
+    "forks_count": 57
+  },
+  {
+    "full_name": "0atman/noboilerplate",
+    "stargazers_count": 2078,
+    "open_issues_count": 6,
+    "forks_count": 97
+  },
+  {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 9552,
-    "open_issues_count": 17,
-    "forks_count": 645
+    "stargazers_count": 9722,
+    "open_issues_count": 22,
+    "forks_count": 658
   },
   {
     "full_name": "dsherret/dax",
-    "stargazers_count": 406,
+    "stargazers_count": 407,
     "open_issues_count": 26,
     "forks_count": 21
   },
@@ -19,27 +73,27 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugins",
-    "stargazers_count": 986,
-    "open_issues_count": 24,
+    "stargazers_count": 989,
+    "open_issues_count": 25,
     "forks_count": 405
   },
   {
     "full_name": "crazy-max/diun",
-    "stargazers_count": 2211,
-    "open_issues_count": 48,
+    "stargazers_count": 2216,
+    "open_issues_count": 49,
     "forks_count": 98
   },
   {
     "full_name": "tailscale-dev/vscode-tailscale",
-    "stargazers_count": 45,
+    "stargazers_count": 46,
     "open_issues_count": 52,
     "forks_count": 1
   },
   {
     "full_name": "SteamRE/SteamKit",
-    "stargazers_count": 2335,
-    "open_issues_count": 51,
-    "forks_count": 465
+    "stargazers_count": 2338,
+    "open_issues_count": 42,
+    "forks_count": 467
   },
   {
     "full_name": "PonyvilleFM/aura",
@@ -55,13 +109,13 @@
   },
   {
     "full_name": "qpdf/qpdf",
-    "stargazers_count": 2694,
-    "open_issues_count": 165,
-    "forks_count": 229
+    "stargazers_count": 2696,
+    "open_issues_count": 166,
+    "forks_count": 230
   },
   {
     "full_name": "pikepdf/pikepdf",
-    "stargazers_count": 1881,
+    "stargazers_count": 1886,
     "open_issues_count": 40,
     "forks_count": 170
   },
@@ -73,13 +127,13 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2490,
-    "open_issues_count": 17,
+    "stargazers_count": 2494,
+    "open_issues_count": 18,
     "forks_count": 261
   },
   {
     "full_name": "ihabunek/toot",
-    "stargazers_count": 1017,
+    "stargazers_count": 1019,
     "open_issues_count": 94,
     "forks_count": 103
   },
@@ -91,27 +145,27 @@
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 4987,
+    "stargazers_count": 5002,
     "open_issues_count": 18,
-    "forks_count": 240
+    "forks_count": 241
   },
   {
     "full_name": "casbin/casbin",
-    "stargazers_count": 15860,
-    "open_issues_count": 34,
-    "forks_count": 1625
+    "stargazers_count": 15883,
+    "open_issues_count": 35,
+    "forks_count": 1626
   },
   {
     "full_name": "casdoor/casdoor",
-    "stargazers_count": 7199,
+    "stargazers_count": 7215,
     "open_issues_count": 115,
-    "forks_count": 873
+    "forks_count": 874
   },
   {
     "full_name": "bashtage/sphinx-material",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 37,
-    "forks_count": 90
+    "forks_count": 91
   },
   {
     "full_name": "ajhalili2006/personal-trauma-therapy-notebook",
@@ -124,59 +178,5 @@
     "stargazers_count": 127,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "privacyradius/gdpr-tracker",
-    "stargazers_count": 173,
-    "open_issues_count": 13,
-    "forks_count": 68
-  },
-  {
-    "full_name": "basecamp/audits1984",
-    "stargazers_count": 280,
-    "open_issues_count": 6,
-    "forks_count": 16
-  },
-  {
-    "full_name": "disclose/research-threats",
-    "stargazers_count": 250,
-    "open_issues_count": 17,
-    "forks_count": 20
-  },
-  {
-    "full_name": "basecamp/policies",
-    "stargazers_count": 1892,
-    "open_issues_count": 0,
-    "forks_count": 265
-  },
-  {
-    "full_name": "osano/cookieconsent",
-    "stargazers_count": 3277,
-    "open_issues_count": 91,
-    "forks_count": 592
-  },
-  {
-    "full_name": "ciarrocki/LibreLaw",
-    "stargazers_count": 18,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "canokaue/nft-music-license",
-    "stargazers_count": 27,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "oprvc/oprvc.github.io",
-    "stargazers_count": 60,
-    "open_issues_count": 4,
-    "forks_count": 12
-  },
-  {
-    "full_name": "ankane/awesome-legal",
-    "stargazers_count": 649,
-    "open_issues_count": 0,
-    "forks_count": 40
   }
 ]
