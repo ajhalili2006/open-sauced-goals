@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "Hashnode/starter-kit",
+    "stargazers_count": 60,
+    "open_issues_count": 1,
+    "forks_count": 43
+  },
+  {
     "full_name": "SorkinType/Alatsi",
     "stargazers_count": 11,
     "open_issues_count": 0,
@@ -7,7 +13,7 @@
   },
   {
     "full_name": "perguto/Country-Flag-Emojis-for-Windows",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 6,
     "forks_count": 1
   },
@@ -25,13 +31,13 @@
   },
   {
     "full_name": "sigstore/sigstore-python",
-    "stargazers_count": 188,
+    "stargazers_count": 190,
     "open_issues_count": 31,
     "forks_count": 41
   },
   {
     "full_name": "scidsg/hushline",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -43,56 +49,56 @@
   },
   {
     "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 728,
-    "open_issues_count": 75,
+    "stargazers_count": 732,
+    "open_issues_count": 76,
     "forks_count": 57
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2078,
+    "stargazers_count": 2101,
     "open_issues_count": 6,
-    "forks_count": 97
+    "forks_count": 98
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 9722,
-    "open_issues_count": 22,
-    "forks_count": 658
+    "stargazers_count": 9810,
+    "open_issues_count": 32,
+    "forks_count": 669
   },
   {
     "full_name": "dsherret/dax",
-    "stargazers_count": 407,
+    "stargazers_count": 411,
     "open_issues_count": 26,
     "forks_count": 21
   },
   {
     "full_name": "asdf-community/asdf-direnv",
-    "stargazers_count": 471,
+    "stargazers_count": 473,
     "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "asdf-vm/asdf-plugins",
-    "stargazers_count": 989,
-    "open_issues_count": 25,
-    "forks_count": 405
+    "stargazers_count": 994,
+    "open_issues_count": 26,
+    "forks_count": 406
   },
   {
     "full_name": "crazy-max/diun",
-    "stargazers_count": 2216,
-    "open_issues_count": 49,
+    "stargazers_count": 2223,
+    "open_issues_count": 51,
     "forks_count": 98
   },
   {
     "full_name": "tailscale-dev/vscode-tailscale",
     "stargazers_count": 46,
-    "open_issues_count": 52,
+    "open_issues_count": 54,
     "forks_count": 1
   },
   {
     "full_name": "SteamRE/SteamKit",
-    "stargazers_count": 2338,
-    "open_issues_count": 42,
+    "stargazers_count": 2343,
+    "open_issues_count": 44,
     "forks_count": 467
   },
   {
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "qpdf/qpdf",
-    "stargazers_count": 2696,
+    "stargazers_count": 2700,
     "open_issues_count": 166,
-    "forks_count": 230
+    "forks_count": 231
   },
   {
     "full_name": "pikepdf/pikepdf",
-    "stargazers_count": 1886,
+    "stargazers_count": 1892,
     "open_issues_count": 40,
     "forks_count": 170
   },
@@ -127,39 +133,39 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2494,
+    "stargazers_count": 2497,
     "open_issues_count": 18,
     "forks_count": 261
   },
   {
     "full_name": "ihabunek/toot",
-    "stargazers_count": 1019,
+    "stargazers_count": 1022,
     "open_issues_count": 94,
     "forks_count": 103
   },
   {
     "full_name": "fontsource/font-files",
-    "stargazers_count": 60,
+    "stargazers_count": 63,
     "open_issues_count": 20,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 5002,
+    "stargazers_count": 5011,
     "open_issues_count": 18,
     "forks_count": 241
   },
   {
     "full_name": "casbin/casbin",
-    "stargazers_count": 15883,
-    "open_issues_count": 35,
-    "forks_count": 1626
+    "stargazers_count": 15898,
+    "open_issues_count": 39,
+    "forks_count": 1627
   },
   {
     "full_name": "casdoor/casdoor",
-    "stargazers_count": 7215,
+    "stargazers_count": 7241,
     "open_issues_count": 115,
-    "forks_count": 874
+    "forks_count": 880
   },
   {
     "full_name": "bashtage/sphinx-material",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "sindresorhus/legal-notices",
-    "stargazers_count": 127,
-    "open_issues_count": 0,
-    "forks_count": 2
   }
 ]
