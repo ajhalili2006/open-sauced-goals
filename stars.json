@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "GitGuardian/ggshield",
+    "stargazers_count": 1411,
+    "open_issues_count": 43,
+    "forks_count": 123
+  },
+  {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 60,
+    "stargazers_count": 73,
     "open_issues_count": 1,
-    "forks_count": 43
+    "forks_count": 62
   },
   {
     "full_name": "SorkinType/Alatsi",
@@ -20,24 +26,24 @@
   {
     "full_name": "13rac1/twemoji-color-font",
     "stargazers_count": 1535,
-    "open_issues_count": 38,
+    "open_issues_count": 37,
     "forks_count": 66
   },
   {
     "full_name": "codecrafters-io/course-sdk",
     "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "open_issues_count": 1,
+    "forks_count": 8
   },
   {
     "full_name": "sigstore/sigstore-python",
     "stargazers_count": 190,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 41
   },
   {
     "full_name": "scidsg/hushline",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -49,43 +55,43 @@
   },
   {
     "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 732,
-    "open_issues_count": 76,
-    "forks_count": 57
+    "stargazers_count": 734,
+    "open_issues_count": 78,
+    "forks_count": 58
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2101,
+    "stargazers_count": 2124,
     "open_issues_count": 6,
-    "forks_count": 98
+    "forks_count": 97
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 9810,
-    "open_issues_count": 32,
-    "forks_count": 669
+    "stargazers_count": 9851,
+    "open_issues_count": 25,
+    "forks_count": 674
   },
   {
     "full_name": "dsherret/dax",
-    "stargazers_count": 411,
+    "stargazers_count": 418,
     "open_issues_count": 26,
     "forks_count": 21
   },
   {
     "full_name": "asdf-community/asdf-direnv",
-    "stargazers_count": 473,
+    "stargazers_count": 474,
     "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "asdf-vm/asdf-plugins",
-    "stargazers_count": 994,
-    "open_issues_count": 26,
+    "stargazers_count": 997,
+    "open_issues_count": 31,
     "forks_count": 406
   },
   {
     "full_name": "crazy-max/diun",
-    "stargazers_count": 2223,
+    "stargazers_count": 2226,
     "open_issues_count": 51,
     "forks_count": 98
   },
@@ -97,7 +103,7 @@
   },
   {
     "full_name": "SteamRE/SteamKit",
-    "stargazers_count": 2343,
+    "stargazers_count": 2345,
     "open_issues_count": 44,
     "forks_count": 467
   },
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "qpdf/qpdf",
-    "stargazers_count": 2700,
-    "open_issues_count": 166,
-    "forks_count": 231
+    "stargazers_count": 2714,
+    "open_issues_count": 168,
+    "forks_count": 232
   },
   {
     "full_name": "pikepdf/pikepdf",
-    "stargazers_count": 1892,
+    "stargazers_count": 1897,
     "open_issues_count": 40,
     "forks_count": 170
   },
@@ -133,14 +139,14 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2497,
-    "open_issues_count": 18,
-    "forks_count": 261
+    "stargazers_count": 2499,
+    "open_issues_count": 19,
+    "forks_count": 262
   },
   {
     "full_name": "ihabunek/toot",
-    "stargazers_count": 1022,
-    "open_issues_count": 94,
+    "stargazers_count": 1023,
+    "open_issues_count": 95,
     "forks_count": 103
   },
   {
@@ -151,20 +157,20 @@
   },
   {
     "full_name": "star-history/star-history",
-    "stargazers_count": 5011,
-    "open_issues_count": 18,
-    "forks_count": 241
+    "stargazers_count": 5030,
+    "open_issues_count": 19,
+    "forks_count": 242
   },
   {
     "full_name": "casbin/casbin",
-    "stargazers_count": 15898,
+    "stargazers_count": 15916,
     "open_issues_count": 39,
-    "forks_count": 1627
+    "forks_count": 1626
   },
   {
     "full_name": "casdoor/casdoor",
-    "stargazers_count": 7241,
-    "open_issues_count": 115,
+    "stargazers_count": 7259,
+    "open_issues_count": 116,
     "forks_count": 880
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 293,
     "open_issues_count": 37,
     "forks_count": 91
-  },
-  {
-    "full_name": "ajhalili2006/personal-trauma-therapy-notebook",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
