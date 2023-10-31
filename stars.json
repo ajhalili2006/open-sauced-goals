@@ -1,15 +1,45 @@
 [
   {
+    "full_name": "ajhalili2006/garden-monorepo",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "JetBrains/writerside-github-action",
+    "stargazers_count": 17,
+    "open_issues_count": 3,
+    "forks_count": 0
+  },
+  {
+    "full_name": "recaptime-dev/cicd-toolkit",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "pfefferle/openwebicons",
+    "stargazers_count": 849,
+    "open_issues_count": 3,
+    "forks_count": 159
+  },
+  {
+    "full_name": "WebKit/WebKit",
+    "stargazers_count": 6816,
+    "open_issues_count": 718,
+    "forks_count": 1069
+  },
+  {
     "full_name": "GitGuardian/ggshield",
-    "stargazers_count": 1411,
-    "open_issues_count": 43,
-    "forks_count": 123
+    "stargazers_count": 1412,
+    "open_issues_count": 41,
+    "forks_count": 124
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 73,
-    "open_issues_count": 1,
-    "forks_count": 62
+    "stargazers_count": 83,
+    "open_issues_count": 4,
+    "forks_count": 89
   },
   {
     "full_name": "SorkinType/Alatsi",
@@ -25,7 +55,7 @@
   },
   {
     "full_name": "13rac1/twemoji-color-font",
-    "stargazers_count": 1535,
+    "stargazers_count": 1537,
     "open_issues_count": 37,
     "forks_count": 66
   },
@@ -38,42 +68,42 @@
   {
     "full_name": "sigstore/sigstore-python",
     "stargazers_count": 190,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 41
   },
   {
     "full_name": "scidsg/hushline",
-    "stargazers_count": 23,
+    "stargazers_count": 25,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "sts10/csafe",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 734,
-    "open_issues_count": 78,
+    "stargazers_count": 738,
+    "open_issues_count": 79,
     "forks_count": 58
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2124,
+    "stargazers_count": 2143,
     "open_issues_count": 6,
-    "forks_count": 97
+    "forks_count": 99
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 9851,
-    "open_issues_count": 25,
-    "forks_count": 674
+    "stargazers_count": 9905,
+    "open_issues_count": 33,
+    "forks_count": 676
   },
   {
     "full_name": "dsherret/dax",
-    "stargazers_count": 418,
+    "stargazers_count": 421,
     "open_issues_count": 26,
     "forks_count": 21
   },
@@ -85,26 +115,26 @@
   },
   {
     "full_name": "asdf-vm/asdf-plugins",
-    "stargazers_count": 997,
+    "stargazers_count": 1001,
     "open_issues_count": 31,
     "forks_count": 406
   },
   {
     "full_name": "crazy-max/diun",
-    "stargazers_count": 2226,
+    "stargazers_count": 2228,
     "open_issues_count": 51,
     "forks_count": 98
   },
   {
     "full_name": "tailscale-dev/vscode-tailscale",
     "stargazers_count": 46,
-    "open_issues_count": 54,
+    "open_issues_count": 56,
     "forks_count": 1
   },
   {
     "full_name": "SteamRE/SteamKit",
-    "stargazers_count": 2345,
-    "open_issues_count": 44,
+    "stargazers_count": 2344,
+    "open_issues_count": 43,
     "forks_count": 467
   },
   {
@@ -115,21 +145,21 @@
   },
   {
     "full_name": "Xe/waifud",
-    "stargazers_count": 141,
+    "stargazers_count": 142,
     "open_issues_count": 16,
     "forks_count": 5
   },
   {
     "full_name": "qpdf/qpdf",
-    "stargazers_count": 2714,
-    "open_issues_count": 168,
+    "stargazers_count": 2721,
+    "open_issues_count": 170,
     "forks_count": 232
   },
   {
     "full_name": "pikepdf/pikepdf",
-    "stargazers_count": 1897,
-    "open_issues_count": 40,
-    "forks_count": 170
+    "stargazers_count": 1898,
+    "open_issues_count": 39,
+    "forks_count": 169
   },
   {
     "full_name": "snoonetIRC/website",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "asciinema/asciinema-player",
-    "stargazers_count": 2499,
+    "stargazers_count": 2503,
     "open_issues_count": 19,
-    "forks_count": 262
+    "forks_count": 264
   },
   {
     "full_name": "ihabunek/toot",
-    "stargazers_count": 1023,
-    "open_issues_count": 95,
+    "stargazers_count": 1025,
+    "open_issues_count": 96,
     "forks_count": 103
-  },
-  {
-    "full_name": "fontsource/font-files",
-    "stargazers_count": 63,
-    "open_issues_count": 20,
-    "forks_count": 13
-  },
-  {
-    "full_name": "star-history/star-history",
-    "stargazers_count": 5030,
-    "open_issues_count": 19,
-    "forks_count": 242
-  },
-  {
-    "full_name": "casbin/casbin",
-    "stargazers_count": 15916,
-    "open_issues_count": 39,
-    "forks_count": 1626
-  },
-  {
-    "full_name": "casdoor/casdoor",
-    "stargazers_count": 7259,
-    "open_issues_count": 116,
-    "forks_count": 880
-  },
-  {
-    "full_name": "bashtage/sphinx-material",
-    "stargazers_count": 293,
-    "open_issues_count": 37,
-    "forks_count": 91
   }
 ]
