@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "hypothesis/h",
+    "stargazers_count": 2800,
+    "open_issues_count": 146,
+    "forks_count": 440
+  },
+  {
+    "full_name": "neondatabase/neon",
+    "stargazers_count": 10297,
+    "open_issues_count": 761,
+    "forks_count": 291
+  },
+  {
+    "full_name": "android/user-interface-samples",
+    "stargazers_count": 4117,
+    "open_issues_count": 187,
+    "forks_count": 1635
+  },
+  {
+    "full_name": "angular/angular",
+    "stargazers_count": 91742,
+    "open_issues_count": 1634,
+    "forks_count": 24602
+  },
+  {
     "full_name": "mollyim/mollyim-android",
-    "stargazers_count": 1038,
-    "open_issues_count": 61,
-    "forks_count": 72
+    "stargazers_count": 1042,
+    "open_issues_count": 60,
+    "forks_count": 73
   },
   {
     "full_name": "vector-im/element-meta",
@@ -19,9 +43,9 @@
   },
   {
     "full_name": "schlagmichdoch/PairDrop",
-    "stargazers_count": 1682,
-    "open_issues_count": 27,
-    "forks_count": 85
+    "stargazers_count": 1699,
+    "open_issues_count": 31,
+    "forks_count": 86
   },
   {
     "full_name": "badges/stability-badges",
@@ -37,7 +61,7 @@
   },
   {
     "full_name": "JetBrains/writerside-github-action",
-    "stargazers_count": 20,
+    "stargazers_count": 22,
     "open_issues_count": 3,
     "forks_count": 0
   },
@@ -55,21 +79,21 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 6832,
-    "open_issues_count": 746,
-    "forks_count": 1073
+    "stargazers_count": 6840,
+    "open_issues_count": 752,
+    "forks_count": 1078
   },
   {
     "full_name": "GitGuardian/ggshield",
-    "stargazers_count": 1417,
-    "open_issues_count": 42,
-    "forks_count": 127
+    "stargazers_count": 1419,
+    "open_issues_count": 38,
+    "forks_count": 128
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 97,
-    "open_issues_count": 4,
-    "forks_count": 107
+    "stargazers_count": 104,
+    "open_issues_count": 0,
+    "forks_count": 121
   },
   {
     "full_name": "SorkinType/Alatsi",
@@ -85,7 +109,7 @@
   },
   {
     "full_name": "13rac1/twemoji-color-font",
-    "stargazers_count": 1545,
+    "stargazers_count": 1546,
     "open_issues_count": 37,
     "forks_count": 66
   },
@@ -97,7 +121,7 @@
   },
   {
     "full_name": "sigstore/sigstore-python",
-    "stargazers_count": 190,
+    "stargazers_count": 191,
     "open_issues_count": 31,
     "forks_count": 41
   },
@@ -105,7 +129,7 @@
     "full_name": "scidsg/hushline",
     "stargazers_count": 25,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "sts10/csafe",
@@ -115,68 +139,44 @@
   },
   {
     "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 746,
-    "open_issues_count": 79,
+    "stargazers_count": 754,
+    "open_issues_count": 81,
     "forks_count": 58
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2197,
+    "stargazers_count": 2220,
     "open_issues_count": 6,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 10032,
-    "open_issues_count": 33,
-    "forks_count": 689
+    "stargazers_count": 10111,
+    "open_issues_count": 40,
+    "forks_count": 695
   },
   {
     "full_name": "dsherret/dax",
-    "stargazers_count": 423,
+    "stargazers_count": 424,
     "open_issues_count": 27,
     "forks_count": 22
   },
   {
     "full_name": "asdf-community/asdf-direnv",
-    "stargazers_count": 476,
+    "stargazers_count": 479,
     "open_issues_count": 2,
     "forks_count": 36
   },
   {
     "full_name": "asdf-vm/asdf-plugins",
-    "stargazers_count": 1008,
-    "open_issues_count": 35,
-    "forks_count": 409
+    "stargazers_count": 1010,
+    "open_issues_count": 11,
+    "forks_count": 407
   },
   {
     "full_name": "crazy-max/diun",
-    "stargazers_count": 2247,
-    "open_issues_count": 55,
-    "forks_count": 97
-  },
-  {
-    "full_name": "tailscale-dev/vscode-tailscale",
-    "stargazers_count": 48,
-    "open_issues_count": 45,
-    "forks_count": 2
-  },
-  {
-    "full_name": "SteamRE/SteamKit",
-    "stargazers_count": 2352,
-    "open_issues_count": 46,
-    "forks_count": 467
-  },
-  {
-    "full_name": "PonyvilleFM/aura",
-    "stargazers_count": 36,
-    "open_issues_count": 6,
-    "forks_count": 7
-  },
-  {
-    "full_name": "Xe/waifud",
-    "stargazers_count": 142,
-    "open_issues_count": 16,
-    "forks_count": 5
+    "stargazers_count": 2250,
+    "open_issues_count": 58,
+    "forks_count": 99
   }
 ]
