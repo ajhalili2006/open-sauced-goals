@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "anholt/libepoxy",
+    "stargazers_count": 625,
+    "open_issues_count": 44,
+    "forks_count": 154
+  },
+  {
     "full_name": "google/open-location-code",
-    "stargazers_count": 3934,
+    "stargazers_count": 3938,
     "open_issues_count": 65,
-    "forks_count": 500
+    "forks_count": 501
   },
   {
     "full_name": "pvsvamsi/Disable-Battery-Optimizations",
@@ -13,44 +19,44 @@
   },
   {
     "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3711,
+    "stargazers_count": 3715,
     "open_issues_count": 31,
-    "forks_count": 885
+    "forks_count": 887
   },
   {
     "full_name": "hypothesis/h",
-    "stargazers_count": 2804,
-    "open_issues_count": 144,
+    "stargazers_count": 2805,
+    "open_issues_count": 148,
     "forks_count": 440
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 10340,
-    "open_issues_count": 761,
-    "forks_count": 291
+    "stargazers_count": 10365,
+    "open_issues_count": 764,
+    "forks_count": 292
   },
   {
     "full_name": "android/user-interface-samples",
-    "stargazers_count": 4119,
-    "open_issues_count": 187,
-    "forks_count": 1637
+    "stargazers_count": 4124,
+    "open_issues_count": 188,
+    "forks_count": 1639
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 91927,
-    "open_issues_count": 1655,
-    "forks_count": 24644
+    "stargazers_count": 92001,
+    "open_issues_count": 1696,
+    "forks_count": 24663
   },
   {
     "full_name": "mollyim/mollyim-android",
-    "stargazers_count": 1050,
-    "open_issues_count": 62,
+    "stargazers_count": 1049,
+    "open_issues_count": 61,
     "forks_count": 73
   },
   {
     "full_name": "vector-im/element-meta",
-    "stargazers_count": 45,
-    "open_issues_count": 1169,
+    "stargazers_count": 46,
+    "open_issues_count": 1172,
     "forks_count": 12
   },
   {
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "schlagmichdoch/PairDrop",
-    "stargazers_count": 1715,
-    "open_issues_count": 31,
-    "forks_count": 86
+    "stargazers_count": 1719,
+    "open_issues_count": 32,
+    "forks_count": 87
   },
   {
     "full_name": "badges/stability-badges",
@@ -79,8 +85,8 @@
   },
   {
     "full_name": "JetBrains/writerside-github-action",
-    "stargazers_count": 22,
-    "open_issues_count": 3,
+    "stargazers_count": 23,
+    "open_issues_count": 2,
     "forks_count": 0
   },
   {
@@ -97,21 +103,21 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 6856,
-    "open_issues_count": 740,
-    "forks_count": 1077
+    "stargazers_count": 6863,
+    "open_issues_count": 746,
+    "forks_count": 1083
   },
   {
     "full_name": "GitGuardian/ggshield",
-    "stargazers_count": 1420,
-    "open_issues_count": 38,
-    "forks_count": 128
+    "stargazers_count": 1425,
+    "open_issues_count": 40,
+    "forks_count": 129
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 118,
+    "stargazers_count": 122,
     "open_issues_count": 0,
-    "forks_count": 136
+    "forks_count": 148
   },
   {
     "full_name": "SorkinType/Alatsi",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "13rac1/twemoji-color-font",
-    "stargazers_count": 1549,
+    "stargazers_count": 1550,
     "open_issues_count": 37,
     "forks_count": 66
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 757,
+    "stargazers_count": 762,
     "open_issues_count": 82,
     "forks_count": 58
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2249,
-    "open_issues_count": 6,
-    "forks_count": 102
+    "stargazers_count": 2263,
+    "open_issues_count": 8,
+    "forks_count": 103
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 10241,
-    "open_issues_count": 43,
-    "forks_count": 707
-  },
-  {
-    "full_name": "dsherret/dax",
-    "stargazers_count": 426,
-    "open_issues_count": 28,
-    "forks_count": 22
+    "stargazers_count": 10340,
+    "open_issues_count": 44,
+    "forks_count": 713
   }
 ]
