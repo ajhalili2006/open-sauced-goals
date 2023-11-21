@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "robvanderleek/create-issue-branch",
+    "stargazers_count": 308,
+    "open_issues_count": 10,
+    "forks_count": 63
+  },
+  {
     "full_name": "anholt/libepoxy",
     "stargazers_count": 625,
     "open_issues_count": 44,
@@ -9,7 +15,7 @@
     "full_name": "google/open-location-code",
     "stargazers_count": 3938,
     "open_issues_count": 65,
-    "forks_count": 501
+    "forks_count": 502
   },
   {
     "full_name": "pvsvamsi/Disable-Battery-Optimizations",
@@ -19,44 +25,44 @@
   },
   {
     "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3715,
+    "stargazers_count": 3718,
     "open_issues_count": 31,
-    "forks_count": 887
+    "forks_count": 885
   },
   {
     "full_name": "hypothesis/h",
-    "stargazers_count": 2805,
-    "open_issues_count": 148,
+    "stargazers_count": 2809,
+    "open_issues_count": 149,
     "forks_count": 440
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 10365,
-    "open_issues_count": 764,
+    "stargazers_count": 10396,
+    "open_issues_count": 768,
     "forks_count": 292
   },
   {
     "full_name": "android/user-interface-samples",
-    "stargazers_count": 4124,
+    "stargazers_count": 4132,
     "open_issues_count": 188,
-    "forks_count": 1639
+    "forks_count": 1642
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 92001,
-    "open_issues_count": 1696,
-    "forks_count": 24663
+    "stargazers_count": 92066,
+    "open_issues_count": 1722,
+    "forks_count": 24688
   },
   {
     "full_name": "mollyim/mollyim-android",
-    "stargazers_count": 1049,
-    "open_issues_count": 61,
+    "stargazers_count": 1056,
+    "open_issues_count": 65,
     "forks_count": 73
   },
   {
     "full_name": "vector-im/element-meta",
     "stargazers_count": 46,
-    "open_issues_count": 1172,
+    "open_issues_count": 1179,
     "forks_count": 12
   },
   {
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "schlagmichdoch/PairDrop",
-    "stargazers_count": 1719,
-    "open_issues_count": 32,
-    "forks_count": 87
+    "stargazers_count": 1734,
+    "open_issues_count": 30,
+    "forks_count": 89
   },
   {
     "full_name": "badges/stability-badges",
@@ -85,7 +91,7 @@
   },
   {
     "full_name": "JetBrains/writerside-github-action",
-    "stargazers_count": 23,
+    "stargazers_count": 26,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 6863,
-    "open_issues_count": 746,
-    "forks_count": 1083
+    "stargazers_count": 6875,
+    "open_issues_count": 740,
+    "forks_count": 1084
   },
   {
     "full_name": "GitGuardian/ggshield",
-    "stargazers_count": 1425,
-    "open_issues_count": 40,
+    "stargazers_count": 1431,
+    "open_issues_count": 42,
     "forks_count": 129
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 122,
+    "stargazers_count": 130,
     "open_issues_count": 0,
-    "forks_count": 148
+    "forks_count": 159
   },
   {
     "full_name": "SorkinType/Alatsi",
@@ -127,7 +133,7 @@
   },
   {
     "full_name": "perguto/Country-Flag-Emojis-for-Windows",
-    "stargazers_count": 69,
+    "stargazers_count": 71,
     "open_issues_count": 6,
     "forks_count": 1
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 762,
+    "stargazers_count": 765,
     "open_issues_count": 82,
-    "forks_count": 58
+    "forks_count": 59
   },
   {
     "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2263,
-    "open_issues_count": 8,
-    "forks_count": 103
-  },
-  {
-    "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 10340,
-    "open_issues_count": 44,
-    "forks_count": 713
+    "stargazers_count": 2286,
+    "open_issues_count": 7,
+    "forks_count": 107
   }
 ]
