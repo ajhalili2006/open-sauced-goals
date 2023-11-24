@@ -1,8 +1,38 @@
 [
   {
+    "full_name": "kubernetes/enhancements",
+    "stargazers_count": 3115,
+    "open_issues_count": 379,
+    "forks_count": 1483
+  },
+  {
+    "full_name": "cncf/tag-contributor-strategy",
+    "stargazers_count": 149,
+    "open_issues_count": 78,
+    "forks_count": 93
+  },
+  {
+    "full_name": "kubernetes/test-infra",
+    "stargazers_count": 3709,
+    "open_issues_count": 255,
+    "forks_count": 2615
+  },
+  {
+    "full_name": "BuilderIO/gpt-crawler",
+    "stargazers_count": 11097,
+    "open_issues_count": 34,
+    "forks_count": 734
+  },
+  {
+    "full_name": "tailscale-dev/tclip",
+    "stargazers_count": 110,
+    "open_issues_count": 13,
+    "forks_count": 12
+  },
+  {
     "full_name": "robvanderleek/create-issue-branch",
     "stargazers_count": 308,
-    "open_issues_count": 10,
+    "open_issues_count": 8,
     "forks_count": 63
   },
   {
@@ -13,7 +43,7 @@
   },
   {
     "full_name": "google/open-location-code",
-    "stargazers_count": 3938,
+    "stargazers_count": 3939,
     "open_issues_count": 65,
     "forks_count": 502
   },
@@ -25,44 +55,44 @@
   },
   {
     "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3718,
+    "stargazers_count": 3721,
     "open_issues_count": 31,
-    "forks_count": 885
+    "forks_count": 886
   },
   {
     "full_name": "hypothesis/h",
-    "stargazers_count": 2809,
-    "open_issues_count": 149,
+    "stargazers_count": 2810,
+    "open_issues_count": 146,
     "forks_count": 440
   },
   {
     "full_name": "neondatabase/neon",
-    "stargazers_count": 10396,
-    "open_issues_count": 768,
+    "stargazers_count": 10429,
+    "open_issues_count": 770,
     "forks_count": 292
   },
   {
     "full_name": "android/user-interface-samples",
-    "stargazers_count": 4132,
+    "stargazers_count": 4137,
     "open_issues_count": 188,
-    "forks_count": 1642
+    "forks_count": 1643
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 92066,
-    "open_issues_count": 1722,
-    "forks_count": 24688
+    "stargazers_count": 92185,
+    "open_issues_count": 1748,
+    "forks_count": 24716
   },
   {
     "full_name": "mollyim/mollyim-android",
-    "stargazers_count": 1056,
+    "stargazers_count": 1059,
     "open_issues_count": 65,
     "forks_count": 73
   },
   {
     "full_name": "vector-im/element-meta",
     "stargazers_count": 46,
-    "open_issues_count": 1179,
+    "open_issues_count": 1177,
     "forks_count": 12
   },
   {
@@ -73,7 +103,7 @@
   },
   {
     "full_name": "schlagmichdoch/PairDrop",
-    "stargazers_count": 1734,
+    "stargazers_count": 1750,
     "open_issues_count": 30,
     "forks_count": 89
   },
@@ -91,7 +121,7 @@
   },
   {
     "full_name": "JetBrains/writerside-github-action",
-    "stargazers_count": 26,
+    "stargazers_count": 28,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -109,21 +139,21 @@
   },
   {
     "full_name": "WebKit/WebKit",
-    "stargazers_count": 6875,
-    "open_issues_count": 740,
-    "forks_count": 1084
+    "stargazers_count": 6882,
+    "open_issues_count": 747,
+    "forks_count": 1089
   },
   {
     "full_name": "GitGuardian/ggshield",
-    "stargazers_count": 1431,
-    "open_issues_count": 42,
+    "stargazers_count": 1434,
+    "open_issues_count": 39,
     "forks_count": 129
   },
   {
     "full_name": "Hashnode/starter-kit",
-    "stargazers_count": 130,
-    "open_issues_count": 0,
-    "forks_count": 159
+    "stargazers_count": 134,
+    "open_issues_count": 1,
+    "forks_count": 165
   },
   {
     "full_name": "SorkinType/Alatsi",
@@ -139,7 +169,7 @@
   },
   {
     "full_name": "13rac1/twemoji-color-font",
-    "stargazers_count": 1550,
+    "stargazers_count": 1553,
     "open_issues_count": 37,
     "forks_count": 66
   },
@@ -147,36 +177,6 @@
     "full_name": "codecrafters-io/course-sdk",
     "stargazers_count": 11,
     "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "sigstore/sigstore-python",
-    "stargazers_count": 194,
-    "open_issues_count": 31,
-    "forks_count": 41
-  },
-  {
-    "full_name": "scidsg/hushline",
-    "stargazers_count": 27,
-    "open_issues_count": 1,
-    "forks_count": 7
-  },
-  {
-    "full_name": "sts10/csafe",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "MSzturc/obsidian-advanced-slides",
-    "stargazers_count": 765,
-    "open_issues_count": 82,
-    "forks_count": 59
-  },
-  {
-    "full_name": "0atman/noboilerplate",
-    "stargazers_count": 2286,
-    "open_issues_count": 7,
-    "forks_count": 107
+    "forks_count": 9
   }
 ]
