@@ -1,44 +1,92 @@
 [
   {
+    "full_name": "github/codespaces-host-images",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "PacktPublishing/Linux-Device-Driver-Development-Second-Edition",
+    "stargazers_count": 102,
+    "open_issues_count": 6,
+    "forks_count": 40
+  },
+  {
+    "full_name": "wimpysworld/deb-get",
+    "stargazers_count": 1099,
+    "open_issues_count": 118,
+    "forks_count": 115
+  },
+  {
+    "full_name": "ajhalili2006/ppa",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "cachix/install-nix-action",
+    "stargazers_count": 410,
+    "open_issues_count": 26,
+    "forks_count": 75
+  },
+  {
+    "full_name": "ajhalili2006/shellcheck",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "storj/uplink",
+    "stargazers_count": 107,
+    "open_issues_count": 42,
+    "forks_count": 18
+  },
+  {
+    "full_name": "duongxthanh/facebook-reels-downloader",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "cncf/foundation",
     "stargazers_count": 495,
-    "open_issues_count": 54,
-    "forks_count": 482
+    "open_issues_count": 45,
+    "forks_count": 484
   },
   {
     "full_name": "containers/skopeo",
-    "stargazers_count": 6785,
-    "open_issues_count": 57,
+    "stargazers_count": 6799,
+    "open_issues_count": 58,
     "forks_count": 704
   },
   {
     "full_name": "idank/explainshell",
-    "stargazers_count": 12441,
+    "stargazers_count": 12448,
     "open_issues_count": 147,
-    "forks_count": 757
+    "forks_count": 758
   },
   {
     "full_name": "TeamNewPipe/NewPipe",
-    "stargazers_count": 26249,
-    "open_issues_count": 1225,
-    "forks_count": 2849
+    "stargazers_count": 26346,
+    "open_issues_count": 1230,
+    "forks_count": 2847
   },
   {
     "full_name": "yarnpkg/yarn",
-    "stargazers_count": 41265,
-    "open_issues_count": 1986,
+    "stargazers_count": 41261,
+    "open_issues_count": 1987,
     "forks_count": 2917
   },
   {
     "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 20457,
-    "open_issues_count": 26,
-    "forks_count": 871
+    "stargazers_count": 20482,
+    "open_issues_count": 24,
+    "forks_count": 873
   },
   {
     "full_name": "smallstep/cli",
-    "stargazers_count": 3335,
-    "open_issues_count": 128,
+    "stargazers_count": 3341,
+    "open_issues_count": 125,
     "forks_count": 232
   },
   {
@@ -55,7 +103,7 @@
   },
   {
     "full_name": "joelparkerhenderson/git-commit-message",
-    "stargazers_count": 1023,
+    "stargazers_count": 1025,
     "open_issues_count": 0,
     "forks_count": 111
   },
@@ -63,54 +111,54 @@
     "full_name": "tailscale/depaware",
     "stargazers_count": 420,
     "open_issues_count": 5,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "github/gh-copilot",
-    "stargazers_count": 262,
-    "open_issues_count": 12,
-    "forks_count": 1
+    "stargazers_count": 269,
+    "open_issues_count": 11,
+    "forks_count": 2
   },
   {
     "full_name": "TheLocehiliosan/yadm",
-    "stargazers_count": 4432,
+    "stargazers_count": 4438,
     "open_issues_count": 50,
     "forks_count": 175
   },
   {
     "full_name": "kubernetes/enhancements",
-    "stargazers_count": 3120,
-    "open_issues_count": 380,
-    "forks_count": 1484
+    "stargazers_count": 3121,
+    "open_issues_count": 379,
+    "forks_count": 1486
   },
   {
     "full_name": "cncf/tag-contributor-strategy",
     "stargazers_count": 149,
     "open_issues_count": 76,
-    "forks_count": 93
+    "forks_count": 94
   },
   {
     "full_name": "kubernetes/test-infra",
-    "stargazers_count": 3711,
-    "open_issues_count": 254,
-    "forks_count": 2614
+    "stargazers_count": 3712,
+    "open_issues_count": 252,
+    "forks_count": 2618
   },
   {
     "full_name": "BuilderIO/gpt-crawler",
-    "stargazers_count": 12255,
-    "open_issues_count": 44,
-    "forks_count": 868
+    "stargazers_count": 12900,
+    "open_issues_count": 52,
+    "forks_count": 954
   },
   {
     "full_name": "tailscale-dev/tclip",
     "stargazers_count": 112,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 12
   },
   {
     "full_name": "robvanderleek/create-issue-branch",
     "stargazers_count": 309,
-    "open_issues_count": 5,
+    "open_issues_count": 4,
     "forks_count": 63
   },
   {
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "google/open-location-code",
-    "stargazers_count": 3937,
+    "stargazers_count": 3938,
     "open_issues_count": 65,
-    "forks_count": 502
+    "forks_count": 501
   },
   {
     "full_name": "pvsvamsi/Disable-Battery-Optimizations",
     "stargazers_count": 20,
     "open_issues_count": 8,
-    "forks_count": 17
-  },
-  {
-    "full_name": "jrsoftware/issrc",
-    "stargazers_count": 3726,
-    "open_issues_count": 31,
-    "forks_count": 888
-  },
-  {
-    "full_name": "hypothesis/h",
-    "stargazers_count": 2808,
-    "open_issues_count": 146,
-    "forks_count": 441
-  },
-  {
-    "full_name": "neondatabase/neon",
-    "stargazers_count": 10456,
-    "open_issues_count": 775,
-    "forks_count": 293
-  },
-  {
-    "full_name": "android/user-interface-samples",
-    "stargazers_count": 4139,
-    "open_issues_count": 188,
-    "forks_count": 1642
-  },
-  {
-    "full_name": "angular/angular",
-    "stargazers_count": 92630,
-    "open_issues_count": 1776,
-    "forks_count": 24823
-  },
-  {
-    "full_name": "mollyim/mollyim-android",
-    "stargazers_count": 1060,
-    "open_issues_count": 66,
-    "forks_count": 73
-  },
-  {
-    "full_name": "vector-im/element-meta",
-    "stargazers_count": 47,
-    "open_issues_count": 1177,
-    "forks_count": 13
-  },
-  {
-    "full_name": "ggsava/block-this",
-    "stargazers_count": 363,
-    "open_issues_count": 29,
-    "forks_count": 63
+    "forks_count": 18
   }
 ]
