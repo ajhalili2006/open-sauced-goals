@@ -1,21 +1,75 @@
 [
   {
+    "full_name": "archlinux/archlinux-repro",
+    "stargazers_count": 116,
+    "open_issues_count": 14,
+    "forks_count": 33
+  },
+  {
+    "full_name": "kpcyrd/rebuilderd",
+    "stargazers_count": 328,
+    "open_issues_count": 24,
+    "forks_count": 23
+  },
+  {
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "stargazers_count": 159390,
+    "open_issues_count": 0,
+    "forks_count": 8750
+  },
+  {
+    "full_name": "sherlock-project/sherlock",
+    "stargazers_count": 45498,
+    "open_issues_count": 180,
+    "forks_count": 5763
+  },
+  {
+    "full_name": "microsoft/ML-For-Beginners",
+    "stargazers_count": 62742,
+    "open_issues_count": 13,
+    "forks_count": 12637
+  },
+  {
+    "full_name": "benbalter/coconductor",
+    "stargazers_count": 15,
+    "open_issues_count": 3,
+    "forks_count": 4
+  },
+  {
+    "full_name": "microsoft/foss-fund",
+    "stargazers_count": 280,
+    "open_issues_count": 0,
+    "forks_count": 21
+  },
+  {
+    "full_name": "github/github-ospo",
+    "stargazers_count": 564,
+    "open_issues_count": 0,
+    "forks_count": 54
+  },
+  {
+    "full_name": "opawg/podcast-hosts",
+    "stargazers_count": 39,
+    "open_issues_count": 0,
+    "forks_count": 28
+  },
+  {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 46489,
-    "open_issues_count": 311,
-    "forks_count": 7878
+    "stargazers_count": 46709,
+    "open_issues_count": 312,
+    "forks_count": 7923
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 4432,
-    "open_issues_count": 20,
-    "forks_count": 190
+    "stargazers_count": 4989,
+    "open_issues_count": 19,
+    "forks_count": 230
   },
   {
     "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 9526,
-    "open_issues_count": 3,
-    "forks_count": 578
+    "stargazers_count": 9579,
+    "open_issues_count": 0,
+    "forks_count": 580
   },
   {
     "full_name": "sensaehf/librenms",
@@ -25,9 +79,9 @@
   },
   {
     "full_name": "wavetermdev/waveterm",
-    "stargazers_count": 708,
-    "open_issues_count": 36,
-    "forks_count": 23
+    "stargazers_count": 772,
+    "open_issues_count": 30,
+    "forks_count": 24
   },
   {
     "full_name": "github/codespaces-host-images",
@@ -37,7 +91,7 @@
   },
   {
     "full_name": "PacktPublishing/Linux-Device-Driver-Development-Second-Edition",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 6,
     "forks_count": 40
   },
@@ -55,9 +109,9 @@
   },
   {
     "full_name": "cachix/install-nix-action",
-    "stargazers_count": 411,
+    "stargazers_count": 412,
     "open_issues_count": 26,
-    "forks_count": 75
+    "forks_count": 74
   },
   {
     "full_name": "ajhalili2006/shellcheck",
@@ -73,50 +127,50 @@
   },
   {
     "full_name": "duongxthanh/facebook-reels-downloader",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "cncf/foundation",
-    "stargazers_count": 496,
-    "open_issues_count": 49,
-    "forks_count": 488
+    "stargazers_count": 498,
+    "open_issues_count": 47,
+    "forks_count": 496
   },
   {
     "full_name": "containers/skopeo",
-    "stargazers_count": 6804,
-    "open_issues_count": 58,
-    "forks_count": 709
+    "stargazers_count": 6819,
+    "open_issues_count": 61,
+    "forks_count": 712
   },
   {
     "full_name": "idank/explainshell",
-    "stargazers_count": 12453,
+    "stargazers_count": 12462,
     "open_issues_count": 147,
     "forks_count": 758
   },
   {
     "full_name": "TeamNewPipe/NewPipe",
-    "stargazers_count": 26407,
-    "open_issues_count": 1235,
-    "forks_count": 2851
+    "stargazers_count": 26455,
+    "open_issues_count": 1229,
+    "forks_count": 2850
   },
   {
     "full_name": "yarnpkg/yarn",
-    "stargazers_count": 41263,
+    "stargazers_count": 41269,
     "open_issues_count": 1989,
-    "forks_count": 2919
+    "forks_count": 2920
   },
   {
     "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 20512,
-    "open_issues_count": 26,
-    "forks_count": 873
+    "stargazers_count": 20544,
+    "open_issues_count": 25,
+    "forks_count": 872
   },
   {
     "full_name": "smallstep/cli",
-    "stargazers_count": 3343,
-    "open_issues_count": 127,
+    "stargazers_count": 3345,
+    "open_issues_count": 126,
     "forks_count": 233
   },
   {
@@ -124,59 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "joelparkerhenderson/git-commit-template",
-    "stargazers_count": 184,
-    "open_issues_count": 0,
-    "forks_count": 29
-  },
-  {
-    "full_name": "joelparkerhenderson/git-commit-message",
-    "stargazers_count": 1026,
-    "open_issues_count": 0,
-    "forks_count": 111
-  },
-  {
-    "full_name": "tailscale/depaware",
-    "stargazers_count": 421,
-    "open_issues_count": 5,
-    "forks_count": 10
-  },
-  {
-    "full_name": "github/gh-copilot",
-    "stargazers_count": 276,
-    "open_issues_count": 11,
-    "forks_count": 3
-  },
-  {
-    "full_name": "TheLocehiliosan/yadm",
-    "stargazers_count": 4440,
-    "open_issues_count": 50,
-    "forks_count": 175
-  },
-  {
-    "full_name": "kubernetes/enhancements",
-    "stargazers_count": 3128,
-    "open_issues_count": 375,
-    "forks_count": 1485
-  },
-  {
-    "full_name": "cncf/tag-contributor-strategy",
-    "stargazers_count": 149,
-    "open_issues_count": 76,
-    "forks_count": 94
-  },
-  {
-    "full_name": "kubernetes/test-infra",
-    "stargazers_count": 3715,
-    "open_issues_count": 257,
-    "forks_count": 2620
-  },
-  {
-    "full_name": "BuilderIO/gpt-crawler",
-    "stargazers_count": 13745,
-    "open_issues_count": 57,
-    "forks_count": 1081
   }
 ]
