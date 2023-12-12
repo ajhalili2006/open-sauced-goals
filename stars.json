@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "ipxe/ipxe",
+    "stargazers_count": 1255,
+    "open_issues_count": 126,
+    "forks_count": 586
+  },
+  {
+    "full_name": "ifupdown-ng/ifupdown-ng",
+    "stargazers_count": 118,
+    "open_issues_count": 39,
+    "forks_count": 29
+  },
+  {
+    "full_name": "MarshalX/telegram-crawler",
+    "stargazers_count": 193,
+    "open_issues_count": 2,
+    "forks_count": 22
+  },
+  {
+    "full_name": "erkyrath/infocom-zcode-terps",
+    "stargazers_count": 325,
+    "open_issues_count": 0,
+    "forks_count": 29
+  },
+  {
     "full_name": "archlinux/archlinux-repro",
     "stargazers_count": 116,
     "open_issues_count": 14,
@@ -7,27 +31,27 @@
   },
   {
     "full_name": "kpcyrd/rebuilderd",
-    "stargazers_count": 328,
+    "stargazers_count": 330,
     "open_issues_count": 24,
     "forks_count": 23
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 159390,
+    "stargazers_count": 160150,
     "open_issues_count": 0,
-    "forks_count": 8750
+    "forks_count": 8812
   },
   {
     "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 45498,
+    "stargazers_count": 45635,
     "open_issues_count": 180,
-    "forks_count": 5763
+    "forks_count": 5780
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 62742,
-    "open_issues_count": 13,
-    "forks_count": 12637
+    "stargazers_count": 62913,
+    "open_issues_count": 14,
+    "forks_count": 12684
   },
   {
     "full_name": "benbalter/coconductor",
@@ -43,31 +67,31 @@
   },
   {
     "full_name": "github/github-ospo",
-    "stargazers_count": 564,
+    "stargazers_count": 567,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 56
   },
   {
     "full_name": "opawg/podcast-hosts",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 46709,
-    "open_issues_count": 312,
-    "forks_count": 7923
+    "stargazers_count": 46914,
+    "open_issues_count": 314,
+    "forks_count": 7985
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 4989,
-    "open_issues_count": 19,
-    "forks_count": 230
+    "stargazers_count": 5601,
+    "open_issues_count": 17,
+    "forks_count": 259
   },
   {
     "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 9579,
+    "stargazers_count": 9626,
     "open_issues_count": 0,
     "forks_count": 580
   },
@@ -79,25 +103,25 @@
   },
   {
     "full_name": "wavetermdev/waveterm",
-    "stargazers_count": 772,
-    "open_issues_count": 30,
-    "forks_count": 24
+    "stargazers_count": 962,
+    "open_issues_count": 31,
+    "forks_count": 25
   },
   {
     "full_name": "github/codespaces-host-images",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "PacktPublishing/Linux-Device-Driver-Development-Second-Edition",
-    "stargazers_count": 104,
+    "stargazers_count": 106,
     "open_issues_count": 6,
     "forks_count": 40
   },
   {
     "full_name": "wimpysworld/deb-get",
-    "stargazers_count": 1102,
+    "stargazers_count": 1103,
     "open_issues_count": 118,
     "forks_count": 116
   },
@@ -111,7 +135,7 @@
     "full_name": "cachix/install-nix-action",
     "stargazers_count": 412,
     "open_issues_count": 26,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "ajhalili2006/shellcheck",
@@ -121,8 +145,8 @@
   },
   {
     "full_name": "storj/uplink",
-    "stargazers_count": 107,
-    "open_issues_count": 42,
+    "stargazers_count": 106,
+    "open_issues_count": 43,
     "forks_count": 18
   },
   {
@@ -133,50 +157,26 @@
   },
   {
     "full_name": "cncf/foundation",
-    "stargazers_count": 498,
-    "open_issues_count": 47,
-    "forks_count": 496
+    "stargazers_count": 499,
+    "open_issues_count": 45,
+    "forks_count": 497
   },
   {
     "full_name": "containers/skopeo",
-    "stargazers_count": 6819,
-    "open_issues_count": 61,
-    "forks_count": 712
+    "stargazers_count": 6825,
+    "open_issues_count": 62,
+    "forks_count": 711
   },
   {
     "full_name": "idank/explainshell",
-    "stargazers_count": 12462,
+    "stargazers_count": 12477,
     "open_issues_count": 147,
-    "forks_count": 758
+    "forks_count": 759
   },
   {
     "full_name": "TeamNewPipe/NewPipe",
-    "stargazers_count": 26455,
+    "stargazers_count": 26553,
     "open_issues_count": 1229,
-    "forks_count": 2850
-  },
-  {
-    "full_name": "yarnpkg/yarn",
-    "stargazers_count": 41269,
-    "open_issues_count": 1989,
-    "forks_count": 2920
-  },
-  {
-    "full_name": "kovidgoyal/kitty",
-    "stargazers_count": 20544,
-    "open_issues_count": 25,
-    "forks_count": 872
-  },
-  {
-    "full_name": "smallstep/cli",
-    "stargazers_count": 3345,
-    "open_issues_count": 126,
-    "forks_count": 233
-  },
-  {
-    "full_name": "bcdr-demos/python-project",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "forks_count": 2875
   }
 ]
