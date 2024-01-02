@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "DirectoryLister/DirectoryLister",
+    "stargazers_count": 2025,
+    "open_issues_count": 12,
+    "forks_count": 511
+  },
+  {
     "full_name": "zulip/zulip-js",
     "stargazers_count": 71,
     "open_issues_count": 22,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "herzhenr/spic-server",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -25,27 +31,27 @@
   },
   {
     "full_name": "element-hq/synapse",
-    "stargazers_count": 140,
-    "open_issues_count": 1535,
+    "stargazers_count": 157,
+    "open_issues_count": 1536,
     "forks_count": 11
   },
   {
     "full_name": "p8952/bocker",
-    "stargazers_count": 10931,
+    "stargazers_count": 10930,
     "open_issues_count": 12,
     "forks_count": 717
   },
   {
     "full_name": "upciti/ops2deb",
     "stargazers_count": 21,
-    "open_issues_count": 14,
+    "open_issues_count": 16,
     "forks_count": 3
   },
   {
     "full_name": "ipxe/ipxe",
-    "stargazers_count": 1270,
-    "open_issues_count": 126,
-    "forks_count": 585
+    "stargazers_count": 1271,
+    "open_issues_count": 125,
+    "forks_count": 587
   },
   {
     "full_name": "ifupdown-ng/ifupdown-ng",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "erkyrath/infocom-zcode-terps",
-    "stargazers_count": 337,
+    "stargazers_count": 339,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 32
   },
   {
     "full_name": "archlinux/archlinux-repro",
@@ -73,27 +79,27 @@
   },
   {
     "full_name": "kpcyrd/rebuilderd",
-    "stargazers_count": 332,
+    "stargazers_count": 331,
     "open_issues_count": 24,
     "forks_count": 23
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 162634,
+    "stargazers_count": 163093,
     "open_issues_count": 0,
-    "forks_count": 8946
+    "forks_count": 8962
   },
   {
     "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 45925,
+    "stargazers_count": 45980,
     "open_issues_count": 178,
-    "forks_count": 5846
+    "forks_count": 5854
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 63444,
-    "open_issues_count": 20,
-    "forks_count": 12848
+    "stargazers_count": 63557,
+    "open_issues_count": 22,
+    "forks_count": 12887
   },
   {
     "full_name": "benbalter/coconductor",
@@ -109,7 +115,7 @@
   },
   {
     "full_name": "github/github-ospo",
-    "stargazers_count": 567,
+    "stargazers_count": 568,
     "open_issues_count": 0,
     "forks_count": 56
   },
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 47700,
-    "open_issues_count": 309,
-    "forks_count": 8146
+    "stargazers_count": 47806,
+    "open_issues_count": 311,
+    "forks_count": 8164
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 7697,
+    "stargazers_count": 7950,
     "open_issues_count": 21,
-    "forks_count": 394
+    "forks_count": 402
   },
   {
     "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 9854,
-    "open_issues_count": 0,
-    "forks_count": 592
+    "stargazers_count": 9880,
+    "open_issues_count": 1,
+    "forks_count": 595
   },
   {
     "full_name": "sensaehf/librenms",
@@ -145,26 +151,26 @@
   },
   {
     "full_name": "wavetermdev/waveterm",
-    "stargazers_count": 1789,
-    "open_issues_count": 50,
+    "stargazers_count": 1851,
+    "open_issues_count": 53,
     "forks_count": 32
   },
   {
     "full_name": "github/codespaces-host-images",
     "stargazers_count": 4,
-    "open_issues_count": 0,
+    "open_issues_count": 5,
     "forks_count": 9
   },
   {
     "full_name": "PacktPublishing/Linux-Device-Driver-Development-Second-Edition",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 6,
     "forks_count": 41
   },
   {
     "full_name": "wimpysworld/deb-get",
-    "stargazers_count": 1109,
-    "open_issues_count": 122,
+    "stargazers_count": 1110,
+    "open_issues_count": 121,
     "forks_count": 116
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "cachix/install-nix-action",
-    "stargazers_count": 419,
-    "open_issues_count": 26,
-    "forks_count": 76
   }
 ]
