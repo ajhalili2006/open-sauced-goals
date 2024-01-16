@@ -1,7 +1,19 @@
 [
   {
+    "full_name": "Podcastindex-org/podcast-namespace",
+    "stargazers_count": 337,
+    "open_issues_count": 92,
+    "forks_count": 108
+  },
+  {
+    "full_name": "algolia/docsearch",
+    "stargazers_count": 3719,
+    "open_issues_count": 101,
+    "forks_count": 384
+  },
+  {
     "full_name": "DirectoryLister/DirectoryLister",
-    "stargazers_count": 2032,
+    "stargazers_count": 2031,
     "open_issues_count": 15,
     "forks_count": 513
   },
@@ -13,31 +25,31 @@
   },
   {
     "full_name": "thechangelog/transcripts",
-    "stargazers_count": 436,
-    "open_issues_count": 4,
+    "stargazers_count": 435,
+    "open_issues_count": 3,
     "forks_count": 324
   },
   {
     "full_name": "herzhenr/spic-server",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 1,
     "forks_count": 3
   },
   {
     "full_name": "steve-bate/activitypub-testsuite",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "element-hq/synapse",
-    "stargazers_count": 227,
-    "open_issues_count": 1530,
-    "forks_count": 16
+    "stargazers_count": 259,
+    "open_issues_count": 1533,
+    "forks_count": 17
   },
   {
     "full_name": "p8952/bocker",
-    "stargazers_count": 10944,
+    "stargazers_count": 10945,
     "open_issues_count": 12,
     "forks_count": 716
   },
@@ -49,19 +61,19 @@
   },
   {
     "full_name": "ipxe/ipxe",
-    "stargazers_count": 1283,
-    "open_issues_count": 125,
+    "stargazers_count": 1284,
+    "open_issues_count": 126,
     "forks_count": 591
   },
   {
     "full_name": "ifupdown-ng/ifupdown-ng",
-    "stargazers_count": 119,
-    "open_issues_count": 40,
+    "stargazers_count": 118,
+    "open_issues_count": 41,
     "forks_count": 29
   },
   {
     "full_name": "MarshalX/telegram-crawler",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 0,
     "forks_count": 23
   },
@@ -79,27 +91,27 @@
   },
   {
     "full_name": "kpcyrd/rebuilderd",
-    "stargazers_count": 332,
+    "stargazers_count": 333,
     "open_issues_count": 24,
     "forks_count": 23
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 164345,
+    "stargazers_count": 164782,
     "open_issues_count": 0,
-    "forks_count": 9015
+    "forks_count": 9032
   },
   {
     "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 46113,
-    "open_issues_count": 180,
-    "forks_count": 5881
+    "stargazers_count": 46162,
+    "open_issues_count": 181,
+    "forks_count": 5894
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 63775,
+    "stargazers_count": 63834,
     "open_issues_count": 22,
-    "forks_count": 12993
+    "forks_count": 13022
   },
   {
     "full_name": "benbalter/coconductor",
@@ -115,9 +127,9 @@
   },
   {
     "full_name": "github/github-ospo",
-    "stargazers_count": 568,
-    "open_issues_count": 0,
-    "forks_count": 56
+    "stargazers_count": 570,
+    "open_issues_count": 2,
+    "forks_count": 57
   },
   {
     "full_name": "opawg/podcast-hosts",
@@ -127,21 +139,21 @@
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 48232,
+    "stargazers_count": 48357,
     "open_issues_count": 306,
-    "forks_count": 8270
+    "forks_count": 8296
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 8461,
-    "open_issues_count": 22,
-    "forks_count": 426
+    "stargazers_count": 8555,
+    "open_issues_count": 24,
+    "forks_count": 429
   },
   {
     "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 10019,
+    "stargazers_count": 10067,
     "open_issues_count": 0,
-    "forks_count": 602
+    "forks_count": 607
   },
   {
     "full_name": "sensaehf/librenms",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "wavetermdev/waveterm",
-    "stargazers_count": 1987,
-    "open_issues_count": 50,
+    "stargazers_count": 2003,
+    "open_issues_count": 53,
     "forks_count": 33
   },
   {
     "full_name": "github/codespaces-host-images",
     "stargazers_count": 5,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "PacktPublishing/Linux-Device-Driver-Development-Second-Edition",
     "stargazers_count": 112,
     "open_issues_count": 6,
     "forks_count": 42
-  },
-  {
-    "full_name": "wimpysworld/deb-get",
-    "stargazers_count": 1115,
-    "open_issues_count": 122,
-    "forks_count": 117
-  },
-  {
-    "full_name": "ajhalili2006/ppa",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
