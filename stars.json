@@ -1,26 +1,50 @@
 [
   {
+    "full_name": "pimoroni/badger2040",
+    "stargazers_count": 109,
+    "open_issues_count": 38,
+    "forks_count": 42
+  },
+  {
+    "full_name": "mautrix/gmessages",
+    "stargazers_count": 47,
+    "open_issues_count": 7,
+    "forks_count": 5
+  },
+  {
+    "full_name": "rgerum/unofficial-duolingo-stories",
+    "stargazers_count": 102,
+    "open_issues_count": 14,
+    "forks_count": 32
+  },
+  {
+    "full_name": "gittuf/gittuf",
+    "stargazers_count": 286,
+    "open_issues_count": 51,
+    "forks_count": 18
+  },
+  {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 2948,
-    "open_issues_count": 434,
-    "forks_count": 257
+    "stargazers_count": 2958,
+    "open_issues_count": 446,
+    "forks_count": 266
   },
   {
     "full_name": "Podcastindex-org/podcast-namespace",
-    "stargazers_count": 337,
-    "open_issues_count": 92,
+    "stargazers_count": 338,
+    "open_issues_count": 91,
     "forks_count": 108
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 3724,
+    "stargazers_count": 3730,
     "open_issues_count": 102,
-    "forks_count": 385
+    "forks_count": 386
   },
   {
     "full_name": "DirectoryLister/DirectoryLister",
-    "stargazers_count": 2034,
-    "open_issues_count": 15,
+    "stargazers_count": 2040,
+    "open_issues_count": 16,
     "forks_count": 513
   },
   {
@@ -49,13 +73,13 @@
   },
   {
     "full_name": "element-hq/synapse",
-    "stargazers_count": 283,
-    "open_issues_count": 1536,
-    "forks_count": 19
+    "stargazers_count": 304,
+    "open_issues_count": 1537,
+    "forks_count": 20
   },
   {
     "full_name": "p8952/bocker",
-    "stargazers_count": 10951,
+    "stargazers_count": 10953,
     "open_issues_count": 12,
     "forks_count": 716
   },
@@ -67,9 +91,9 @@
   },
   {
     "full_name": "ipxe/ipxe",
-    "stargazers_count": 1285,
+    "stargazers_count": 1293,
     "open_issues_count": 125,
-    "forks_count": 594
+    "forks_count": 595
   },
   {
     "full_name": "ifupdown-ng/ifupdown-ng",
@@ -79,9 +103,9 @@
   },
   {
     "full_name": "MarshalX/telegram-crawler",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "erkyrath/infocom-zcode-terps",
@@ -97,27 +121,27 @@
   },
   {
     "full_name": "kpcyrd/rebuilderd",
-    "stargazers_count": 333,
+    "stargazers_count": 335,
     "open_issues_count": 24,
     "forks_count": 23
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 165159,
+    "stargazers_count": 165729,
     "open_issues_count": 0,
-    "forks_count": 9044
+    "forks_count": 9059
   },
   {
     "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 46211,
-    "open_issues_count": 185,
-    "forks_count": 5904
+    "stargazers_count": 46277,
+    "open_issues_count": 182,
+    "forks_count": 5920
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 63876,
+    "stargazers_count": 63941,
     "open_issues_count": 22,
-    "forks_count": 13042
+    "forks_count": 13077
   },
   {
     "full_name": "benbalter/coconductor",
@@ -134,7 +158,7 @@
   {
     "full_name": "github/github-ospo",
     "stargazers_count": 570,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 57
   },
   {
@@ -145,38 +169,14 @@
   },
   {
     "full_name": "facebookresearch/llama",
-    "stargazers_count": 48492,
-    "open_issues_count": 302,
-    "forks_count": 8321
+    "stargazers_count": 48665,
+    "open_issues_count": 303,
+    "forks_count": 8355
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 8627,
-    "open_issues_count": 32,
-    "forks_count": 434
-  },
-  {
-    "full_name": "SpotX-Official/SpotX",
-    "stargazers_count": 10130,
-    "open_issues_count": 0,
-    "forks_count": 608
-  },
-  {
-    "full_name": "sensaehf/librenms",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "wavetermdev/waveterm",
-    "stargazers_count": 2017,
-    "open_issues_count": 53,
-    "forks_count": 34
-  },
-  {
-    "full_name": "github/codespaces-host-images",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 11
+    "stargazers_count": 8711,
+    "open_issues_count": 23,
+    "forks_count": 439
   }
 ]
