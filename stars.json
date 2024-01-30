@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "flathub-infra/website",
+    "stargazers_count": 172,
+    "open_issues_count": 85,
+    "forks_count": 68
+  },
+  {
+    "full_name": "stefansundin/2fa-qr",
+    "stargazers_count": 196,
+    "open_issues_count": 0,
+    "forks_count": 75
+  },
+  {
+    "full_name": "tildeverse/mastodon",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "steplix/emv-qrcps",
     "stargazers_count": 16,
     "open_issues_count": 1,
@@ -7,49 +25,49 @@
   },
   {
     "full_name": "pimoroni/badger2040",
-    "stargazers_count": 109,
+    "stargazers_count": 111,
     "open_issues_count": 38,
     "forks_count": 42
   },
   {
     "full_name": "mautrix/gmessages",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 7,
     "forks_count": 5
   },
   {
     "full_name": "rgerum/unofficial-duolingo-stories",
     "stargazers_count": 102,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 32
   },
   {
     "full_name": "gittuf/gittuf",
-    "stargazers_count": 288,
+    "stargazers_count": 295,
     "open_issues_count": 52,
     "forks_count": 18
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 2964,
-    "open_issues_count": 432,
-    "forks_count": 264
+    "stargazers_count": 2997,
+    "open_issues_count": 439,
+    "forks_count": 268
   },
   {
     "full_name": "Podcastindex-org/podcast-namespace",
-    "stargazers_count": 340,
-    "open_issues_count": 91,
+    "stargazers_count": 341,
+    "open_issues_count": 93,
     "forks_count": 108
   },
   {
     "full_name": "algolia/docsearch",
-    "stargazers_count": 3732,
+    "stargazers_count": 3730,
     "open_issues_count": 102,
-    "forks_count": 386
+    "forks_count": 387
   },
   {
     "full_name": "DirectoryLister/DirectoryLister",
-    "stargazers_count": 2039,
+    "stargazers_count": 2041,
     "open_issues_count": 16,
     "forks_count": 512
   },
@@ -61,7 +79,7 @@
   },
   {
     "full_name": "thechangelog/transcripts",
-    "stargazers_count": 438,
+    "stargazers_count": 439,
     "open_issues_count": 3,
     "forks_count": 324
   },
@@ -79,27 +97,27 @@
   },
   {
     "full_name": "element-hq/synapse",
-    "stargazers_count": 322,
-    "open_issues_count": 1542,
-    "forks_count": 22
+    "stargazers_count": 350,
+    "open_issues_count": 1558,
+    "forks_count": 26
   },
   {
     "full_name": "p8952/bocker",
-    "stargazers_count": 10960,
+    "stargazers_count": 10965,
     "open_issues_count": 12,
-    "forks_count": 717
+    "forks_count": 718
   },
   {
     "full_name": "upciti/ops2deb",
-    "stargazers_count": 22,
-    "open_issues_count": 9,
+    "stargazers_count": 23,
+    "open_issues_count": 13,
     "forks_count": 3
   },
   {
     "full_name": "ipxe/ipxe",
-    "stargazers_count": 1296,
+    "stargazers_count": 1300,
     "open_issues_count": 127,
-    "forks_count": 597
+    "forks_count": 599
   },
   {
     "full_name": "ifupdown-ng/ifupdown-ng",
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "archlinux/archlinux-repro",
-    "stargazers_count": 117,
+    "stargazers_count": 118,
     "open_issues_count": 14,
     "forks_count": 33
   },
@@ -133,21 +151,21 @@
   },
   {
     "full_name": "awesome-selfhosted/awesome-selfhosted",
-    "stargazers_count": 166370,
+    "stargazers_count": 166992,
     "open_issues_count": 0,
-    "forks_count": 9080
+    "forks_count": 9112
   },
   {
     "full_name": "sherlock-project/sherlock",
-    "stargazers_count": 46341,
+    "stargazers_count": 46395,
     "open_issues_count": 182,
-    "forks_count": 5926
+    "forks_count": 5943
   },
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 64051,
-    "open_issues_count": 22,
-    "forks_count": 13111
+    "stargazers_count": 64146,
+    "open_issues_count": 23,
+    "forks_count": 13144
   },
   {
     "full_name": "benbalter/coconductor",
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "microsoft/foss-fund",
-    "stargazers_count": 282,
+    "stargazers_count": 283,
     "open_issues_count": 0,
     "forks_count": 21
-  },
-  {
-    "full_name": "github/github-ospo",
-    "stargazers_count": 571,
-    "open_issues_count": 0,
-    "forks_count": 57
-  },
-  {
-    "full_name": "opawg/podcast-hosts",
-    "stargazers_count": 41,
-    "open_issues_count": 0,
-    "forks_count": 28
-  },
-  {
-    "full_name": "facebookresearch/llama",
-    "stargazers_count": 48799,
-    "open_issues_count": 303,
-    "forks_count": 8376
   }
 ]
