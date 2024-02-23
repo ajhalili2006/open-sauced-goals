@@ -7,20 +7,20 @@
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 4577,
+    "stargazers_count": 4590,
     "open_issues_count": 30,
     "forks_count": 126
   },
   {
     "full_name": "fingerprintjs/BotD",
-    "stargazers_count": 837,
+    "stargazers_count": 845,
     "open_issues_count": 2,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "github/evergreen",
-    "stargazers_count": 101,
-    "open_issues_count": 18,
+    "stargazers_count": 104,
+    "open_issues_count": 12,
     "forks_count": 7
   },
   {
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "ajayyy/SponsorBlock",
-    "stargazers_count": 8437,
+    "stargazers_count": 8444,
     "open_issues_count": 296,
-    "forks_count": 295
+    "forks_count": 280
   },
   {
     "full_name": "ajayyy/DeArrow",
-    "stargazers_count": 872,
-    "open_issues_count": 68,
-    "forks_count": 27
+    "stargazers_count": 876,
+    "open_issues_count": 69,
+    "forks_count": 28
   },
   {
     "full_name": "WordPress/wordpress-develop",
-    "stargazers_count": 2210,
-    "open_issues_count": 1355,
-    "forks_count": 2303
+    "stargazers_count": 2211,
+    "open_issues_count": 1353,
+    "forks_count": 2239
   },
   {
     "full_name": "WordPress/wporg-two-factor",
@@ -62,7 +62,7 @@
   {
     "full_name": "flathub-infra/website",
     "stargazers_count": 177,
-    "open_issues_count": 81,
+    "open_issues_count": 83,
     "forks_count": 72
   },
   {
@@ -86,7 +86,7 @@
   {
     "full_name": "pimoroni/badger2040",
     "stargazers_count": 113,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 43
   },
   {
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "rgerum/unofficial-duolingo-stories",
-    "stargazers_count": 107,
+    "stargazers_count": 108,
     "open_issues_count": 15,
     "forks_count": 31
   },
   {
     "full_name": "gittuf/gittuf",
-    "stargazers_count": 305,
-    "open_issues_count": 50,
+    "stargazers_count": 306,
+    "open_issues_count": 48,
     "forks_count": 19
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 3085,
-    "open_issues_count": 426,
-    "forks_count": 280
+    "stargazers_count": 3091,
+    "open_issues_count": 424,
+    "forks_count": 231
   },
   {
     "full_name": "Podcastindex-org/podcast-namespace",
@@ -123,11 +123,11 @@
     "full_name": "algolia/docsearch",
     "stargazers_count": 3742,
     "open_issues_count": 108,
-    "forks_count": 388
+    "forks_count": 359
   },
   {
     "full_name": "DirectoryLister/DirectoryLister",
-    "stargazers_count": 2055,
+    "stargazers_count": 2058,
     "open_issues_count": 20,
     "forks_count": 511
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "herzhenr/spic-server",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 1,
     "forks_count": 3
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "element-hq/synapse",
-    "stargazers_count": 440,
-    "open_issues_count": 1595,
-    "forks_count": 38
+    "stargazers_count": 457,
+    "open_issues_count": 1591,
+    "forks_count": 43
   },
   {
     "full_name": "p8952/bocker",
-    "stargazers_count": 10982,
+    "stargazers_count": 10985,
     "open_issues_count": 12,
     "forks_count": 717
   },
   {
     "full_name": "upciti/ops2deb",
     "stargazers_count": 23,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 3
   },
   {
     "full_name": "ipxe/ipxe",
-    "stargazers_count": 1317,
-    "open_issues_count": 126,
-    "forks_count": 603
+    "stargazers_count": 1319,
+    "open_issues_count": 125,
+    "forks_count": 590
   }
 ]
