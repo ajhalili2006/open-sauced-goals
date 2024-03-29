@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "ethereum-lists/chains",
+    "stargazers_count": 7975,
+    "open_issues_count": 122,
+    "forks_count": 5480
+  },
+  {
     "full_name": "microsoft/garnet",
-    "stargazers_count": 6794,
-    "open_issues_count": 26,
-    "forks_count": 279
+    "stargazers_count": 7463,
+    "open_issues_count": 32,
+    "forks_count": 315
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12365,
-    "open_issues_count": 157,
-    "forks_count": 1377
+    "stargazers_count": 12388,
+    "open_issues_count": 159,
+    "forks_count": 1381
   },
   {
     "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 21534,
-    "open_issues_count": 237,
-    "forks_count": 2329
+    "stargazers_count": 21631,
+    "open_issues_count": 246,
+    "forks_count": 2341
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 31368,
-    "open_issues_count": 21,
-    "forks_count": 18549
+    "stargazers_count": 31822,
+    "open_issues_count": 19,
+    "forks_count": 18851
   },
   {
     "full_name": "doubleangels/NextDNSManager",
-    "stargazers_count": 189,
-    "open_issues_count": 2,
+    "stargazers_count": 191,
+    "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "dahlia/fedify",
-    "stargazers_count": 127,
-    "open_issues_count": 6,
+    "stargazers_count": 139,
+    "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "electric-capital/crypto-ecosystems",
-    "stargazers_count": 1200,
-    "open_issues_count": 28,
-    "forks_count": 1048
+    "stargazers_count": 1261,
+    "open_issues_count": 43,
+    "forks_count": 1080
   },
   {
     "full_name": "fluencelabs/dev-rewards",
-    "stargazers_count": 428,
-    "open_issues_count": 8,
-    "forks_count": 273
+    "stargazers_count": 465,
+    "open_issues_count": 11,
+    "forks_count": 296
   },
   {
     "full_name": "cloudflare/pingora",
-    "stargazers_count": 17825,
-    "open_issues_count": 68,
-    "forks_count": 949
+    "stargazers_count": 17995,
+    "open_issues_count": 78,
+    "forks_count": 965
   },
   {
     "full_name": "ironicbadger/infra",
@@ -61,14 +67,14 @@
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 4675,
-    "open_issues_count": 30,
+    "stargazers_count": 4690,
+    "open_issues_count": 31,
     "forks_count": 125
   },
   {
     "full_name": "fingerprintjs/BotD",
-    "stargazers_count": 877,
-    "open_issues_count": 3,
+    "stargazers_count": 882,
+    "open_issues_count": 4,
     "forks_count": 73
   },
   {
@@ -79,27 +85,27 @@
   },
   {
     "full_name": "mchangrh/sb-mirror",
-    "stargazers_count": 150,
+    "stargazers_count": 151,
     "open_issues_count": 13,
     "forks_count": 22
   },
   {
     "full_name": "ajayyy/SponsorBlock",
-    "stargazers_count": 8572,
-    "open_issues_count": 292,
+    "stargazers_count": 8585,
+    "open_issues_count": 293,
     "forks_count": 280
   },
   {
     "full_name": "ajayyy/DeArrow",
-    "stargazers_count": 925,
-    "open_issues_count": 68,
+    "stargazers_count": 930,
+    "open_issues_count": 69,
     "forks_count": 29
   },
   {
     "full_name": "WordPress/wordpress-develop",
-    "stargazers_count": 2253,
-    "open_issues_count": 1392,
-    "forks_count": 2276
+    "stargazers_count": 2251,
+    "open_issues_count": 1391,
+    "forks_count": 2282
   },
   {
     "full_name": "WordPress/wporg-two-factor",
@@ -115,8 +121,8 @@
   },
   {
     "full_name": "flathub-infra/website",
-    "stargazers_count": 182,
-    "open_issues_count": 84,
+    "stargazers_count": 183,
+    "open_issues_count": 83,
     "forks_count": 75
   },
   {
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "pimoroni/badger2040",
-    "stargazers_count": 121,
-    "open_issues_count": 40,
-    "forks_count": 44
+    "stargazers_count": 123,
+    "open_issues_count": 39,
+    "forks_count": 43
   },
   {
     "full_name": "mautrix/gmessages",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 6,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "rgerum/unofficial-duolingo-stories",
@@ -158,25 +164,19 @@
   {
     "full_name": "gittuf/gittuf",
     "stargazers_count": 313,
-    "open_issues_count": 48,
+    "open_issues_count": 49,
     "forks_count": 19
   },
   {
     "full_name": "microsoft/devhome",
-    "stargazers_count": 3193,
-    "open_issues_count": 442,
-    "forks_count": 242
+    "stargazers_count": 3222,
+    "open_issues_count": 444,
+    "forks_count": 244
   },
   {
     "full_name": "Podcastindex-org/podcast-namespace",
     "stargazers_count": 356,
-    "open_issues_count": 93,
+    "open_issues_count": 94,
     "forks_count": 108
-  },
-  {
-    "full_name": "algolia/docsearch",
-    "stargazers_count": 3781,
-    "open_issues_count": 113,
-    "forks_count": 364
   }
 ]
