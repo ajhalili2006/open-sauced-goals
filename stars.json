@@ -1,9 +1,9 @@
 [
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 25562,
-    "open_issues_count": 23510,
-    "forks_count": 10418
+    "stargazers_count": 25638,
+    "open_issues_count": 23590,
+    "forks_count": 10445
   },
   {
     "full_name": "ton-blockchain/multisig-contract-v2",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "google/certificate-transparency-go",
-    "stargazers_count": 834,
-    "open_issues_count": 43,
+    "stargazers_count": 838,
+    "open_issues_count": 40,
     "forks_count": 227
   },
   {
     "full_name": "crtsh/ct_monitor",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 6,
     "forks_count": 28
   },
@@ -27,11 +27,11 @@
     "full_name": "anza-xyz/solana-pay",
     "stargazers_count": 1241,
     "open_issues_count": 31,
-    "forks_count": 439
+    "forks_count": 442
   },
   {
     "full_name": "Masterminds/go-in-practice",
-    "stargazers_count": 348,
+    "stargazers_count": 349,
     "open_issues_count": 4,
     "forks_count": 128
   },
@@ -39,24 +39,24 @@
     "full_name": "Duncaen/OpenDoas",
     "stargazers_count": 595,
     "open_issues_count": 29,
-    "forks_count": 35
+    "forks_count": 34
   },
   {
     "full_name": "qbittorrent/qBittorrent",
-    "stargazers_count": 25051,
-    "open_issues_count": 2843,
-    "forks_count": 3765
+    "stargazers_count": 25109,
+    "open_issues_count": 2847,
+    "forks_count": 3770
   },
   {
     "full_name": "hakwerk/labca",
-    "stargazers_count": 287,
+    "stargazers_count": 289,
     "open_issues_count": 6,
     "forks_count": 33
   },
   {
     "full_name": "lovesegfault/nix-config",
-    "stargazers_count": 289,
-    "open_issues_count": 3,
+    "stargazers_count": 292,
+    "open_issues_count": 1,
     "forks_count": 12
   },
   {
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "php/php-src",
-    "stargazers_count": 37289,
-    "open_issues_count": 956,
-    "forks_count": 7657
+    "stargazers_count": 37311,
+    "open_issues_count": 967,
+    "forks_count": 7654
   },
   {
     "full_name": "github/covid19-dashboard",
     "stargazers_count": 1644,
-    "open_issues_count": 3300,
+    "open_issues_count": 3316,
     "forks_count": 425
   },
   {
@@ -97,33 +97,33 @@
   },
   {
     "full_name": "ethereum-lists/chains",
-    "stargazers_count": 8123,
-    "open_issues_count": 96,
-    "forks_count": 5616
+    "stargazers_count": 8146,
+    "open_issues_count": 94,
+    "forks_count": 5647
   },
   {
     "full_name": "microsoft/garnet",
-    "stargazers_count": 9147,
-    "open_issues_count": 24,
-    "forks_count": 412
+    "stargazers_count": 9249,
+    "open_issues_count": 27,
+    "forks_count": 419
   },
   {
     "full_name": "CISOfy/lynis",
-    "stargazers_count": 12509,
-    "open_issues_count": 168,
-    "forks_count": 1399
+    "stargazers_count": 12524,
+    "open_issues_count": 169,
+    "forks_count": 1401
   },
   {
     "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 22264,
-    "open_issues_count": 255,
-    "forks_count": 2423
+    "stargazers_count": 22317,
+    "open_issues_count": 256,
+    "forks_count": 2428
   },
   {
     "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 42574,
-    "open_issues_count": 25,
-    "forks_count": 23193
+    "stargazers_count": 42954,
+    "open_issues_count": 26,
+    "forks_count": 23396
   },
   {
     "full_name": "doubleangels/NextDNSManager",
@@ -133,27 +133,27 @@
   },
   {
     "full_name": "dahlia/fedify",
-    "stargazers_count": 177,
+    "stargazers_count": 181,
     "open_issues_count": 6,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "electric-capital/crypto-ecosystems",
-    "stargazers_count": 1308,
+    "stargazers_count": 1317,
     "open_issues_count": 60,
-    "forks_count": 1102
+    "forks_count": 1106
   },
   {
     "full_name": "fluencelabs/dev-rewards",
-    "stargazers_count": 515,
+    "stargazers_count": 524,
     "open_issues_count": 20,
-    "forks_count": 326
+    "forks_count": 332
   },
   {
     "full_name": "cloudflare/pingora",
-    "stargazers_count": 19176,
-    "open_issues_count": 73,
-    "forks_count": 1035
+    "stargazers_count": 19427,
+    "open_issues_count": 74,
+    "forks_count": 1057
   },
   {
     "full_name": "ironicbadger/infra",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 4837,
+    "stargazers_count": 4844,
     "open_issues_count": 34,
     "forks_count": 126
   },
   {
     "full_name": "fingerprintjs/BotD",
-    "stargazers_count": 908,
+    "stargazers_count": 910,
     "open_issues_count": 5,
     "forks_count": 76
   },
   {
     "full_name": "github/evergreen",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 11,
     "forks_count": 11
   }
