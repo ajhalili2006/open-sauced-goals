@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "1nikolas/play-integrity-checker-server",
+    "stargazers_count": 42,
+    "open_issues_count": 1,
+    "forks_count": 111
+  },
+  {
+    "full_name": "1nikolas/play-integrity-checker-app",
+    "stargazers_count": 284,
+    "open_issues_count": 2,
+    "forks_count": 40
+  },
+  {
+    "full_name": "LedgerHQ/app-ethereum",
+    "stargazers_count": 189,
+    "open_issues_count": 39,
+    "forks_count": 205
+  },
+  {
+    "full_name": "tonkeeper/ton-assets",
+    "stargazers_count": 92,
+    "open_issues_count": 289,
+    "forks_count": 359
+  },
+  {
+    "full_name": "recaptime-dev/devcontainers-feature-toolkits",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tailscale/golink",
+    "stargazers_count": 1153,
+    "open_issues_count": 18,
+    "forks_count": 69
+  },
+  {
+    "full_name": "gmemstr/tclip",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "OpenProduct/openmask-extension",
     "stargazers_count": 55,
     "open_issues_count": 16,
@@ -13,9 +55,9 @@
   },
   {
     "full_name": "PostgREST/postgrest",
-    "stargazers_count": 22470,
-    "open_issues_count": 253,
-    "forks_count": 993
+    "stargazers_count": 22488,
+    "open_issues_count": 252,
+    "forks_count": 996
   },
   {
     "full_name": "strideynet/bsky-furry-feed",
@@ -25,49 +67,49 @@
   },
   {
     "full_name": "did-method-plc/did-method-plc",
-    "stargazers_count": 129,
+    "stargazers_count": 130,
     "open_issues_count": 14,
     "forks_count": 25
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 1271,
-    "open_issues_count": 67,
+    "stargazers_count": 1276,
+    "open_issues_count": 64,
     "forks_count": 104
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 22398,
-    "open_issues_count": 1554,
-    "forks_count": 3260
+    "stargazers_count": 22424,
+    "open_issues_count": 1562,
+    "forks_count": 3266
   },
   {
     "full_name": "jakehamilton/nixpkgs.news",
     "stargazers_count": 12,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "AndronixApp/AndronixOrigin",
-    "stargazers_count": 1590,
-    "open_issues_count": 131,
-    "forks_count": 300
+    "stargazers_count": 1597,
+    "open_issues_count": 130,
+    "forks_count": 301
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26062,
-    "open_issues_count": 23954,
-    "forks_count": 10659
+    "stargazers_count": 26135,
+    "open_issues_count": 23955,
+    "forks_count": 10679
   },
   {
     "full_name": "ton-blockchain/multisig-contract-v2",
     "stargazers_count": 33,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "google/certificate-transparency-go",
-    "stargazers_count": 848,
+    "stargazers_count": 849,
     "open_issues_count": 36,
     "forks_count": 226
   },
@@ -79,7 +121,7 @@
   },
   {
     "full_name": "anza-xyz/solana-pay",
-    "stargazers_count": 1249,
+    "stargazers_count": 1252,
     "open_issues_count": 33,
     "forks_count": 444
   },
@@ -91,19 +133,19 @@
   },
   {
     "full_name": "Duncaen/OpenDoas",
-    "stargazers_count": 604,
+    "stargazers_count": 607,
     "open_issues_count": 29,
     "forks_count": 34
   },
   {
     "full_name": "qbittorrent/qBittorrent",
-    "stargazers_count": 25398,
-    "open_issues_count": 2871,
-    "forks_count": 3784
+    "stargazers_count": 25460,
+    "open_issues_count": 2881,
+    "forks_count": 3781
   },
   {
     "full_name": "hakwerk/labca",
-    "stargazers_count": 293,
+    "stargazers_count": 294,
     "open_issues_count": 6,
     "forks_count": 35
   },
@@ -127,56 +169,14 @@
   },
   {
     "full_name": "php/php-src",
-    "stargazers_count": 37426,
-    "open_issues_count": 972,
-    "forks_count": 7664
+    "stargazers_count": 37431,
+    "open_issues_count": 968,
+    "forks_count": 7665
   },
   {
     "full_name": "github/covid19-dashboard",
     "stargazers_count": 1644,
-    "open_issues_count": 3413,
+    "open_issues_count": 3428,
     "forks_count": 425
-  },
-  {
-    "full_name": "lwd-temp/FreeAskInternet",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kolide/honest.security",
-    "stargazers_count": 37,
-    "open_issues_count": 0,
-    "forks_count": 5
-  },
-  {
-    "full_name": "ethereum-lists/chains",
-    "stargazers_count": 8247,
-    "open_issues_count": 110,
-    "forks_count": 5827
-  },
-  {
-    "full_name": "microsoft/garnet",
-    "stargazers_count": 9517,
-    "open_issues_count": 27,
-    "forks_count": 446
-  },
-  {
-    "full_name": "CISOfy/lynis",
-    "stargazers_count": 12610,
-    "open_issues_count": 103,
-    "forks_count": 1411
-  },
-  {
-    "full_name": "Stability-AI/generative-models",
-    "stargazers_count": 22689,
-    "open_issues_count": 261,
-    "forks_count": 2487
-  },
-  {
-    "full_name": "microsoft/generative-ai-for-beginners",
-    "stargazers_count": 44181,
-    "open_issues_count": 17,
-    "forks_count": 24529
   }
 ]
