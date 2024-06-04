@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "squidfunk/mono",
+    "stargazers_count": 11,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "KFearsoff/nix-drama-explained",
+    "stargazers_count": 152,
+    "open_issues_count": 3,
+    "forks_count": 2
+  },
+  {
     "full_name": "cdnjs/brand",
     "stargazers_count": 31,
     "open_issues_count": 2,
@@ -13,21 +25,21 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 73199,
-    "open_issues_count": 1479,
-    "forks_count": 5805
+    "stargazers_count": 73486,
+    "open_issues_count": 1489,
+    "forks_count": 5823
   },
   {
     "full_name": "microsoft/Oryx",
-    "stargazers_count": 723,
-    "open_issues_count": 137,
-    "forks_count": 164
+    "stargazers_count": 724,
+    "open_issues_count": 136,
+    "forks_count": 165
   },
   {
     "full_name": "1nikolas/play-integrity-checker-server",
     "stargazers_count": 42,
     "open_issues_count": 1,
-    "forks_count": 113
+    "forks_count": 114
   },
   {
     "full_name": "1nikolas/play-integrity-checker-app",
@@ -37,15 +49,15 @@
   },
   {
     "full_name": "LedgerHQ/app-ethereum",
-    "stargazers_count": 190,
+    "stargazers_count": 191,
     "open_issues_count": 36,
-    "forks_count": 205
+    "forks_count": 206
   },
   {
     "full_name": "tonkeeper/ton-assets",
-    "stargazers_count": 96,
-    "open_issues_count": 294,
-    "forks_count": 372
+    "stargazers_count": 100,
+    "open_issues_count": 304,
+    "forks_count": 382
   },
   {
     "full_name": "recaptime-dev/devcontainers-feature-toolkits",
@@ -55,7 +67,7 @@
   },
   {
     "full_name": "tailscale/golink",
-    "stargazers_count": 1154,
+    "stargazers_count": 1155,
     "open_issues_count": 18,
     "forks_count": 69
   },
@@ -67,8 +79,8 @@
   },
   {
     "full_name": "OpenProduct/openmask-extension",
-    "stargazers_count": 55,
-    "open_issues_count": 16,
+    "stargazers_count": 57,
+    "open_issues_count": 17,
     "forks_count": 11
   },
   {
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "PostgREST/postgrest",
-    "stargazers_count": 22513,
-    "open_issues_count": 256,
-    "forks_count": 996
+    "stargazers_count": 22536,
+    "open_issues_count": 258,
+    "forks_count": 997
   },
   {
     "full_name": "strideynet/bsky-furry-feed",
@@ -97,15 +109,15 @@
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 1282,
+    "stargazers_count": 1286,
     "open_issues_count": 64,
     "forks_count": 104
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 22464,
-    "open_issues_count": 1576,
-    "forks_count": 3270
+    "stargazers_count": 22493,
+    "open_issues_count": 1587,
+    "forks_count": 3274
   },
   {
     "full_name": "jakehamilton/nixpkgs.news",
@@ -115,15 +127,15 @@
   },
   {
     "full_name": "AndronixApp/AndronixOrigin",
-    "stargazers_count": 1598,
+    "stargazers_count": 1603,
     "open_issues_count": 130,
     "forks_count": 302
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26178,
-    "open_issues_count": 24007,
-    "forks_count": 10706
+    "stargazers_count": 26251,
+    "open_issues_count": 24102,
+    "forks_count": 10736
   },
   {
     "full_name": "ton-blockchain/multisig-contract-v2",
@@ -133,19 +145,19 @@
   },
   {
     "full_name": "google/certificate-transparency-go",
-    "stargazers_count": 850,
-    "open_issues_count": 37,
+    "stargazers_count": 851,
+    "open_issues_count": 34,
     "forks_count": 226
   },
   {
     "full_name": "crtsh/ct_monitor",
-    "stargazers_count": 310,
+    "stargazers_count": 312,
     "open_issues_count": 6,
     "forks_count": 28
   },
   {
     "full_name": "anza-xyz/solana-pay",
-    "stargazers_count": 1254,
+    "stargazers_count": 1258,
     "open_issues_count": 33,
     "forks_count": 445
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "Duncaen/OpenDoas",
-    "stargazers_count": 608,
-    "open_issues_count": 29,
+    "stargazers_count": 610,
+    "open_issues_count": 30,
     "forks_count": 34
   },
   {
     "full_name": "qbittorrent/qBittorrent",
-    "stargazers_count": 25507,
-    "open_issues_count": 2862,
-    "forks_count": 3789
-  },
-  {
-    "full_name": "hakwerk/labca",
-    "stargazers_count": 297,
-    "open_issues_count": 7,
-    "forks_count": 35
-  },
-  {
-    "full_name": "lovesegfault/nix-config",
-    "stargazers_count": 305,
-    "open_issues_count": 0,
-    "forks_count": 12
+    "stargazers_count": 25570,
+    "open_issues_count": 2878,
+    "forks_count": 3795
   }
 ]
