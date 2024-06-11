@@ -1,13 +1,13 @@
 [
   {
     "full_name": "jdecked/twemoji",
-    "stargazers_count": 715,
-    "open_issues_count": 39,
-    "forks_count": 48
+    "stargazers_count": 716,
+    "open_issues_count": 40,
+    "forks_count": 49
   },
   {
     "full_name": "get-iplayer/get_iplayer",
-    "stargazers_count": 2075,
+    "stargazers_count": 2076,
     "open_issues_count": 0,
     "forks_count": 225
   },
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "KFearsoff/nix-drama-explained",
-    "stargazers_count": 153,
+    "stargazers_count": 155,
     "open_issues_count": 3,
     "forks_count": 2
   },
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 73699,
-    "open_issues_count": 1504,
-    "forks_count": 5837
+    "stargazers_count": 74084,
+    "open_issues_count": 1523,
+    "forks_count": 5860
   },
   {
     "full_name": "microsoft/Oryx",
-    "stargazers_count": 725,
-    "open_issues_count": 137,
+    "stargazers_count": 727,
+    "open_issues_count": 136,
     "forks_count": 165
   },
   {
     "full_name": "1nikolas/play-integrity-checker-server",
     "stargazers_count": 42,
     "open_issues_count": 1,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "1nikolas/play-integrity-checker-app",
-    "stargazers_count": 287,
+    "stargazers_count": 288,
     "open_issues_count": 2,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "LedgerHQ/app-ethereum",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "tonkeeper/ton-assets",
-    "stargazers_count": 103,
-    "open_issues_count": 311,
-    "forks_count": 395
+    "stargazers_count": 106,
+    "open_issues_count": 324,
+    "forks_count": 410
   },
   {
     "full_name": "recaptime-dev/devcontainers-feature-toolkits",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "tailscale/golink",
-    "stargazers_count": 1158,
+    "stargazers_count": 1161,
     "open_issues_count": 19,
     "forks_count": 70
   },
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "PostgREST/postgrest",
-    "stargazers_count": 22551,
-    "open_issues_count": 257,
-    "forks_count": 999
+    "stargazers_count": 22560,
+    "open_issues_count": 260,
+    "forks_count": 1000
   },
   {
     "full_name": "strideynet/bsky-furry-feed",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 22,
     "forks_count": 1
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "ryantm/agenix",
-    "stargazers_count": 1288,
+    "stargazers_count": 1295,
     "open_issues_count": 64,
     "forks_count": 104
   },
   {
     "full_name": "grafana/loki",
-    "stargazers_count": 22517,
-    "open_issues_count": 1610,
-    "forks_count": 3283
+    "stargazers_count": 22542,
+    "open_issues_count": 1614,
+    "forks_count": 3289
   },
   {
     "full_name": "jakehamilton/nixpkgs.news",
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "AndronixApp/AndronixOrigin",
-    "stargazers_count": 1607,
-    "open_issues_count": 130,
-    "forks_count": 303
+    "stargazers_count": 1612,
+    "open_issues_count": 129,
+    "forks_count": 304
   },
   {
     "full_name": "llvm/llvm-project",
-    "stargazers_count": 26324,
-    "open_issues_count": 24144,
-    "forks_count": 10761
+    "stargazers_count": 26391,
+    "open_issues_count": 24173,
+    "forks_count": 10786
   },
   {
     "full_name": "ton-blockchain/multisig-contract-v2",
-    "stargazers_count": 33,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "google/certificate-transparency-go",
-    "stargazers_count": 852,
-    "open_issues_count": 37,
-    "forks_count": 227
+    "stargazers_count": 853,
+    "open_issues_count": 35,
+    "forks_count": 228
   },
   {
     "full_name": "crtsh/ct_monitor",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "anza-xyz/solana-pay",
-    "stargazers_count": 1258,
+    "stargazers_count": 1260,
     "open_issues_count": 32,
     "forks_count": 445
   },
