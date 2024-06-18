@@ -1,7 +1,37 @@
 [
   {
+    "full_name": "Cubitect/cubiomes-viewer",
+    "stargazers_count": 946,
+    "open_issues_count": 40,
+    "forks_count": 56
+  },
+  {
+    "full_name": "RikkaApps/Shizuku",
+    "stargazers_count": 8677,
+    "open_issues_count": 72,
+    "forks_count": 508
+  },
+  {
+    "full_name": "apple/swift",
+    "stargazers_count": 66459,
+    "open_issues_count": 7369,
+    "forks_count": 10267
+  },
+  {
+    "full_name": "andreijiroh-dev/docker-images",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "sigstore/root-signing",
+    "stargazers_count": 79,
+    "open_issues_count": 53,
+    "forks_count": 76
+  },
+  {
     "full_name": "cloudflare/har-sanitizer",
-    "stargazers_count": 200,
+    "stargazers_count": 199,
     "open_issues_count": 19,
     "forks_count": 16
   },
@@ -13,14 +43,14 @@
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2080,
-    "open_issues_count": 149,
-    "forks_count": 89
+    "stargazers_count": 2100,
+    "open_issues_count": 153,
+    "forks_count": 90
   },
   {
     "full_name": "nodejs/help",
     "stargazers_count": 1436,
-    "open_issues_count": 125,
+    "open_issues_count": 101,
     "forks_count": 275
   },
   {
@@ -31,14 +61,14 @@
   },
   {
     "full_name": "jdecked/twemoji",
-    "stargazers_count": 717,
+    "stargazers_count": 718,
     "open_issues_count": 40,
     "forks_count": 49
   },
   {
     "full_name": "get-iplayer/get_iplayer",
-    "stargazers_count": 2079,
-    "open_issues_count": 0,
+    "stargazers_count": 2080,
+    "open_issues_count": 2,
     "forks_count": 224
   },
   {
@@ -55,7 +85,7 @@
   },
   {
     "full_name": "cdnjs/brand",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 2,
     "forks_count": 14
   },
@@ -67,15 +97,15 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 74359,
-    "open_issues_count": 1514,
-    "forks_count": 5881
+    "stargazers_count": 74728,
+    "open_issues_count": 1516,
+    "forks_count": 5901
   },
   {
     "full_name": "microsoft/Oryx",
-    "stargazers_count": 729,
-    "open_issues_count": 138,
-    "forks_count": 165
+    "stargazers_count": 728,
+    "open_issues_count": 139,
+    "forks_count": 167
   },
   {
     "full_name": "1nikolas/play-integrity-checker-server",
@@ -85,7 +115,7 @@
   },
   {
     "full_name": "1nikolas/play-integrity-checker-app",
-    "stargazers_count": 289,
+    "stargazers_count": 290,
     "open_issues_count": 2,
     "forks_count": 42
   },
@@ -97,9 +127,9 @@
   },
   {
     "full_name": "tonkeeper/ton-assets",
-    "stargazers_count": 107,
-    "open_issues_count": 333,
-    "forks_count": 428
+    "stargazers_count": 109,
+    "open_issues_count": 347,
+    "forks_count": 445
   },
   {
     "full_name": "recaptime-dev/devcontainers-feature-toolkits",
@@ -109,7 +139,7 @@
   },
   {
     "full_name": "tailscale/golink",
-    "stargazers_count": 1161,
+    "stargazers_count": 1164,
     "open_issues_count": 20,
     "forks_count": 71
   },
@@ -121,7 +151,7 @@
   },
   {
     "full_name": "OpenProduct/openmask-extension",
-    "stargazers_count": 58,
+    "stargazers_count": 60,
     "open_issues_count": 17,
     "forks_count": 12
   },
@@ -133,9 +163,9 @@
   },
   {
     "full_name": "PostgREST/postgrest",
-    "stargazers_count": 22577,
-    "open_issues_count": 262,
-    "forks_count": 1001
+    "stargazers_count": 22600,
+    "open_issues_count": 265,
+    "forks_count": 999
   },
   {
     "full_name": "strideynet/bsky-furry-feed",
@@ -148,35 +178,5 @@
     "stargazers_count": 131,
     "open_issues_count": 14,
     "forks_count": 25
-  },
-  {
-    "full_name": "ryantm/agenix",
-    "stargazers_count": 1295,
-    "open_issues_count": 65,
-    "forks_count": 104
-  },
-  {
-    "full_name": "grafana/loki",
-    "stargazers_count": 22569,
-    "open_issues_count": 1620,
-    "forks_count": 3292
-  },
-  {
-    "full_name": "jakehamilton/nixpkgs.news",
-    "stargazers_count": 12,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "AndronixApp/AndronixOrigin",
-    "stargazers_count": 1616,
-    "open_issues_count": 128,
-    "forks_count": 304
-  },
-  {
-    "full_name": "llvm/llvm-project",
-    "stargazers_count": 26431,
-    "open_issues_count": 24213,
-    "forks_count": 10807
   }
 ]
