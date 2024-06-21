@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "moby/moby",
+    "stargazers_count": 67999,
+    "open_issues_count": 3394,
+    "forks_count": 18570
+  },
+  {
+    "full_name": "superfly/init-snapshot",
+    "stargazers_count": 253,
+    "open_issues_count": 0,
+    "forks_count": 24
+  },
+  {
     "full_name": "Cubitect/cubiomes-viewer",
-    "stargazers_count": 946,
+    "stargazers_count": 953,
     "open_issues_count": 40,
     "forks_count": 56
   },
   {
     "full_name": "RikkaApps/Shizuku",
-    "stargazers_count": 8677,
-    "open_issues_count": 72,
-    "forks_count": 508
+    "stargazers_count": 8716,
+    "open_issues_count": 76,
+    "forks_count": 510
   },
   {
-    "full_name": "apple/swift",
-    "stargazers_count": 66459,
-    "open_issues_count": 7369,
-    "forks_count": 10267
+    "full_name": "swiftlang/swift",
+    "stargazers_count": 66503,
+    "open_issues_count": 7359,
+    "forks_count": 10268
   },
   {
     "full_name": "andreijiroh-dev/docker-images",
@@ -26,7 +38,7 @@
   {
     "full_name": "sigstore/root-signing",
     "stargazers_count": 79,
-    "open_issues_count": 53,
+    "open_issues_count": 51,
     "forks_count": 76
   },
   {
@@ -38,19 +50,19 @@
   {
     "full_name": "dreadhalor/hermitcraft-horns",
     "stargazers_count": 6,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2100,
+    "stargazers_count": 2109,
     "open_issues_count": 153,
     "forks_count": 90
   },
   {
     "full_name": "nodejs/help",
-    "stargazers_count": 1436,
-    "open_issues_count": 101,
+    "stargazers_count": 1440,
+    "open_issues_count": 99,
     "forks_count": 275
   },
   {
@@ -61,13 +73,13 @@
   },
   {
     "full_name": "jdecked/twemoji",
-    "stargazers_count": 718,
+    "stargazers_count": 720,
     "open_issues_count": 40,
     "forks_count": 49
   },
   {
     "full_name": "get-iplayer/get_iplayer",
-    "stargazers_count": 2080,
+    "stargazers_count": 2082,
     "open_issues_count": 2,
     "forks_count": 224
   },
@@ -97,15 +109,15 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 74728,
-    "open_issues_count": 1516,
-    "forks_count": 5901
+    "stargazers_count": 75018,
+    "open_issues_count": 1522,
+    "forks_count": 5923
   },
   {
     "full_name": "microsoft/Oryx",
     "stargazers_count": 728,
-    "open_issues_count": 139,
-    "forks_count": 167
+    "open_issues_count": 142,
+    "forks_count": 168
   },
   {
     "full_name": "1nikolas/play-integrity-checker-server",
@@ -115,21 +127,21 @@
   },
   {
     "full_name": "1nikolas/play-integrity-checker-app",
-    "stargazers_count": 290,
+    "stargazers_count": 291,
     "open_issues_count": 2,
     "forks_count": 42
   },
   {
     "full_name": "LedgerHQ/app-ethereum",
     "stargazers_count": 191,
-    "open_issues_count": 38,
-    "forks_count": 207
+    "open_issues_count": 29,
+    "forks_count": 209
   },
   {
     "full_name": "tonkeeper/ton-assets",
-    "stargazers_count": 109,
-    "open_issues_count": 347,
-    "forks_count": 445
+    "stargazers_count": 114,
+    "open_issues_count": 356,
+    "forks_count": 460
   },
   {
     "full_name": "recaptime-dev/devcontainers-feature-toolkits",
@@ -151,9 +163,9 @@
   },
   {
     "full_name": "OpenProduct/openmask-extension",
-    "stargazers_count": 60,
-    "open_issues_count": 17,
-    "forks_count": 12
+    "stargazers_count": 61,
+    "open_issues_count": 18,
+    "forks_count": 13
   },
   {
     "full_name": "lorebooks-wiki/stellapent-cier-starter-pack",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "PostgREST/postgrest",
-    "stargazers_count": 22600,
-    "open_issues_count": 265,
+    "stargazers_count": 22618,
+    "open_issues_count": 266,
     "forks_count": 999
-  },
-  {
-    "full_name": "strideynet/bsky-furry-feed",
-    "stargazers_count": 48,
-    "open_issues_count": 22,
-    "forks_count": 1
-  },
-  {
-    "full_name": "did-method-plc/did-method-plc",
-    "stargazers_count": 131,
-    "open_issues_count": 14,
-    "forks_count": 25
   }
 ]
