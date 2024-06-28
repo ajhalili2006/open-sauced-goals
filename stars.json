@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "smartcontractkit/timelock-worker",
+    "stargazers_count": 6,
+    "open_issues_count": 13,
+    "forks_count": 0
+  },
+  {
+    "full_name": "go-acme/lego",
+    "stargazers_count": 7430,
+    "open_issues_count": 168,
+    "forks_count": 984
+  },
+  {
+    "full_name": "nginxinc/ngx-rust",
+    "stargazers_count": 705,
+    "open_issues_count": 12,
+    "forks_count": 59
+  },
+  {
+    "full_name": "expo/expo",
+    "stargazers_count": 30762,
+    "open_issues_count": 687,
+    "forks_count": 4856
+  },
+  {
     "full_name": "kerhub/issue-forms-creator",
     "stargazers_count": 44,
     "open_issues_count": 15,
@@ -19,7 +43,7 @@
   },
   {
     "full_name": "feathers-studio/telegraf-docs",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 5,
     "forks_count": 34
   },
@@ -32,7 +56,7 @@
   {
     "full_name": "dotenv-org/dotenv-vault",
     "stargazers_count": 1052,
-    "open_issues_count": 45,
+    "open_issues_count": 46,
     "forks_count": 33
   },
   {
@@ -43,8 +67,8 @@
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 68008,
-    "open_issues_count": 3388,
+    "stargazers_count": 68023,
+    "open_issues_count": 3404,
     "forks_count": 18573
   },
   {
@@ -55,21 +79,21 @@
   },
   {
     "full_name": "Cubitect/cubiomes-viewer",
-    "stargazers_count": 954,
-    "open_issues_count": 40,
-    "forks_count": 56
+    "stargazers_count": 955,
+    "open_issues_count": 41,
+    "forks_count": 57
   },
   {
     "full_name": "RikkaApps/Shizuku",
-    "stargazers_count": 8802,
-    "open_issues_count": 77,
-    "forks_count": 520
+    "stargazers_count": 8845,
+    "open_issues_count": 83,
+    "forks_count": 525
   },
   {
     "full_name": "swiftlang/swift",
-    "stargazers_count": 66600,
-    "open_issues_count": 7365,
-    "forks_count": 10272
+    "stargazers_count": 66640,
+    "open_issues_count": 7389,
+    "forks_count": 10277
   },
   {
     "full_name": "andreijiroh-dev/docker-images",
@@ -80,14 +104,14 @@
   {
     "full_name": "sigstore/root-signing",
     "stargazers_count": 79,
-    "open_issues_count": 51,
+    "open_issues_count": 52,
     "forks_count": 76
   },
   {
     "full_name": "cloudflare/har-sanitizer",
     "stargazers_count": 199,
     "open_issues_count": 19,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "dreadhalor/hermitcraft-horns",
@@ -97,14 +121,14 @@
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2119,
-    "open_issues_count": 159,
-    "forks_count": 92
+    "stargazers_count": 2131,
+    "open_issues_count": 160,
+    "forks_count": 95
   },
   {
     "full_name": "nodejs/help",
-    "stargazers_count": 1443,
-    "open_issues_count": 97,
+    "stargazers_count": 1440,
+    "open_issues_count": 92,
     "forks_count": 277
   },
   {
@@ -115,14 +139,14 @@
   },
   {
     "full_name": "jdecked/twemoji",
-    "stargazers_count": 722,
+    "stargazers_count": 723,
     "open_issues_count": 40,
-    "forks_count": 49
+    "forks_count": 52
   },
   {
     "full_name": "get-iplayer/get_iplayer",
-    "stargazers_count": 2083,
-    "open_issues_count": 2,
+    "stargazers_count": 2085,
+    "open_issues_count": 3,
     "forks_count": 225
   },
   {
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 75285,
-    "open_issues_count": 1535,
-    "forks_count": 5943
-  },
-  {
-    "full_name": "microsoft/Oryx",
-    "stargazers_count": 728,
-    "open_issues_count": 141,
-    "forks_count": 168
-  },
-  {
-    "full_name": "1nikolas/play-integrity-checker-server",
-    "stargazers_count": 42,
-    "open_issues_count": 1,
-    "forks_count": 115
-  },
-  {
-    "full_name": "1nikolas/play-integrity-checker-app",
-    "stargazers_count": 291,
-    "open_issues_count": 2,
-    "forks_count": 42
-  },
-  {
-    "full_name": "LedgerHQ/app-ethereum",
-    "stargazers_count": 191,
-    "open_issues_count": 29,
-    "forks_count": 209
+    "stargazers_count": 75452,
+    "open_issues_count": 1542,
+    "forks_count": 5954
   }
 ]
