@@ -1,15 +1,51 @@
 [
   {
-    "full_name": "GunnarMonell/fbgrab",
-    "stargazers_count": 139,
+    "full_name": "github/dependabot-action",
+    "stargazers_count": 67,
+    "open_issues_count": 13,
+    "forks_count": 34
+  },
+  {
+    "full_name": "elementar/docker-s3-volume",
+    "stargazers_count": 267,
     "open_issues_count": 6,
-    "forks_count": 26
+    "forks_count": 67
+  },
+  {
+    "full_name": "ogham/dog",
+    "stargazers_count": 5957,
+    "open_issues_count": 73,
+    "forks_count": 164
+  },
+  {
+    "full_name": "mr-karan/doggo",
+    "stargazers_count": 2428,
+    "open_issues_count": 17,
+    "forks_count": 89
+  },
+  {
+    "full_name": "WOA-Project/WOA-Device-Manager",
+    "stargazers_count": 32,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "tj/git-extras",
+    "stargazers_count": 17157,
+    "open_issues_count": 105,
+    "forks_count": 1196
+  },
+  {
+    "full_name": "GunnarMonell/fbgrab",
+    "stargazers_count": 142,
+    "open_issues_count": 6,
+    "forks_count": 27
   },
   {
     "full_name": "astrada/google-drive-ocamlfuse",
-    "stargazers_count": 5448,
+    "stargazers_count": 5461,
     "open_issues_count": 237,
-    "forks_count": 346
+    "forks_count": 347
   },
   {
     "full_name": "andreijiroh-dev/personal-launchpad",
@@ -19,31 +55,31 @@
   },
   {
     "full_name": "remarkjs/remark",
-    "stargazers_count": 7371,
+    "stargazers_count": 7378,
     "open_issues_count": 9,
     "forks_count": 353
   },
   {
     "full_name": "umputun/remark42",
-    "stargazers_count": 4761,
+    "stargazers_count": 4764,
     "open_issues_count": 94,
-    "forks_count": 374
+    "forks_count": 376
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 1929,
-    "open_issues_count": 17,
-    "forks_count": 23
+    "stargazers_count": 2068,
+    "open_issues_count": 20,
+    "forks_count": 25
   },
   {
     "full_name": "opengovsg/GoGovSG",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 87,
     "forks_count": 35
   },
   {
     "full_name": "reddit/devvit",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 69,
     "forks_count": 7
   },
@@ -55,33 +91,33 @@
   },
   {
     "full_name": "in-toto/attestation",
-    "stargazers_count": 208,
+    "stargazers_count": 209,
     "open_issues_count": 54,
     "forks_count": 49
   },
   {
     "full_name": "smartcontractkit/timelock-worker",
     "stargazers_count": 6,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 0
   },
   {
     "full_name": "go-acme/lego",
-    "stargazers_count": 7438,
-    "open_issues_count": 168,
+    "stargazers_count": 7451,
+    "open_issues_count": 169,
     "forks_count": 987
   },
   {
     "full_name": "nginxinc/ngx-rust",
-    "stargazers_count": 706,
+    "stargazers_count": 711,
     "open_issues_count": 12,
     "forks_count": 59
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 30927,
-    "open_issues_count": 684,
-    "forks_count": 4889
+    "stargazers_count": 31022,
+    "open_issues_count": 709,
+    "forks_count": 4911
   },
   {
     "full_name": "kerhub/issue-forms-creator",
@@ -92,18 +128,18 @@
   {
     "full_name": "telegraf/types",
     "stargazers_count": 11,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "telegraf/session",
     "stargazers_count": 28,
-    "open_issues_count": 6,
-    "forks_count": 5
+    "open_issues_count": 7,
+    "forks_count": 6
   },
   {
     "full_name": "feathers-studio/telegraf-docs",
-    "stargazers_count": 254,
+    "stargazers_count": 255,
     "open_issues_count": 5,
     "forks_count": 34
   },
@@ -115,9 +151,9 @@
   },
   {
     "full_name": "dotenv-org/dotenv-vault",
-    "stargazers_count": 1061,
+    "stargazers_count": 1064,
     "open_issues_count": 50,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "NixOS/nix-constitutional-assembly",
@@ -127,56 +163,20 @@
   },
   {
     "full_name": "moby/moby",
-    "stargazers_count": 68119,
-    "open_issues_count": 3416,
-    "forks_count": 18573
+    "stargazers_count": 68141,
+    "open_issues_count": 3419,
+    "forks_count": 18576
   },
   {
     "full_name": "superfly/init-snapshot",
-    "stargazers_count": 254,
+    "stargazers_count": 255,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "Cubitect/cubiomes-viewer",
-    "stargazers_count": 962,
+    "stargazers_count": 966,
     "open_issues_count": 43,
-    "forks_count": 58
-  },
-  {
-    "full_name": "RikkaApps/Shizuku",
-    "stargazers_count": 8955,
-    "open_issues_count": 84,
-    "forks_count": 531
-  },
-  {
-    "full_name": "swiftlang/swift",
-    "stargazers_count": 66707,
-    "open_issues_count": 7410,
-    "forks_count": 10284
-  },
-  {
-    "full_name": "andreijiroh-dev/docker-images",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "sigstore/root-signing",
-    "stargazers_count": 80,
-    "open_issues_count": 49,
-    "forks_count": 77
-  },
-  {
-    "full_name": "cloudflare/har-sanitizer",
-    "stargazers_count": 199,
-    "open_issues_count": 20,
-    "forks_count": 17
-  },
-  {
-    "full_name": "dreadhalor/hermitcraft-horns",
-    "stargazers_count": 6,
-    "open_issues_count": 4,
-    "forks_count": 0
+    "forks_count": 59
   }
 ]
