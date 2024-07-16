@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "hey-api/openapi-ts",
+    "stargazers_count": 711,
+    "open_issues_count": 88,
+    "forks_count": 55
+  },
+  {
+    "full_name": "integrations/slack",
+    "stargazers_count": 2993,
+    "open_issues_count": 586,
+    "forks_count": 469
+  },
+  {
+    "full_name": "SysWhiteDev/AuthenticationBackend",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "DigitalPlatDev/US.KG",
+    "stargazers_count": 576,
+    "open_issues_count": 1,
+    "forks_count": 34
+  },
+  {
+    "full_name": "nostr-protocol/nips",
+    "stargazers_count": 2203,
+    "open_issues_count": 467,
+    "forks_count": 523
+  },
+  {
     "full_name": "cloudflare/webcm",
     "stargazers_count": 70,
     "open_issues_count": 4,
@@ -25,8 +55,8 @@
   },
   {
     "full_name": "github/dependabot-action",
-    "stargazers_count": 68,
-    "open_issues_count": 12,
+    "stargazers_count": 70,
+    "open_issues_count": 13,
     "forks_count": 35
   },
   {
@@ -37,37 +67,37 @@
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 5961,
+    "stargazers_count": 5971,
     "open_issues_count": 73,
     "forks_count": 164
   },
   {
     "full_name": "mr-karan/doggo",
-    "stargazers_count": 2479,
+    "stargazers_count": 2523,
     "open_issues_count": 18,
     "forks_count": 93
   },
   {
     "full_name": "WOA-Project/WOA-Device-Manager",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "tj/git-extras",
-    "stargazers_count": 17167,
+    "stargazers_count": 17177,
     "open_issues_count": 106,
-    "forks_count": 1197
+    "forks_count": 1198
   },
   {
     "full_name": "GunnarMonell/fbgrab",
-    "stargazers_count": 143,
+    "stargazers_count": 144,
     "open_issues_count": 6,
     "forks_count": 27
   },
   {
     "full_name": "astrada/google-drive-ocamlfuse",
-    "stargazers_count": 5471,
+    "stargazers_count": 5474,
     "open_issues_count": 237,
     "forks_count": 347
   },
@@ -79,20 +109,20 @@
   },
   {
     "full_name": "remarkjs/remark",
-    "stargazers_count": 7385,
+    "stargazers_count": 7400,
     "open_issues_count": 9,
     "forks_count": 354
   },
   {
     "full_name": "umputun/remark42",
-    "stargazers_count": 4765,
+    "stargazers_count": 4769,
     "open_issues_count": 94,
-    "forks_count": 376
+    "forks_count": 375
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2169,
-    "open_issues_count": 13,
+    "stargazers_count": 2234,
+    "open_issues_count": 12,
     "forks_count": 25
   },
   {
@@ -115,9 +145,9 @@
   },
   {
     "full_name": "in-toto/attestation",
-    "stargazers_count": 209,
-    "open_issues_count": 54,
-    "forks_count": 49
+    "stargazers_count": 212,
+    "open_issues_count": 56,
+    "forks_count": 50
   },
   {
     "full_name": "smartcontractkit/timelock-worker",
@@ -127,56 +157,26 @@
   },
   {
     "full_name": "go-acme/lego",
-    "stargazers_count": 7465,
-    "open_issues_count": 168,
-    "forks_count": 986
+    "stargazers_count": 7474,
+    "open_issues_count": 169,
+    "forks_count": 988
   },
   {
     "full_name": "nginxinc/ngx-rust",
     "stargazers_count": 713,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 59
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 31123,
-    "open_issues_count": 713,
-    "forks_count": 4929
+    "stargazers_count": 31223,
+    "open_issues_count": 710,
+    "forks_count": 4949
   },
   {
     "full_name": "kerhub/issue-forms-creator",
     "stargazers_count": 46,
     "open_issues_count": 15,
     "forks_count": 4
-  },
-  {
-    "full_name": "telegraf/types",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "telegraf/session",
-    "stargazers_count": 28,
-    "open_issues_count": 8,
-    "forks_count": 6
-  },
-  {
-    "full_name": "feathers-studio/telegraf-docs",
-    "stargazers_count": 255,
-    "open_issues_count": 5,
-    "forks_count": 34
-  },
-  {
-    "full_name": "andreijiroh-dev/api-servers",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dotenv-org/dotenv-vault",
-    "stargazers_count": 1065,
-    "open_issues_count": 51,
-    "forks_count": 32
   }
 ]
