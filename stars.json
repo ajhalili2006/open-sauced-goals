@@ -2,14 +2,14 @@
   {
     "full_name": "fedora-infra/noggin",
     "stargazers_count": 107,
-    "open_issues_count": 23,
-    "forks_count": 54
+    "open_issues_count": 22,
+    "forks_count": 55
   },
   {
     "full_name": "Automattic/newspack-newsletters",
-    "stargazers_count": 108,
-    "open_issues_count": 89,
-    "forks_count": 20
+    "stargazers_count": 109,
+    "open_issues_count": 88,
+    "forks_count": 21
   },
   {
     "full_name": "cjdenio/slack-club-bank",
@@ -21,7 +21,7 @@
     "full_name": "hackclub/hack-hour",
     "stargazers_count": 18,
     "open_issues_count": 23,
-    "forks_count": 26
+    "forks_count": 27
   },
   {
     "full_name": "hackathon-zip/hackathon.zip",
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "reeseovine/webtoys",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "sandstorm-io/sandcats",
-    "stargazers_count": 45,
+    "stargazers_count": 44,
     "open_issues_count": 25,
     "forks_count": 13
   },
   {
     "full_name": "hey-api/openapi-ts",
-    "stargazers_count": 743,
+    "stargazers_count": 754,
     "open_issues_count": 90,
-    "forks_count": 58
+    "forks_count": 62
   },
   {
     "full_name": "integrations/slack",
-    "stargazers_count": 3000,
-    "open_issues_count": 569,
-    "forks_count": 469
+    "stargazers_count": 3003,
+    "open_issues_count": 571,
+    "forks_count": 472
   },
   {
     "full_name": "SysWhiteDev/AuthenticationBackend",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "DigitalPlatDev/US.KG",
-    "stargazers_count": 782,
-    "open_issues_count": 1,
-    "forks_count": 43
+    "stargazers_count": 869,
+    "open_issues_count": 0,
+    "forks_count": 46
   },
   {
     "full_name": "nostr-protocol/nips",
-    "stargazers_count": 2214,
-    "open_issues_count": 474,
-    "forks_count": 526
+    "stargazers_count": 2220,
+    "open_issues_count": 476,
+    "forks_count": 527
   },
   {
     "full_name": "cloudflare/webcm",
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "ogham/dog",
-    "stargazers_count": 5988,
+    "stargazers_count": 5997,
     "open_issues_count": 73,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "mr-karan/doggo",
-    "stargazers_count": 2560,
+    "stargazers_count": 2569,
     "open_issues_count": 20,
     "forks_count": 95
   },
   {
     "full_name": "WOA-Project/WOA-Device-Manager",
-    "stargazers_count": 33,
+    "stargazers_count": 34,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "tj/git-extras",
-    "stargazers_count": 17195,
-    "open_issues_count": 106,
-    "forks_count": 1197
+    "stargazers_count": 17204,
+    "open_issues_count": 108,
+    "forks_count": 1199
   },
   {
     "full_name": "GunnarMonell/fbgrab",
@@ -139,37 +139,37 @@
   },
   {
     "full_name": "astrada/google-drive-ocamlfuse",
-    "stargazers_count": 5480,
+    "stargazers_count": 5481,
     "open_issues_count": 240,
     "forks_count": 349
   },
   {
     "full_name": "andreijiroh-dev/personal-launchpad",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "remarkjs/remark",
-    "stargazers_count": 7409,
+    "stargazers_count": 7416,
     "open_issues_count": 9,
     "forks_count": 354
   },
   {
     "full_name": "umputun/remark42",
-    "stargazers_count": 4773,
-    "open_issues_count": 94,
-    "forks_count": 375
+    "stargazers_count": 4778,
+    "open_issues_count": 95,
+    "forks_count": 376
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2297,
+    "stargazers_count": 2331,
     "open_issues_count": 16,
     "forks_count": 25
   },
   {
     "full_name": "opengovsg/GoGovSG",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 87,
     "forks_count": 35
   },
