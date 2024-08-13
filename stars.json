@@ -1,15 +1,63 @@
 [
   {
+    "full_name": "caddyserver/dist",
+    "stargazers_count": 115,
+    "open_issues_count": 7,
+    "forks_count": 118
+  },
+  {
+    "full_name": "hackclub/orpheus-bot",
+    "stargazers_count": 23,
+    "open_issues_count": 16,
+    "forks_count": 9
+  },
+  {
+    "full_name": "recaptime-dev/proxyparty-caddy",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "recaptime-dev/infraops",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "thesandlord/SlackEngine",
+    "stargazers_count": 90,
+    "open_issues_count": 1,
+    "forks_count": 21
+  },
+  {
+    "full_name": "hackclub/nest",
+    "stargazers_count": 33,
+    "open_issues_count": 4,
+    "forks_count": 7
+  },
+  {
+    "full_name": "darkreader/darkreader",
+    "stargazers_count": 19286,
+    "open_issues_count": 1179,
+    "forks_count": 2356
+  },
+  {
+    "full_name": "termux/termux-api-package",
+    "stargazers_count": 1007,
+    "open_issues_count": 45,
+    "forks_count": 314
+  },
+  {
     "full_name": "tailscale/tailscale-android",
     "stargazers_count": 938,
     "open_issues_count": 6,
-    "forks_count": 462
+    "forks_count": 461
   },
   {
     "full_name": "DDoSolitary/okc-agents",
     "stargazers_count": 7,
     "open_issues_count": 6,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "CaliDog/certstream-server",
@@ -19,9 +67,9 @@
   },
   {
     "full_name": "letsencrypt/boulder",
-    "stargazers_count": 5107,
+    "stargazers_count": 5113,
     "open_issues_count": 205,
-    "forks_count": 599
+    "forks_count": 600
   },
   {
     "full_name": "CaliDog/certstream-js",
@@ -37,9 +85,9 @@
   },
   {
     "full_name": "microsoft/sudo",
-    "stargazers_count": 4917,
+    "stargazers_count": 4925,
     "open_issues_count": 36,
-    "forks_count": 126
+    "forks_count": 125
   },
   {
     "full_name": "todogroup/awesome-ospo",
@@ -49,26 +97,26 @@
   },
   {
     "full_name": "github-community-projects/private-mirrors",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 22,
     "forks_count": 12
   },
   {
     "full_name": "hackclub/scrapbook",
     "stargazers_count": 168,
-    "open_issues_count": 13,
-    "forks_count": 46
+    "open_issues_count": 16,
+    "forks_count": 47
   },
   {
     "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 36121,
-    "open_issues_count": 3785,
-    "forks_count": 6704
+    "stargazers_count": 36175,
+    "open_issues_count": 3805,
+    "forks_count": 6716
   },
   {
     "full_name": "sigstore/sigstore",
     "stargazers_count": 441,
-    "open_issues_count": 40,
+    "open_issues_count": 42,
     "forks_count": 114
   },
   {
@@ -86,7 +134,7 @@
   {
     "full_name": "Automattic/newspack-newsletters",
     "stargazers_count": 110,
-    "open_issues_count": 94,
+    "open_issues_count": 92,
     "forks_count": 22
   },
   {
@@ -97,9 +145,9 @@
   },
   {
     "full_name": "hackclub/hack-hour",
-    "stargazers_count": 22,
-    "open_issues_count": 24,
-    "forks_count": 32
+    "stargazers_count": 24,
+    "open_issues_count": 29,
+    "forks_count": 33
   },
   {
     "full_name": "hackathon-zip/hackathon.zip",
@@ -121,62 +169,14 @@
   },
   {
     "full_name": "hey-api/openapi-ts",
-    "stargazers_count": 822,
-    "open_issues_count": 99,
-    "forks_count": 67
+    "stargazers_count": 839,
+    "open_issues_count": 84,
+    "forks_count": 69
   },
   {
     "full_name": "integrations/slack",
-    "stargazers_count": 3020,
+    "stargazers_count": 3021,
     "open_issues_count": 572,
     "forks_count": 474
-  },
-  {
-    "full_name": "SysWhiteDev/AuthenticationBackend",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "DigitalPlatDev/US.KG",
-    "stargazers_count": 1792,
-    "open_issues_count": 0,
-    "forks_count": 95
-  },
-  {
-    "full_name": "nostr-protocol/nips",
-    "stargazers_count": 2230,
-    "open_issues_count": 472,
-    "forks_count": 533
-  },
-  {
-    "full_name": "cloudflare/webcm",
-    "stargazers_count": 71,
-    "open_issues_count": 4,
-    "forks_count": 12
-  },
-  {
-    "full_name": "probot/octokit-auth-probot",
-    "stargazers_count": 11,
-    "open_issues_count": 4,
-    "forks_count": 14
-  },
-  {
-    "full_name": "andreijiroh-dev/dotenvx-action",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "DopplerHQ/secrets-fetch-action",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "github/dependabot-action",
-    "stargazers_count": 74,
-    "open_issues_count": 5,
-    "forks_count": 35
   }
 ]
