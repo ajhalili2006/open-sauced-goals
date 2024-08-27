@@ -1,5 +1,71 @@
 [
   {
+    "full_name": "quackduck/devzat",
+    "stargazers_count": 3442,
+    "open_issues_count": 25,
+    "forks_count": 122
+  },
+  {
+    "full_name": "edent/Tweet2Embed",
+    "stargazers_count": 140,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "mridun-gupta/AboutMe",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "lorebooks-wiki/badges-api",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "recaptime-dev/dotenv-tools",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wakatime/atom-wakatime",
+    "stargazers_count": 318,
+    "open_issues_count": 0,
+    "forks_count": 34
+  },
+  {
+    "full_name": "yokoffing/Betterfox",
+    "stargazers_count": 5003,
+    "open_issues_count": 6,
+    "forks_count": 132
+  },
+  {
+    "full_name": "begin/globbing",
+    "stargazers_count": 151,
+    "open_issues_count": 0,
+    "forks_count": 19
+  },
+  {
+    "full_name": "andreijiroh-dev/bootstrap-scripts-linux",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "zen-browser/desktop",
+    "stargazers_count": 8697,
+    "open_issues_count": 134,
+    "forks_count": 206
+  },
+  {
+    "full_name": "HumanBot000/vocabulingo",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "XxAcielxX/arch-plasma-install",
     "stargazers_count": 130,
     "open_issues_count": 0,
@@ -7,21 +73,21 @@
   },
   {
     "full_name": "charmbracelet/soft-serve",
-    "stargazers_count": 5150,
+    "stargazers_count": 5158,
     "open_issues_count": 50,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "zachlatta/sshtron",
-    "stargazers_count": 2090,
+    "stargazers_count": 2091,
     "open_issues_count": 9,
     "forks_count": 104
   },
   {
     "full_name": "hackclub/dns",
     "stargazers_count": 130,
-    "open_issues_count": 27,
-    "forks_count": 314
+    "open_issues_count": 21,
+    "forks_count": 315
   },
   {
     "full_name": "mholt/acmez",
@@ -37,13 +103,13 @@
   },
   {
     "full_name": "get-convex/convex-backend",
-    "stargazers_count": 1217,
-    "open_issues_count": 4,
-    "forks_count": 44
+    "stargazers_count": 1267,
+    "open_issues_count": 5,
+    "forks_count": 45
   },
   {
     "full_name": "termux/termux-docker",
-    "stargazers_count": 482,
+    "stargazers_count": 483,
     "open_issues_count": 7,
     "forks_count": 70
   },
@@ -85,19 +151,19 @@
   },
   {
     "full_name": "darkreader/darkreader",
-    "stargazers_count": 19318,
-    "open_issues_count": 1177,
-    "forks_count": 2368
+    "stargazers_count": 19322,
+    "open_issues_count": 1181,
+    "forks_count": 2374
   },
   {
     "full_name": "termux/termux-api-package",
-    "stargazers_count": 1014,
+    "stargazers_count": 1016,
     "open_issues_count": 45,
     "forks_count": 317
   },
   {
     "full_name": "tailscale/tailscale-android",
-    "stargazers_count": 943,
+    "stargazers_count": 944,
     "open_issues_count": 7,
     "forks_count": 460
   },
@@ -112,71 +178,5 @@
     "stargazers_count": 263,
     "open_issues_count": 30,
     "forks_count": 71
-  },
-  {
-    "full_name": "letsencrypt/boulder",
-    "stargazers_count": 5126,
-    "open_issues_count": 204,
-    "forks_count": 601
-  },
-  {
-    "full_name": "CaliDog/certstream-js",
-    "stargazers_count": 59,
-    "open_issues_count": 3,
-    "forks_count": 9
-  },
-  {
-    "full_name": "hackclub/map-of-the-slack",
-    "stargazers_count": 13,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "microsoft/sudo",
-    "stargazers_count": 4936,
-    "open_issues_count": 36,
-    "forks_count": 125
-  },
-  {
-    "full_name": "todogroup/awesome-ospo",
-    "stargazers_count": 454,
-    "open_issues_count": 2,
-    "forks_count": 63
-  },
-  {
-    "full_name": "github-community-projects/private-mirrors",
-    "stargazers_count": 118,
-    "open_issues_count": 22,
-    "forks_count": 12
-  },
-  {
-    "full_name": "hackclub/scrapbook",
-    "stargazers_count": 168,
-    "open_issues_count": 15,
-    "forks_count": 47
-  },
-  {
-    "full_name": "ClickHouse/ClickHouse",
-    "stargazers_count": 36332,
-    "open_issues_count": 3873,
-    "forks_count": 6737
-  },
-  {
-    "full_name": "sigstore/sigstore",
-    "stargazers_count": 443,
-    "open_issues_count": 42,
-    "forks_count": 117
-  },
-  {
-    "full_name": "mrdarip/Hack-Club-customs-tracker",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "fedora-infra/noggin",
-    "stargazers_count": 108,
-    "open_issues_count": 19,
-    "forks_count": 57
   }
 ]
