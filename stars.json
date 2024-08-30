@@ -1,15 +1,75 @@
 [
   {
+    "full_name": "hippogriff101/pet-hamster",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Valeriucoding/CatMed",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "EXELVI/crawler",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "PatatoBit/thisorthat",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "PonderSlime/Planet-Earth-Stranded",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "IM-THE-GRASS/purple-goose-platformer",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "MoPaMo/open-help",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "meepodeep/wizard-evades-taxes-",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hackclub/dinosaurs",
+    "stargazers_count": 735,
+    "open_issues_count": 30,
+    "forks_count": 124
+  },
+  {
+    "full_name": "hackclub/site",
+    "stargazers_count": 178,
+    "open_issues_count": 48,
+    "forks_count": 150
+  },
+  {
     "full_name": "quackduck/devzat",
-    "stargazers_count": 3442,
-    "open_issues_count": 25,
-    "forks_count": 122
+    "stargazers_count": 3464,
+    "open_issues_count": 23,
+    "forks_count": 124
   },
   {
     "full_name": "edent/Tweet2Embed",
-    "stargazers_count": 140,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "stargazers_count": 143,
+    "open_issues_count": 1,
+    "forks_count": 4
   },
   {
     "full_name": "mridun-gupta/AboutMe",
@@ -37,13 +97,13 @@
   },
   {
     "full_name": "yokoffing/Betterfox",
-    "stargazers_count": 5003,
+    "stargazers_count": 5089,
     "open_issues_count": 6,
-    "forks_count": 132
+    "forks_count": 134
   },
   {
     "full_name": "begin/globbing",
-    "stargazers_count": 151,
+    "stargazers_count": 152,
     "open_issues_count": 0,
     "forks_count": 19
   },
@@ -55,9 +115,9 @@
   },
   {
     "full_name": "zen-browser/desktop",
-    "stargazers_count": 8697,
-    "open_issues_count": 134,
-    "forks_count": 206
+    "stargazers_count": 9971,
+    "open_issues_count": 167,
+    "forks_count": 237
   },
   {
     "full_name": "HumanBot000/vocabulingo",
@@ -73,20 +133,20 @@
   },
   {
     "full_name": "charmbracelet/soft-serve",
-    "stargazers_count": 5158,
-    "open_issues_count": 50,
+    "stargazers_count": 5165,
+    "open_issues_count": 48,
     "forks_count": 127
   },
   {
     "full_name": "zachlatta/sshtron",
-    "stargazers_count": 2091,
+    "stargazers_count": 2092,
     "open_issues_count": 9,
     "forks_count": 104
   },
   {
     "full_name": "hackclub/dns",
-    "stargazers_count": 130,
-    "open_issues_count": 21,
+    "stargazers_count": 132,
+    "open_issues_count": 20,
     "forks_count": 315
   },
   {
@@ -103,13 +163,13 @@
   },
   {
     "full_name": "get-convex/convex-backend",
-    "stargazers_count": 1267,
+    "stargazers_count": 1344,
     "open_issues_count": 5,
-    "forks_count": 45
+    "forks_count": 48
   },
   {
     "full_name": "termux/termux-docker",
-    "stargazers_count": 483,
+    "stargazers_count": 484,
     "open_issues_count": 7,
     "forks_count": 70
   },
@@ -118,65 +178,5 @@
     "stargazers_count": 115,
     "open_issues_count": 7,
     "forks_count": 118
-  },
-  {
-    "full_name": "hackclub/orpheus-bot",
-    "stargazers_count": 23,
-    "open_issues_count": 16,
-    "forks_count": 9
-  },
-  {
-    "full_name": "recaptime-dev/proxyparty-caddy",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "recaptime-dev/infraops",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "thesandlord/SlackEngine",
-    "stargazers_count": 90,
-    "open_issues_count": 1,
-    "forks_count": 21
-  },
-  {
-    "full_name": "hackclub/nest",
-    "stargazers_count": 35,
-    "open_issues_count": 3,
-    "forks_count": 7
-  },
-  {
-    "full_name": "darkreader/darkreader",
-    "stargazers_count": 19322,
-    "open_issues_count": 1181,
-    "forks_count": 2374
-  },
-  {
-    "full_name": "termux/termux-api-package",
-    "stargazers_count": 1016,
-    "open_issues_count": 45,
-    "forks_count": 317
-  },
-  {
-    "full_name": "tailscale/tailscale-android",
-    "stargazers_count": 944,
-    "open_issues_count": 7,
-    "forks_count": 460
-  },
-  {
-    "full_name": "DDoSolitary/okc-agents",
-    "stargazers_count": 7,
-    "open_issues_count": 6,
-    "forks_count": 3
-  },
-  {
-    "full_name": "CaliDog/certstream-server",
-    "stargazers_count": 263,
-    "open_issues_count": 30,
-    "forks_count": 71
   }
 ]
