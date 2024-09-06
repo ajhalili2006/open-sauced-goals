@@ -1,7 +1,49 @@
 [
   {
-    "full_name": "NalinPlad/human-powered-computer",
+    "full_name": "m1k1o/neko",
+    "stargazers_count": 6703,
+    "open_issues_count": 119,
+    "forks_count": 487
+  },
+  {
+    "full_name": "hackclub/shipment-requests-airtable-automations",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "google/android-fhir",
+    "stargazers_count": 480,
+    "open_issues_count": 305,
+    "forks_count": 253
+  },
+  {
+    "full_name": "Automattic/woocommerce-subscriptions-core",
+    "stargazers_count": 85,
+    "open_issues_count": 102,
+    "forks_count": 31
+  },
+  {
+    "full_name": "github/.github",
+    "stargazers_count": 858,
+    "open_issues_count": 0,
+    "forks_count": 2467
+  },
+  {
+    "full_name": "thecoshman/http",
+    "stargazers_count": 440,
+    "open_issues_count": 6,
+    "forks_count": 32
+  },
+  {
+    "full_name": "AdvaithN1/Terraform",
     "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "NalinPlad/human-powered-computer",
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -49,7 +91,7 @@
   },
   {
     "full_name": "dora-explora/dnasm",
-    "stargazers_count": 2,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -67,13 +109,13 @@
   },
   {
     "full_name": "rjan939/small-c-compiler",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "zaaahir/cos",
-    "stargazers_count": 11,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -133,48 +175,6 @@
   },
   {
     "full_name": "HenryLi-0/protoplop",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "morotonai/replac3d",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "James-Lian/ASCII-art-generator",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "personofalltime/Open-Router-Project",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tobycm/loginfc",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Stavro-Purdie/Universal-Digital-Visual-Follow-Spot-Interfacing-System",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "CloudCake8/OnBoard",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "FireEntity1/rythm-2d-platformer",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
