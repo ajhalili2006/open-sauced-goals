@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "muety/wakapi",
+    "stargazers_count": 2572,
+    "open_issues_count": 34,
+    "forks_count": 157
+  },
+  {
+    "full_name": "voideditor/void",
+    "stargazers_count": 4628,
+    "open_issues_count": 16,
+    "forks_count": 178
+  },
+  {
     "full_name": "blueman-project/blueman",
-    "stargazers_count": 1234,
-    "open_issues_count": 72,
+    "stargazers_count": 1235,
+    "open_issues_count": 70,
     "forks_count": 189
   },
   {
@@ -19,15 +31,15 @@
   },
   {
     "full_name": "hackclub/hackpad",
-    "stargazers_count": 38,
+    "stargazers_count": 41,
     "open_issues_count": 4,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "cloudflare/trie-hard",
-    "stargazers_count": 349,
+    "stargazers_count": 370,
     "open_issues_count": 0,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "PixelVerseIT/hackclub-arcade-tracker-htmlcssjs",
@@ -44,7 +56,7 @@
   {
     "full_name": "denoland/deno_docker",
     "stargazers_count": 887,
-    "open_issues_count": 34,
+    "open_issues_count": 35,
     "forks_count": 101
   },
   {
@@ -63,13 +75,13 @@
     "full_name": "hackclub/replit-lifeboat",
     "stargazers_count": 63,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 3
   },
   {
     "full_name": "m1k1o/neko",
-    "stargazers_count": 6918,
-    "open_issues_count": 121,
-    "forks_count": 510
+    "stargazers_count": 6971,
+    "open_issues_count": 122,
+    "forks_count": 514
   },
   {
     "full_name": "hackclub/shipment-requests-airtable-automations",
@@ -80,24 +92,24 @@
   {
     "full_name": "google/android-fhir",
     "stargazers_count": 480,
-    "open_issues_count": 305,
-    "forks_count": 257
+    "open_issues_count": 300,
+    "forks_count": 258
   },
   {
     "full_name": "Automattic/woocommerce-subscriptions-core",
-    "stargazers_count": 86,
-    "open_issues_count": 104,
+    "stargazers_count": 87,
+    "open_issues_count": 103,
     "forks_count": 32
   },
   {
     "full_name": "github/.github",
-    "stargazers_count": 859,
-    "open_issues_count": 1,
-    "forks_count": 2487
+    "stargazers_count": 861,
+    "open_issues_count": 0,
+    "forks_count": 2489
   },
   {
     "full_name": "thecoshman/http",
-    "stargazers_count": 442,
+    "stargazers_count": 443,
     "open_issues_count": 6,
     "forks_count": 32
   },
@@ -163,19 +175,7 @@
   },
   {
     "full_name": "usedgenes/Thrust-Vectoring-Rocket",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Brainiac11/sim_game",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rjan939/small-c-compiler",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   }
