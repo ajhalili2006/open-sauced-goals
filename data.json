@@ -1,19 +1,19 @@
 [
   {
     "full_name": "sonigy/YCS",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 17,
     "forks_count": 5
   },
   {
     "full_name": "logto-io/logto",
-    "stargazers_count": 8376,
-    "open_issues_count": 146,
-    "forks_count": 410
+    "stargazers_count": 8405,
+    "open_issues_count": 147,
+    "forks_count": 415
   },
   {
     "full_name": "gitpod-io/workspace-images",
-    "stargazers_count": 475,
+    "stargazers_count": 476,
     "open_issues_count": 52,
     "forks_count": 321
   },
@@ -21,6 +21,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 935,
     "open_issues_count": 0,
-    "forks_count": 972
+    "forks_count": 977
   }
 ]
