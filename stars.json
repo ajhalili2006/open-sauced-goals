@@ -1,5 +1,53 @@
 [
   {
+    "full_name": "andreijiroh-dev/leeksbot",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Xe/x",
+    "stargazers_count": 163,
+    "open_issues_count": 6,
+    "forks_count": 10
+  },
+  {
+    "full_name": "pratyushV-l/onlyNews",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Uberspace/pam_isolate",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "redimp/otterwiki",
+    "stargazers_count": 449,
+    "open_issues_count": 18,
+    "forks_count": 25
+  },
+  {
+    "full_name": "reesericci/esbuild",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hackclub/sprig",
+    "stargazers_count": 893,
+    "open_issues_count": 114,
+    "forks_count": 1048
+  },
+  {
+    "full_name": "folkswhocode/awesome-diversity",
+    "stargazers_count": 626,
+    "open_issues_count": 13,
+    "forks_count": 70
+  },
+  {
     "full_name": "MattIPv4/DNS-over-Discord",
     "stargazers_count": 282,
     "open_issues_count": 3,
@@ -19,13 +67,13 @@
   },
   {
     "full_name": "Finb/Bark",
-    "stargazers_count": 5383,
+    "stargazers_count": 5397,
     "open_issues_count": 28,
-    "forks_count": 444
+    "forks_count": 446
   },
   {
     "full_name": "containrrr/watchtower",
-    "stargazers_count": 18915,
+    "stargazers_count": 18990,
     "open_issues_count": 172,
     "forks_count": 847
   },
@@ -49,9 +97,9 @@
   },
   {
     "full_name": "netbirdio/netbird",
-    "stargazers_count": 10786,
-    "open_issues_count": 700,
-    "forks_count": 488
+    "stargazers_count": 10813,
+    "open_issues_count": 708,
+    "forks_count": 490
   },
   {
     "full_name": "hackclub/arcadius",
@@ -61,19 +109,19 @@
   },
   {
     "full_name": "hackclub/hackclub",
-    "stargazers_count": 2380,
+    "stargazers_count": 2382,
     "open_issues_count": 9,
     "forks_count": 550
   },
   {
     "full_name": "getfider/fider",
-    "stargazers_count": 2879,
+    "stargazers_count": 2889,
     "open_issues_count": 40,
-    "forks_count": 629
+    "forks_count": 631
   },
   {
     "full_name": "patte/fly-tailscale-exit",
-    "stargazers_count": 1557,
+    "stargazers_count": 1560,
     "open_issues_count": 1,
     "forks_count": 91
   },
@@ -91,27 +139,27 @@
   },
   {
     "full_name": "getsops/sops",
-    "stargazers_count": 16597,
-    "open_issues_count": 409,
+    "stargazers_count": 16669,
+    "open_issues_count": 408,
     "forks_count": 868
   },
   {
     "full_name": "muety/wakapi",
-    "stargazers_count": 2630,
-    "open_issues_count": 37,
+    "stargazers_count": 2644,
+    "open_issues_count": 40,
     "forks_count": 163
   },
   {
     "full_name": "voideditor/void",
-    "stargazers_count": 7355,
+    "stargazers_count": 7446,
     "open_issues_count": 30,
-    "forks_count": 338
+    "forks_count": 345
   },
   {
     "full_name": "blueman-project/blueman",
-    "stargazers_count": 1243,
-    "open_issues_count": 68,
-    "forks_count": 191
+    "stargazers_count": 1245,
+    "open_issues_count": 69,
+    "forks_count": 192
   },
   {
     "full_name": "joyeusenoelle/GuideToMastodon",
@@ -127,56 +175,8 @@
   },
   {
     "full_name": "hackclub/hackpad",
-    "stargazers_count": 61,
-    "open_issues_count": 31,
-    "forks_count": 45
-  },
-  {
-    "full_name": "cloudflare/trie-hard",
-    "stargazers_count": 445,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "haydenkong/hackclub-arcade-tracker-htmlcssjs",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "leafac/kill-the-newsletter",
-    "stargazers_count": 2406,
-    "open_issues_count": 0,
-    "forks_count": 115
-  },
-  {
-    "full_name": "denoland/deno_docker",
-    "stargazers_count": 899,
-    "open_issues_count": 35,
-    "forks_count": 101
-  },
-  {
-    "full_name": "andreijiroh-dev/infra",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ArchiveNetwork/wgcf-cli",
-    "stargazers_count": 54,
-    "open_issues_count": 4,
-    "forks_count": 11
-  },
-  {
-    "full_name": "hackclub/replit-lifeboat",
     "stargazers_count": 64,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "m1k1o/neko",
-    "stargazers_count": 7197,
-    "open_issues_count": 119,
-    "forks_count": 528
+    "open_issues_count": 35,
+    "forks_count": 54
   }
 ]
