@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "xbrowsersync/api",
+    "stargazers_count": 789,
+    "open_issues_count": 29,
+    "forks_count": 80
+  },
+  {
+    "full_name": "3b1b/manim",
+    "stargazers_count": 67230,
+    "open_issues_count": 420,
+    "forks_count": 6024
+  },
+  {
+    "full_name": "ManimCommunity/manim",
+    "stargazers_count": 23621,
+    "open_issues_count": 443,
+    "forks_count": 1672
+  },
+  {
+    "full_name": "zizdlp/zbook-docs",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "zizdlp/zbook",
+    "stargazers_count": 95,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
+    "full_name": "cdub615/wordle-teams",
+    "stargazers_count": 9,
+    "open_issues_count": 21,
+    "forks_count": 0
+  },
+  {
+    "full_name": "raspberrypi/usb-pid",
+    "stargazers_count": 73,
+    "open_issues_count": 0,
+    "forks_count": 27
+  },
+  {
     "full_name": "andreijiroh-dev/leeksbot",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -25,9 +67,9 @@
   },
   {
     "full_name": "redimp/otterwiki",
-    "stargazers_count": 449,
+    "stargazers_count": 480,
     "open_issues_count": 18,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "reesericci/esbuild",
@@ -37,19 +79,19 @@
   },
   {
     "full_name": "hackclub/sprig",
-    "stargazers_count": 893,
-    "open_issues_count": 114,
-    "forks_count": 1048
+    "stargazers_count": 897,
+    "open_issues_count": 113,
+    "forks_count": 1054
   },
   {
     "full_name": "folkswhocode/awesome-diversity",
-    "stargazers_count": 626,
+    "stargazers_count": 625,
     "open_issues_count": 13,
     "forks_count": 70
   },
   {
     "full_name": "MattIPv4/DNS-over-Discord",
-    "stargazers_count": 282,
+    "stargazers_count": 283,
     "open_issues_count": 3,
     "forks_count": 31
   },
@@ -67,14 +109,14 @@
   },
   {
     "full_name": "Finb/Bark",
-    "stargazers_count": 5397,
-    "open_issues_count": 28,
+    "stargazers_count": 5412,
+    "open_issues_count": 30,
     "forks_count": 446
   },
   {
     "full_name": "containrrr/watchtower",
-    "stargazers_count": 18990,
-    "open_issues_count": 172,
+    "stargazers_count": 19045,
+    "open_issues_count": 174,
     "forks_count": 847
   },
   {
@@ -97,9 +139,9 @@
   },
   {
     "full_name": "netbirdio/netbird",
-    "stargazers_count": 10813,
-    "open_issues_count": 708,
-    "forks_count": 490
+    "stargazers_count": 10864,
+    "open_issues_count": 711,
+    "forks_count": 491
   },
   {
     "full_name": "hackclub/arcadius",
@@ -109,21 +151,21 @@
   },
   {
     "full_name": "hackclub/hackclub",
-    "stargazers_count": 2382,
+    "stargazers_count": 2381,
     "open_issues_count": 9,
     "forks_count": 550
   },
   {
     "full_name": "getfider/fider",
-    "stargazers_count": 2889,
+    "stargazers_count": 2896,
     "open_issues_count": 40,
-    "forks_count": 631
+    "forks_count": 632
   },
   {
     "full_name": "patte/fly-tailscale-exit",
-    "stargazers_count": 1560,
+    "stargazers_count": 1564,
     "open_issues_count": 1,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "cytronicoder/slack-pfp-updater",
@@ -136,47 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "getsops/sops",
-    "stargazers_count": 16669,
-    "open_issues_count": 408,
-    "forks_count": 868
-  },
-  {
-    "full_name": "muety/wakapi",
-    "stargazers_count": 2644,
-    "open_issues_count": 40,
-    "forks_count": 163
-  },
-  {
-    "full_name": "voideditor/void",
-    "stargazers_count": 7446,
-    "open_issues_count": 30,
-    "forks_count": 345
-  },
-  {
-    "full_name": "blueman-project/blueman",
-    "stargazers_count": 1245,
-    "open_issues_count": 69,
-    "forks_count": 192
-  },
-  {
-    "full_name": "joyeusenoelle/GuideToMastodon",
-    "stargazers_count": 924,
-    "open_issues_count": 2,
-    "forks_count": 37
-  },
-  {
-    "full_name": "backontrackus/app",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hackclub/hackpad",
-    "stargazers_count": 64,
-    "open_issues_count": 35,
-    "forks_count": 54
   }
 ]
