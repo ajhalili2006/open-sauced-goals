@@ -1,15 +1,57 @@
 [
   {
+    "full_name": "facebookresearch/lingua",
+    "stargazers_count": 2537,
+    "open_issues_count": 9,
+    "forks_count": 106
+  },
+  {
+    "full_name": "microsoft/vscode-azure-account",
+    "stargazers_count": 138,
+    "open_issues_count": 111,
+    "forks_count": 129
+  },
+  {
+    "full_name": "astral-sh/ruff",
+    "stargazers_count": 32064,
+    "open_issues_count": 1155,
+    "forks_count": 1070
+  },
+  {
+    "full_name": "ssddanbrown/Open-Source-Confusion-Cases",
+    "stargazers_count": 160,
+    "open_issues_count": 36,
+    "forks_count": 1
+  },
+  {
+    "full_name": "sustainers/sustain.md",
+    "stargazers_count": 25,
+    "open_issues_count": 5,
+    "forks_count": 6
+  },
+  {
+    "full_name": "polypixeldev/hackclub-hall-of-fame",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "tildeclub/ttbp",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "mholt/caddy-l4",
-    "stargazers_count": 944,
-    "open_issues_count": 39,
+    "stargazers_count": 953,
+    "open_issues_count": 38,
     "forks_count": 73
   },
   {
     "full_name": "cloudflare/workers-sdk",
-    "stargazers_count": 2633,
-    "open_issues_count": 583,
-    "forks_count": 692
+    "stargazers_count": 2645,
+    "open_issues_count": 594,
+    "forks_count": 694
   },
   {
     "full_name": "lmorchard/FediRing",
@@ -19,7 +61,7 @@
   },
   {
     "full_name": "xsalazar/emoji-kitchen",
-    "stargazers_count": 1261,
+    "stargazers_count": 1264,
     "open_issues_count": 7,
     "forks_count": 82
   },
@@ -31,21 +73,21 @@
   },
   {
     "full_name": "xbrowsersync/api",
-    "stargazers_count": 791,
+    "stargazers_count": 793,
     "open_issues_count": 29,
-    "forks_count": 80
+    "forks_count": 82
   },
   {
     "full_name": "3b1b/manim",
-    "stargazers_count": 68192,
-    "open_issues_count": 422,
-    "forks_count": 6079
+    "stargazers_count": 68716,
+    "open_issues_count": 424,
+    "forks_count": 6104
   },
   {
     "full_name": "ManimCommunity/manim",
-    "stargazers_count": 24488,
-    "open_issues_count": 442,
-    "forks_count": 1712
+    "stargazers_count": 24848,
+    "open_issues_count": 441,
+    "forks_count": 1739
   },
   {
     "full_name": "zizdlp/zbook-docs",
@@ -55,14 +97,14 @@
   },
   {
     "full_name": "zizdlp/zbook",
-    "stargazers_count": 115,
+    "stargazers_count": 121,
     "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "cdub615/wordle-teams",
-    "stargazers_count": 9,
-    "open_issues_count": 21,
+    "stargazers_count": 10,
+    "open_issues_count": 22,
     "forks_count": 0
   },
   {
@@ -79,8 +121,8 @@
   },
   {
     "full_name": "Xe/x",
-    "stargazers_count": 164,
-    "open_issues_count": 6,
+    "stargazers_count": 166,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
@@ -97,8 +139,8 @@
   },
   {
     "full_name": "redimp/otterwiki",
-    "stargazers_count": 490,
-    "open_issues_count": 20,
+    "stargazers_count": 499,
+    "open_issues_count": 21,
     "forks_count": 26
   },
   {
@@ -110,8 +152,8 @@
   {
     "full_name": "hackclub/sprig",
     "stargazers_count": 900,
-    "open_issues_count": 119,
-    "forks_count": 1057
+    "open_issues_count": 142,
+    "forks_count": 1062
   },
   {
     "full_name": "folkswhocode/awesome-diversity",
@@ -136,47 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "Finb/Bark",
-    "stargazers_count": 5416,
-    "open_issues_count": 30,
-    "forks_count": 445
-  },
-  {
-    "full_name": "containrrr/watchtower",
-    "stargazers_count": 19089,
-    "open_issues_count": 175,
-    "forks_count": 848
-  },
-  {
-    "full_name": "ronnidc/vscode-nunjucks",
-    "stargazers_count": 67,
-    "open_issues_count": 20,
-    "forks_count": 18
-  },
-  {
-    "full_name": "recaptime-dev/transparency-log-threads",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hackclub/events",
-    "stargazers_count": 36,
-    "open_issues_count": 7,
-    "forks_count": 10
-  },
-  {
-    "full_name": "netbirdio/netbird",
-    "stargazers_count": 10893,
-    "open_issues_count": 719,
-    "forks_count": 493
-  },
-  {
-    "full_name": "hackclub/arcadius",
-    "stargazers_count": 6,
-    "open_issues_count": 4,
-    "forks_count": 4
   }
 ]
