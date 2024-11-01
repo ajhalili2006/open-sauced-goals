@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "slackhq/circuit",
+    "stargazers_count": 1485,
+    "open_issues_count": 30,
+    "forks_count": 72
+  },
+  {
+    "full_name": "aramshiva/greenhouse",
+    "stargazers_count": 6,
+    "open_issues_count": 7,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Spectralo/Dinolingo",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hyperknot/openfreemap-styles",
+    "stargazers_count": 56,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
+    "full_name": "ekzhang/bore",
+    "stargazers_count": 8601,
+    "open_issues_count": 2,
+    "forks_count": 349
+  },
+  {
+    "full_name": "tmb/club-fair-attention-monopoly",
+    "stargazers_count": 28,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
+    "full_name": "gusruben/fortune-phone",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "v1peridae/evoque-ysws",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,8 +49,8 @@
   },
   {
     "full_name": "valyala/fasthttp",
-    "stargazers_count": 21820,
-    "open_issues_count": 91,
+    "stargazers_count": 21829,
+    "open_issues_count": 92,
     "forks_count": 1756
   },
   {
@@ -25,9 +67,9 @@
   },
   {
     "full_name": "bitwarden/sdk",
-    "stargazers_count": 255,
-    "open_issues_count": 55,
-    "forks_count": 45
+    "stargazers_count": 256,
+    "open_issues_count": 56,
+    "forks_count": 46
   },
   {
     "full_name": "PlatinPay/platinpay-backend",
@@ -37,7 +79,7 @@
   },
   {
     "full_name": "gusruben/winball",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -79,7 +121,7 @@
   },
   {
     "full_name": "Outdatedcandy92/TDSB",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -109,15 +151,15 @@
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 14166,
-    "open_issues_count": 115,
-    "forks_count": 235
+    "stargazers_count": 14213,
+    "open_issues_count": 117,
+    "forks_count": 237
   },
   {
     "full_name": "facebookresearch/lingua",
-    "stargazers_count": 3935,
-    "open_issues_count": 5,
-    "forks_count": 190
+    "stargazers_count": 4021,
+    "open_issues_count": 8,
+    "forks_count": 196
   },
   {
     "full_name": "microsoft/vscode-azure-account",
@@ -127,56 +169,14 @@
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 32267,
-    "open_issues_count": 1178,
-    "forks_count": 1075
+    "stargazers_count": 32379,
+    "open_issues_count": 1196,
+    "forks_count": 1077
   },
   {
     "full_name": "ssddanbrown/Open-Source-Confusion-Cases",
-    "stargazers_count": 162,
+    "stargazers_count": 165,
     "open_issues_count": 36,
     "forks_count": 1
-  },
-  {
-    "full_name": "sustainers/sustain.md",
-    "stargazers_count": 25,
-    "open_issues_count": 5,
-    "forks_count": 6
-  },
-  {
-    "full_name": "polypixeldev/hackclub-hall-of-fame",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tildeclub/ttbp",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "mholt/caddy-l4",
-    "stargazers_count": 964,
-    "open_issues_count": 41,
-    "forks_count": 74
-  },
-  {
-    "full_name": "cloudflare/workers-sdk",
-    "stargazers_count": 2666,
-    "open_issues_count": 595,
-    "forks_count": 697
-  },
-  {
-    "full_name": "lmorchard/FediRing",
-    "stargazers_count": 6,
-    "open_issues_count": 16,
-    "forks_count": 1
-  },
-  {
-    "full_name": "xsalazar/emoji-kitchen",
-    "stargazers_count": 1269,
-    "open_issues_count": 8,
-    "forks_count": 82
   }
 ]
