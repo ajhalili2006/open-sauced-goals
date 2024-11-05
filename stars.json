@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "imapsync/imapsync",
+    "stargazers_count": 3374,
+    "open_issues_count": 172,
+    "forks_count": 469
+  },
+  {
+    "full_name": "rbbydotdev/someday",
+    "stargazers_count": 641,
+    "open_issues_count": 0,
+    "forks_count": 15
+  },
+  {
+    "full_name": "lorebooks-wiki/interwiki-links-redirector",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Frederick888/git-credential-keepassxc",
+    "stargazers_count": 194,
+    "open_issues_count": 11,
+    "forks_count": 8
+  },
+  {
     "full_name": "slackhq/circuit",
-    "stargazers_count": 1485,
-    "open_issues_count": 30,
-    "forks_count": 72
+    "stargazers_count": 1488,
+    "open_issues_count": 28,
+    "forks_count": 73
   },
   {
     "full_name": "aramshiva/greenhouse",
@@ -13,21 +37,21 @@
   },
   {
     "full_name": "Spectralo/Dinolingo",
-    "stargazers_count": 3,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "hyperknot/openfreemap-styles",
-    "stargazers_count": 56,
+    "stargazers_count": 57,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "ekzhang/bore",
-    "stargazers_count": 8601,
-    "open_issues_count": 2,
-    "forks_count": 349
+    "stargazers_count": 8612,
+    "open_issues_count": 3,
+    "forks_count": 350
   },
   {
     "full_name": "tmb/club-fair-attention-monopoly",
@@ -36,8 +60,8 @@
     "forks_count": 11
   },
   {
-    "full_name": "gusruben/fortune-phone",
-    "stargazers_count": 2,
+    "full_name": "gusruben/club-fair-aura-monopoly",
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -49,13 +73,13 @@
   },
   {
     "full_name": "valyala/fasthttp",
-    "stargazers_count": 21829,
-    "open_issues_count": 92,
+    "stargazers_count": 21844,
+    "open_issues_count": 94,
     "forks_count": 1756
   },
   {
     "full_name": "coderabbitai/dotfiles",
-    "stargazers_count": 67,
+    "stargazers_count": 69,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -67,7 +91,7 @@
   },
   {
     "full_name": "bitwarden/sdk",
-    "stargazers_count": 256,
+    "stargazers_count": 258,
     "open_issues_count": 56,
     "forks_count": 46
   },
@@ -127,7 +151,7 @@
   },
   {
     "full_name": "catppuccin/libreoffice",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -146,37 +170,13 @@
   {
     "full_name": "slack-samples/bolt-ts-starter-template",
     "stargazers_count": 35,
-    "open_issues_count": 0,
+    "open_issues_count": 2,
     "forks_count": 9
   },
   {
     "full_name": "githubnext/monaspace",
-    "stargazers_count": 14213,
-    "open_issues_count": 117,
-    "forks_count": 237
-  },
-  {
-    "full_name": "facebookresearch/lingua",
-    "stargazers_count": 4021,
-    "open_issues_count": 8,
-    "forks_count": 196
-  },
-  {
-    "full_name": "microsoft/vscode-azure-account",
-    "stargazers_count": 138,
-    "open_issues_count": 111,
-    "forks_count": 130
-  },
-  {
-    "full_name": "astral-sh/ruff",
-    "stargazers_count": 32379,
-    "open_issues_count": 1196,
-    "forks_count": 1077
-  },
-  {
-    "full_name": "ssddanbrown/Open-Source-Confusion-Cases",
-    "stargazers_count": 165,
-    "open_issues_count": 36,
-    "forks_count": 1
+    "stargazers_count": 14253,
+    "open_issues_count": 118,
+    "forks_count": 236
   }
 ]
