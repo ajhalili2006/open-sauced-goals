@@ -1,21 +1,45 @@
 [
   {
+    "full_name": "lorebooks-wiki/meta-template",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hackclub/outernet",
+    "stargazers_count": 82,
+    "open_issues_count": 1,
+    "forks_count": 49
+  },
+  {
+    "full_name": "gusruben/random-is-a-dev",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "wordpressenginetracker/wordpressenginetracker.github.io",
+    "stargazers_count": 12,
+    "open_issues_count": 8,
+    "forks_count": 13
+  },
+  {
     "full_name": "saicaca/fuwari",
-    "stargazers_count": 1351,
-    "open_issues_count": 41,
-    "forks_count": 307
+    "stargazers_count": 1371,
+    "open_issues_count": 40,
+    "forks_count": 316
   },
   {
     "full_name": "imapsync/imapsync",
-    "stargazers_count": 3373,
+    "stargazers_count": 3376,
     "open_issues_count": 172,
     "forks_count": 469
   },
   {
     "full_name": "rbbydotdev/someday",
-    "stargazers_count": 727,
+    "stargazers_count": 776,
     "open_issues_count": 0,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "lorebooks-wiki/interwiki-links-redirector",
@@ -25,13 +49,13 @@
   },
   {
     "full_name": "Frederick888/git-credential-keepassxc",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 11,
     "forks_count": 8
   },
   {
     "full_name": "slackhq/circuit",
-    "stargazers_count": 1492,
+    "stargazers_count": 1500,
     "open_issues_count": 29,
     "forks_count": 73
   },
@@ -49,13 +73,13 @@
   },
   {
     "full_name": "hyperknot/openfreemap-styles",
-    "stargazers_count": 57,
+    "stargazers_count": 59,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "ekzhang/bore",
-    "stargazers_count": 8619,
+    "stargazers_count": 8629,
     "open_issues_count": 5,
     "forks_count": 351
   },
@@ -67,7 +91,7 @@
   },
   {
     "full_name": "gusruben/club-fair-aura-monopoly",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -79,9 +103,9 @@
   },
   {
     "full_name": "valyala/fasthttp",
-    "stargazers_count": 21855,
-    "open_issues_count": 94,
-    "forks_count": 1756
+    "stargazers_count": 21873,
+    "open_issues_count": 93,
+    "forks_count": 1755
   },
   {
     "full_name": "coderabbitai/dotfiles",
@@ -97,9 +121,9 @@
   },
   {
     "full_name": "bitwarden/sdk",
-    "stargazers_count": 259,
-    "open_issues_count": 56,
-    "forks_count": 46
+    "stargazers_count": 261,
+    "open_issues_count": 61,
+    "forks_count": 48
   },
   {
     "full_name": "PlatinPay/platinpay-backend",
@@ -109,7 +133,7 @@
   },
   {
     "full_name": "gusruben/winball",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "catppuccin/libreoffice",
-    "stargazers_count": 11,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "NeonGamerBot-QK/hackclub-ai-faq-bot",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "eshangonemad/CrisisGO",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "slack-samples/bolt-ts-starter-template",
-    "stargazers_count": 35,
-    "open_issues_count": 2,
-    "forks_count": 9
   }
 ]
