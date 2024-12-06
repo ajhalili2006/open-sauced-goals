@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "ShibamRoy9826/easyfeh",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Ianyourgod/advent_of_code_2024",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "sigstore/scaffolding",
+    "stargazers_count": 60,
+    "open_issues_count": 10,
+    "forks_count": 57
+  },
+  {
+    "full_name": "LedgerHQ/ledger-app-builder",
+    "stargazers_count": 43,
+    "open_issues_count": 1,
+    "forks_count": 36
+  },
+  {
+    "full_name": "jimporter/mike",
+    "stargazers_count": 564,
+    "open_issues_count": 10,
+    "forks_count": 48
+  },
+  {
     "full_name": "felixgao-0/my-website",
     "stargazers_count": 4,
     "open_issues_count": 0,
@@ -19,13 +49,13 @@
   },
   {
     "full_name": "ccbikai/Sink",
-    "stargazers_count": 3065,
-    "open_issues_count": 27,
-    "forks_count": 1660
+    "stargazers_count": 3096,
+    "open_issues_count": 28,
+    "forks_count": 1683
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 7299,
+    "stargazers_count": 7313,
     "open_issues_count": 11,
     "forks_count": 514
   },
@@ -55,15 +85,15 @@
   },
   {
     "full_name": "pavlobu/deskreen",
-    "stargazers_count": 17589,
+    "stargazers_count": 17605,
     "open_issues_count": 105,
-    "forks_count": 963
+    "forks_count": 964
   },
   {
     "full_name": "cloudflare/openai-workers-relay",
-    "stargazers_count": 93,
+    "stargazers_count": 94,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 6
   },
   {
     "full_name": "shauninman/shauninman.com",
@@ -91,14 +121,14 @@
   },
   {
     "full_name": "community-scripts/ProxmoxVE",
-    "stargazers_count": 5839,
-    "open_issues_count": 26,
-    "forks_count": 352
+    "stargazers_count": 6052,
+    "open_issues_count": 30,
+    "forks_count": 368
   },
   {
     "full_name": "iamawatermelo/wakapi-anyide",
-    "stargazers_count": 16,
-    "open_issues_count": 10,
+    "stargazers_count": 17,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
@@ -115,15 +145,15 @@
   },
   {
     "full_name": "errsole/errsole.js",
-    "stargazers_count": 350,
-    "open_issues_count": 4,
+    "stargazers_count": 362,
+    "open_issues_count": 3,
     "forks_count": 47
   },
   {
     "full_name": "hackclub/high-seas",
-    "stargazers_count": 79,
-    "open_issues_count": 93,
-    "forks_count": 23
+    "stargazers_count": 80,
+    "open_issues_count": 99,
+    "forks_count": 24
   },
   {
     "full_name": "lorebooks-wiki/meta-template",
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "wordpressenginetracker/wordpressenginetracker.github.io",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 2,
-    "forks_count": 17
-  },
-  {
-    "full_name": "saicaca/fuwari",
-    "stargazers_count": 1467,
-    "open_issues_count": 42,
-    "forks_count": 331
-  },
-  {
-    "full_name": "imapsync/imapsync",
-    "stargazers_count": 3400,
-    "open_issues_count": 173,
-    "forks_count": 473
-  },
-  {
-    "full_name": "rbbydotdev/someday",
-    "stargazers_count": 850,
-    "open_issues_count": 1,
-    "forks_count": 24
-  },
-  {
-    "full_name": "lorebooks-wiki/interwiki-links-redirector",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Frederick888/git-credential-keepassxc",
-    "stargazers_count": 201,
-    "open_issues_count": 11,
-    "forks_count": 8
+    "forks_count": 20
   }
 ]
