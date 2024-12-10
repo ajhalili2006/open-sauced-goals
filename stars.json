@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "hackclub/theme",
+    "stargazers_count": 60,
+    "open_issues_count": 9,
+    "forks_count": 17
+  },
+  {
+    "full_name": "TheTridentGuy/PersonalSite",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ShibamRoy9826/easyfeh",
     "stargazers_count": 15,
     "open_issues_count": 0,
@@ -13,19 +25,19 @@
   },
   {
     "full_name": "sigstore/scaffolding",
-    "stargazers_count": 60,
-    "open_issues_count": 10,
+    "stargazers_count": 61,
+    "open_issues_count": 11,
     "forks_count": 57
   },
   {
     "full_name": "LedgerHQ/ledger-app-builder",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 36
   },
   {
     "full_name": "jimporter/mike",
-    "stargazers_count": 564,
+    "stargazers_count": 565,
     "open_issues_count": 10,
     "forks_count": 48
   },
@@ -49,15 +61,15 @@
   },
   {
     "full_name": "ccbikai/Sink",
-    "stargazers_count": 3096,
-    "open_issues_count": 28,
-    "forks_count": 1683
+    "stargazers_count": 3128,
+    "open_issues_count": 27,
+    "forks_count": 1708
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 7313,
+    "stargazers_count": 7326,
     "open_issues_count": 11,
-    "forks_count": 514
+    "forks_count": 518
   },
   {
     "full_name": "DanBot-Hosting/Pterodactyl-Eggs",
@@ -85,13 +97,13 @@
   },
   {
     "full_name": "pavlobu/deskreen",
-    "stargazers_count": 17605,
+    "stargazers_count": 17664,
     "open_issues_count": 105,
-    "forks_count": 964
+    "forks_count": 969
   },
   {
     "full_name": "cloudflare/openai-workers-relay",
-    "stargazers_count": 94,
+    "stargazers_count": 97,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -109,9 +121,9 @@
   },
   {
     "full_name": "ConvoyPanel/panel",
-    "stargazers_count": 362,
-    "open_issues_count": 20,
-    "forks_count": 58
+    "stargazers_count": 365,
+    "open_issues_count": 21,
+    "forks_count": 59
   },
   {
     "full_name": "BudzioT/HeraMod",
@@ -121,14 +133,14 @@
   },
   {
     "full_name": "community-scripts/ProxmoxVE",
-    "stargazers_count": 6052,
-    "open_issues_count": 30,
-    "forks_count": 368
+    "stargazers_count": 6353,
+    "open_issues_count": 25,
+    "forks_count": 383
   },
   {
     "full_name": "iamawatermelo/wakapi-anyide",
     "stargazers_count": 17,
-    "open_issues_count": 11,
+    "open_issues_count": 6,
     "forks_count": 1
   },
   {
@@ -145,15 +157,15 @@
   },
   {
     "full_name": "errsole/errsole.js",
-    "stargazers_count": 362,
+    "stargazers_count": 369,
     "open_issues_count": 3,
     "forks_count": 47
   },
   {
     "full_name": "hackclub/high-seas",
-    "stargazers_count": 80,
-    "open_issues_count": 99,
-    "forks_count": 24
+    "stargazers_count": 92,
+    "open_issues_count": 90,
+    "forks_count": 23
   },
   {
     "full_name": "lorebooks-wiki/meta-template",
@@ -166,17 +178,5 @@
     "stargazers_count": 82,
     "open_issues_count": 1,
     "forks_count": 49
-  },
-  {
-    "full_name": "gusruben/random-is-a-dev",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "wordpressenginetracker/wordpressenginetracker.github.io",
-    "stargazers_count": 19,
-    "open_issues_count": 2,
-    "forks_count": 20
   }
 ]
