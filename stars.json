@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "AlohaBrowser/aloha-core",
+    "stargazers_count": 39,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "Ssmidge/HCBFetcher",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nodejs/package-examples",
+    "stargazers_count": 12,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "microsoft/markitdown",
+    "stargazers_count": 26794,
+    "open_issues_count": 98,
+    "forks_count": 1034
+  },
+  {
+    "full_name": "remotion-dev/github-unwrapped",
+    "stargazers_count": 960,
+    "open_issues_count": 10,
+    "forks_count": 76
+  },
+  {
     "full_name": "discord/discord-api-docs",
-    "stargazers_count": 6011,
-    "open_issues_count": 256,
-    "forks_count": 1262
+    "stargazers_count": 6012,
+    "open_issues_count": 254,
+    "forks_count": 1263
   },
   {
     "full_name": "bucketfish/remedy-renemy",
@@ -13,7 +43,7 @@
   },
   {
     "full_name": "coder/websocket",
-    "stargazers_count": 4026,
+    "stargazers_count": 4030,
     "open_issues_count": 48,
     "forks_count": 302
   },
@@ -25,7 +55,7 @@
   },
   {
     "full_name": "github-changelog-generator/github-changelog-generator",
-    "stargazers_count": 7411,
+    "stargazers_count": 7413,
     "open_issues_count": 148,
     "forks_count": 846
   },
@@ -38,7 +68,7 @@
   {
     "full_name": "pypi/support",
     "stargazers_count": 98,
-    "open_issues_count": 806,
+    "open_issues_count": 811,
     "forks_count": 48
   },
   {
@@ -50,30 +80,30 @@
   {
     "full_name": "hackclub/hcb-expansions",
     "stargazers_count": 11,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 22
   },
   {
     "full_name": "matomo-org/matomo",
-    "stargazers_count": 20007,
+    "stargazers_count": 20018,
     "open_issues_count": 2467,
-    "forks_count": 2668
+    "forks_count": 2667
   },
   {
     "full_name": "termux/termux.github.io",
-    "stargazers_count": 937,
+    "stargazers_count": 938,
     "open_issues_count": 4,
-    "forks_count": 186
+    "forks_count": 187
   },
   {
     "full_name": "jax-ml/jax",
-    "stargazers_count": 30802,
-    "open_issues_count": 1916,
-    "forks_count": 2843
+    "stargazers_count": 30831,
+    "open_issues_count": 1925,
+    "forks_count": 2846
   },
   {
     "full_name": "lnmangione/Halite-III",
-    "stargazers_count": 429,
+    "stargazers_count": 433,
     "open_issues_count": 15,
     "forks_count": 81
   },
@@ -98,8 +128,8 @@
   {
     "full_name": "PawiX25/YSWS-Catalog",
     "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 12
+    "open_issues_count": 0,
+    "forks_count": 14
   },
   {
     "full_name": "hackclub/theme",
@@ -128,14 +158,14 @@
   {
     "full_name": "sigstore/scaffolding",
     "stargazers_count": 61,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 57
   },
   {
     "full_name": "LedgerHQ/ledger-app-builder",
     "stargazers_count": 45,
     "open_issues_count": 1,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "jimporter/mike",
@@ -148,35 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "hackclub/proxyparty",
-    "stargazers_count": 52,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "hackclub/ledger",
-    "stargazers_count": 22,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "ccbikai/Sink",
-    "stargazers_count": 3187,
-    "open_issues_count": 24,
-    "forks_count": 1759
-  },
-  {
-    "full_name": "heyform/heyform",
-    "stargazers_count": 7352,
-    "open_issues_count": 14,
-    "forks_count": 515
-  },
-  {
-    "full_name": "DanBot-Hosting/Pterodactyl-Eggs",
-    "stargazers_count": 50,
-    "open_issues_count": 0,
-    "forks_count": 25
   }
 ]
