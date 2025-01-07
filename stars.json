@@ -1,13 +1,31 @@
 [
   {
+    "full_name": "domdomegg/google-client-id-lookup",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "raisenational/raise",
+    "stargazers_count": 7,
+    "open_issues_count": 12,
+    "forks_count": 8
+  },
+  {
+    "full_name": "open-domains/register",
+    "stargazers_count": 1490,
+    "open_issues_count": 2,
+    "forks_count": 1041
+  },
+  {
     "full_name": "actions/upload-artifact",
-    "stargazers_count": 3307,
-    "open_issues_count": 198,
-    "forks_count": 763
+    "stargazers_count": 3313,
+    "open_issues_count": 197,
+    "forks_count": 765
   },
   {
     "full_name": "gsporto/yt-chat-thing",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -20,8 +38,8 @@
   {
     "full_name": "nix-community/infra",
     "stargazers_count": 123,
-    "open_issues_count": 41,
-    "forks_count": 84
+    "open_issues_count": 35,
+    "forks_count": 86
   },
   {
     "full_name": "recursecenter/blaggregator",
@@ -31,13 +49,13 @@
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 51498,
-    "open_issues_count": 147,
-    "forks_count": 2715
+    "stargazers_count": 51556,
+    "open_issues_count": 148,
+    "forks_count": 2717
   },
   {
     "full_name": "nix-community/nixpkgs-update",
-    "stargazers_count": 454,
+    "stargazers_count": 455,
     "open_issues_count": 107,
     "forks_count": 72
   },
@@ -49,7 +67,7 @@
   },
   {
     "full_name": "ryan4yin/nix-config",
-    "stargazers_count": 1097,
+    "stargazers_count": 1104,
     "open_issues_count": 1,
     "forks_count": 68
   },
@@ -62,7 +80,7 @@
   {
     "full_name": "nix-community/nix-vscode-extensions",
     "stargazers_count": 250,
-    "open_issues_count": 14,
+    "open_issues_count": 13,
     "forks_count": 14
   },
   {
@@ -97,21 +115,21 @@
   },
   {
     "full_name": "sigstore/rekor",
-    "stargazers_count": 914,
-    "open_issues_count": 81,
+    "stargazers_count": 915,
+    "open_issues_count": 80,
     "forks_count": 164
   },
   {
     "full_name": "deco-cx/deco",
-    "stargazers_count": 699,
+    "stargazers_count": 703,
     "open_issues_count": 28,
     "forks_count": 43
   },
   {
     "full_name": "chatwoot/chatwoot",
-    "stargazers_count": 21835,
-    "open_issues_count": 921,
-    "forks_count": 3711
+    "stargazers_count": 21865,
+    "open_issues_count": 928,
+    "forks_count": 3718
   },
   {
     "full_name": "AlohaBrowser/cookie-consent-management",
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "NeonGamerBot-QK/high-seas-share-votes",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -134,7 +152,7 @@
   {
     "full_name": "Ssmidge/HCBFetcher",
     "stargazers_count": 3,
-    "open_issues_count": 1,
+    "open_issues_count": 5,
     "forks_count": 1
   },
   {
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 30728,
-    "open_issues_count": 134,
-    "forks_count": 1228
+    "stargazers_count": 32530,
+    "open_issues_count": 136,
+    "forks_count": 1363
   },
   {
     "full_name": "remotion-dev/github-unwrapped",
-    "stargazers_count": 1005,
+    "stargazers_count": 1009,
     "open_issues_count": 12,
     "forks_count": 80
   },
   {
     "full_name": "discord/discord-api-docs",
-    "stargazers_count": 6026,
-    "open_issues_count": 257,
-    "forks_count": 1268
-  },
-  {
-    "full_name": "bucketfish/remedy-renemy",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "coder/websocket",
-    "stargazers_count": 4043,
-    "open_issues_count": 50,
-    "forks_count": 304
-  },
-  {
-    "full_name": "recaptime-dev/hcb-explorer-discord",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 6030,
+    "open_issues_count": 265,
+    "forks_count": 1271
   }
 ]
