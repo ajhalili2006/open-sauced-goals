@@ -1,5 +1,59 @@
 [
   {
+    "full_name": "desec-io/desec-stack",
+    "stargazers_count": 411,
+    "open_issues_count": 111,
+    "forks_count": 48
+  },
+  {
+    "full_name": "hackclub/hcb-bookkeeping-ai-playground",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "MrDomocle/GameOfLife",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "TowsterBusiness/GradientDescent",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "SkyfallWasTaken/vortex.email",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "NeonGamerBot-QK/high-seas-bias-vote",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "OscarMayReal/LocalNote",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "v1ctorio/nosesisaido",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hackclub/YSWS-Catalog",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 13
+  },
+  {
     "full_name": "andreijiroh-dev/golinks",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -31,33 +85,33 @@
   },
   {
     "full_name": "open-domains/register",
-    "stargazers_count": 1492,
-    "open_issues_count": 5,
-    "forks_count": 1042
+    "stargazers_count": 1503,
+    "open_issues_count": 0,
+    "forks_count": 1047
   },
   {
     "full_name": "actions/upload-artifact",
-    "stargazers_count": 3321,
+    "stargazers_count": 3328,
     "open_issues_count": 195,
-    "forks_count": 769
+    "forks_count": 773
   },
   {
     "full_name": "gsporto/yt-chat-thing",
-    "stargazers_count": 43,
+    "stargazers_count": 48,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "SkyfallWasTaken/high-seas-monitor",
-    "stargazers_count": 21,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "nix-community/infra",
     "stargazers_count": 125,
-    "open_issues_count": 35,
-    "forks_count": 89
+    "open_issues_count": 36,
+    "forks_count": 91
   },
   {
     "full_name": "recursecenter/blaggregator",
@@ -67,9 +121,9 @@
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 51596,
-    "open_issues_count": 148,
-    "forks_count": 2721
+    "stargazers_count": 51630,
+    "open_issues_count": 149,
+    "forks_count": 2722
   },
   {
     "full_name": "nix-community/nixpkgs-update",
@@ -85,14 +139,14 @@
   },
   {
     "full_name": "ryan4yin/nix-config",
-    "stargazers_count": 1112,
+    "stargazers_count": 1121,
     "open_issues_count": 1,
-    "forks_count": 68
+    "forks_count": 69
   },
   {
     "full_name": "nix-community/nix4vscode",
     "stargazers_count": 60,
-    "open_issues_count": 5,
+    "open_issues_count": 3,
     "forks_count": 5
   },
   {
@@ -103,7 +157,7 @@
   },
   {
     "full_name": "lalomorales22/global-analytics-dashboard",
-    "stargazers_count": 94,
+    "stargazers_count": 93,
     "open_issues_count": 1,
     "forks_count": 9
   },
@@ -124,59 +178,5 @@
     "stargazers_count": 482,
     "open_issues_count": 540,
     "forks_count": 133
-  },
-  {
-    "full_name": "wikimedia/wikimedia-developer-portal",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "sigstore/rekor",
-    "stargazers_count": 917,
-    "open_issues_count": 82,
-    "forks_count": 167
-  },
-  {
-    "full_name": "deco-cx/deco",
-    "stargazers_count": 703,
-    "open_issues_count": 29,
-    "forks_count": 44
-  },
-  {
-    "full_name": "chatwoot/chatwoot",
-    "stargazers_count": 21890,
-    "open_issues_count": 931,
-    "forks_count": 3728
-  },
-  {
-    "full_name": "AlohaBrowser/cookie-consent-management",
-    "stargazers_count": 4,
-    "open_issues_count": 2,
-    "forks_count": 2
-  },
-  {
-    "full_name": "NeonGamerBot-QK/high-seas-share-votes",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "AlohaBrowser/aloha-core",
-    "stargazers_count": 41,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "Ssmidge/HCBFetcher",
-    "stargazers_count": 3,
-    "open_issues_count": 5,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nodejs/package-examples",
-    "stargazers_count": 15,
-    "open_issues_count": 2,
-    "forks_count": 2
   }
 ]
