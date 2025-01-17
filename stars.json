@@ -1,19 +1,31 @@
 [
   {
+    "full_name": "octodns/octodns-cloudflare",
+    "stargazers_count": 26,
+    "open_issues_count": 4,
+    "forks_count": 19
+  },
+  {
+    "full_name": "octodns/octodns-template",
+    "stargazers_count": 7,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
     "full_name": "desec-io/desec-stack",
     "stargazers_count": 411,
-    "open_issues_count": 111,
+    "open_issues_count": 112,
     "forks_count": 48
   },
   {
     "full_name": "hackclub/hcb-bookkeeping-ai-playground",
-    "stargazers_count": 2,
+    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "MrDomocle/GameOfLife",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "open-domains/register",
-    "stargazers_count": 1503,
-    "open_issues_count": 0,
-    "forks_count": 1047
+    "stargazers_count": 1505,
+    "open_issues_count": 5,
+    "forks_count": 1052
   },
   {
     "full_name": "actions/upload-artifact",
-    "stargazers_count": 3328,
+    "stargazers_count": 3336,
     "open_issues_count": 195,
-    "forks_count": 773
+    "forks_count": 775
   },
   {
     "full_name": "gsporto/yt-chat-thing",
@@ -103,15 +115,15 @@
   },
   {
     "full_name": "SkyfallWasTaken/high-seas-monitor",
-    "stargazers_count": 35,
+    "stargazers_count": 36,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "nix-community/infra",
-    "stargazers_count": 125,
-    "open_issues_count": 36,
-    "forks_count": 91
+    "stargazers_count": 126,
+    "open_issues_count": 37,
+    "forks_count": 92
   },
   {
     "full_name": "recursecenter/blaggregator",
@@ -121,13 +133,13 @@
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 51630,
+    "stargazers_count": 51664,
     "open_issues_count": 149,
-    "forks_count": 2722
+    "forks_count": 2728
   },
   {
     "full_name": "nix-community/nixpkgs-update",
-    "stargazers_count": 456,
+    "stargazers_count": 457,
     "open_issues_count": 107,
     "forks_count": 73
   },
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "ryan4yin/nix-config",
-    "stargazers_count": 1121,
+    "stargazers_count": 1127,
     "open_issues_count": 1,
     "forks_count": 69
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "tsmith512/vtt-translate",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "winterheart/broadcom-bt-firmware",
-    "stargazers_count": 1016,
-    "open_issues_count": 14,
-    "forks_count": 144
-  },
-  {
-    "full_name": "qtwebkit/qtwebkit",
-    "stargazers_count": 482,
-    "open_issues_count": 540,
-    "forks_count": 133
   }
 ]
