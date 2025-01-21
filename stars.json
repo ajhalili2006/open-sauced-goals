@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "project-blurple/blurple-web",
+    "stargazers_count": 29,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "actions/partner-runner-images",
+    "stargazers_count": 83,
+    "open_issues_count": 10,
+    "forks_count": 18
+  },
+  {
+    "full_name": "mikefarah/yq",
+    "stargazers_count": 12656,
+    "open_issues_count": 183,
+    "forks_count": 613
+  },
+  {
+    "full_name": "lorebooks-wiki/changelog-zulip-archives",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "lorebooks-wiki/open-source-projects-on-hcb",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "octodns/octodns-cloudflare",
     "stargazers_count": 26,
     "open_issues_count": 4,
@@ -13,8 +43,8 @@
   },
   {
     "full_name": "desec-io/desec-stack",
-    "stargazers_count": 411,
-    "open_issues_count": 112,
+    "stargazers_count": 412,
+    "open_issues_count": 114,
     "forks_count": 48
   },
   {
@@ -49,7 +79,7 @@
   },
   {
     "full_name": "OscarMayReal/LocalNote",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -61,7 +91,7 @@
   },
   {
     "full_name": "hackclub/YSWS-Catalog",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -97,15 +127,15 @@
   },
   {
     "full_name": "open-domains/register",
-    "stargazers_count": 1505,
-    "open_issues_count": 5,
-    "forks_count": 1052
+    "stargazers_count": 1517,
+    "open_issues_count": 1,
+    "forks_count": 1062
   },
   {
     "full_name": "actions/upload-artifact",
-    "stargazers_count": 3336,
+    "stargazers_count": 3340,
     "open_issues_count": 195,
-    "forks_count": 775
+    "forks_count": 776
   },
   {
     "full_name": "gsporto/yt-chat-thing",
@@ -122,8 +152,8 @@
   {
     "full_name": "nix-community/infra",
     "stargazers_count": 126,
-    "open_issues_count": 37,
-    "forks_count": 92
+    "open_issues_count": 38,
+    "forks_count": 93
   },
   {
     "full_name": "recursecenter/blaggregator",
@@ -133,50 +163,20 @@
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 51664,
+    "stargazers_count": 51732,
     "open_issues_count": 149,
-    "forks_count": 2728
+    "forks_count": 2731
   },
   {
     "full_name": "nix-community/nixpkgs-update",
     "stargazers_count": 457,
-    "open_issues_count": 107,
-    "forks_count": 73
+    "open_issues_count": 108,
+    "forks_count": 75
   },
   {
     "full_name": "microsoft/MediaWiki-Extensions",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "ryan4yin/nix-config",
-    "stargazers_count": 1127,
-    "open_issues_count": 1,
-    "forks_count": 69
-  },
-  {
-    "full_name": "nix-community/nix4vscode",
-    "stargazers_count": 60,
-    "open_issues_count": 3,
-    "forks_count": 5
-  },
-  {
-    "full_name": "nix-community/nix-vscode-extensions",
-    "stargazers_count": 251,
-    "open_issues_count": 13,
-    "forks_count": 14
-  },
-  {
-    "full_name": "lalomorales22/global-analytics-dashboard",
-    "stargazers_count": 93,
-    "open_issues_count": 1,
-    "forks_count": 9
-  },
-  {
-    "full_name": "tsmith512/vtt-translate",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
