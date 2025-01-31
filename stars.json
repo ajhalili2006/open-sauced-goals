@@ -1,5 +1,101 @@
 [
   {
+    "full_name": "Gray-Sword/Guess-the-movie",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "barxilly/tech-personality-quiz",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "CoffeeCoder1/Pi-Pico-Motorized-Fader",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "AditSwami/ftc_code",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "TheSman122333/PaperOS",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "1Password/for-open-source",
+    "stargazers_count": 1689,
+    "open_issues_count": 2,
+    "forks_count": 794
+  },
+  {
+    "full_name": "garyhtou/G-Verify",
+    "stargazers_count": 3,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "hackclub/minus-twelve",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ShreyShingala/Adafruit-weather-display",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "dikjain/dik-pokeTab",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "istdasschraeg/Camle-Up-Solver",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ItzLamo/Recipe-Nutrition-Calculator",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Pegoku/18650-Powerbank",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "google/pebble",
+    "stargazers_count": 3431,
+    "open_issues_count": 1,
+    "forks_count": 180
+  },
+  {
+    "full_name": "hackclub/channelModTools",
+    "stargazers_count": 8,
+    "open_issues_count": 2,
+    "forks_count": 6
+  },
+  {
+    "full_name": "nanxiaobei/hugo-paper",
+    "stargazers_count": 2180,
+    "open_issues_count": 1,
+    "forks_count": 503
+  },
+  {
     "full_name": "29cmb/Kaboomers",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -19,9 +115,9 @@
   },
   {
     "full_name": "elebumm/RedditVideoMakerBot",
-    "stargazers_count": 6759,
-    "open_issues_count": 26,
-    "forks_count": 1894
+    "stargazers_count": 6763,
+    "open_issues_count": 20,
+    "forks_count": 1892
   },
   {
     "full_name": "recaptime-dev/golinkctl",
@@ -49,15 +145,15 @@
   },
   {
     "full_name": "NixOS/nixos-artwork",
-    "stargazers_count": 364,
+    "stargazers_count": 371,
     "open_issues_count": 23,
     "forks_count": 81
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 79944,
+    "stargazers_count": 80081,
     "open_issues_count": 50,
-    "forks_count": 11308
+    "forks_count": 11323
   },
   {
     "full_name": "project-blurple/blurple-web",
@@ -67,114 +163,18 @@
   },
   {
     "full_name": "actions/partner-runner-images",
-    "stargazers_count": 90,
-    "open_issues_count": 12,
-    "forks_count": 22
+    "stargazers_count": 92,
+    "open_issues_count": 11,
+    "forks_count": 23
   },
   {
     "full_name": "mikefarah/yq",
-    "stargazers_count": 12704,
-    "open_issues_count": 185,
-    "forks_count": 616
+    "stargazers_count": 12723,
+    "open_issues_count": 188,
+    "forks_count": 617
   },
   {
     "full_name": "lorebooks-wiki/changelog-zulip-archives",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "lorebooks-wiki/open-source-projects-on-hcb",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "octodns/octodns-cloudflare",
-    "stargazers_count": 26,
-    "open_issues_count": 4,
-    "forks_count": 19
-  },
-  {
-    "full_name": "octodns/octodns-template",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "desec-io/desec-stack",
-    "stargazers_count": 413,
-    "open_issues_count": 112,
-    "forks_count": 48
-  },
-  {
-    "full_name": "hackclub/hcb-bookkeeping-ai-playground",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "MrDomocle/GameOfLife",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "TowsterBusiness/GradientDescent",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "SkyfallWasTaken/vortex.email",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "NeonGamerBot-QK/high-seas-bias-vote",
-    "stargazers_count": 7,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "OscarMayReal/LocalNote",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "v1ctorio/nosesisaido",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hackclub/YSWS-Catalog",
-    "stargazers_count": 6,
-    "open_issues_count": 3,
-    "forks_count": 15
-  },
-  {
-    "full_name": "andreijiroh-dev/golinks",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hackclub/chronicle",
-    "stargazers_count": 14,
-    "open_issues_count": 9,
-    "forks_count": 2
-  },
-  {
-    "full_name": "andreijiroh-dev/nixops-config",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "domdomegg/google-client-id-lookup",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
