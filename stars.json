@@ -1,5 +1,89 @@
 [
   {
+    "full_name": "MadushankaRajapaksha/portfolio",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "WolfGamer2/hackclub-shop",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "hackclub/yellow_pages",
+    "stargazers_count": 9,
+    "open_issues_count": 5,
+    "forks_count": 6
+  },
+  {
+    "full_name": "leowilkin/gapgenie",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "denoland/std",
+    "stargazers_count": 3304,
+    "open_issues_count": 206,
+    "forks_count": 638
+  },
+  {
+    "full_name": "radioblahaj/YouFeelWeFeel",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "cachix/devenv",
+    "stargazers_count": 4797,
+    "open_issues_count": 391,
+    "forks_count": 354
+  },
+  {
+    "full_name": "transcental/SlickStats",
+    "stargazers_count": 13,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "brianshea2/addr.tools",
+    "stargazers_count": 226,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
+    "full_name": "Swagger2Markup/swagger2markup",
+    "stargazers_count": 2501,
+    "open_issues_count": 80,
+    "forks_count": 381
+  },
+  {
+    "full_name": "crnicholson/gen_alpha_dictionary",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "DJ-Laser/science-story",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ItsAkshatSh/Notch",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hackclub/juice",
+    "stargazers_count": 88,
+    "open_issues_count": 10,
+    "forks_count": 395
+  },
+  {
     "full_name": "DevShubam/emergency-kits",
     "stargazers_count": 19,
     "open_issues_count": 0,
@@ -7,15 +91,15 @@
   },
   {
     "full_name": "thedev-id/thedev.id",
-    "stargazers_count": 1193,
+    "stargazers_count": 1195,
     "open_issues_count": 175,
-    "forks_count": 716
+    "forks_count": 715
   },
   {
     "full_name": "motdotla/dotenv",
-    "stargazers_count": 19436,
-    "open_issues_count": 5,
-    "forks_count": 862
+    "stargazers_count": 19450,
+    "open_issues_count": 6,
+    "forks_count": 867
   },
   {
     "full_name": "FireEntity1/glowdash",
@@ -73,9 +157,9 @@
   },
   {
     "full_name": "ading2210/doompdf",
-    "stargazers_count": 2778,
-    "open_issues_count": 5,
-    "forks_count": 89
+    "stargazers_count": 2973,
+    "open_issues_count": 6,
+    "forks_count": 94
   },
   {
     "full_name": "YashasSingh/ai-solitre",
@@ -85,97 +169,13 @@
   },
   {
     "full_name": "nix-community/nix-on-droid",
-    "stargazers_count": 1446,
-    "open_issues_count": 99,
+    "stargazers_count": 1449,
+    "open_issues_count": 101,
     "forks_count": 82
   },
   {
     "full_name": "ascpixi/wakatime-flstudio",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "JasonLovesDoggo/codepack",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "cube-king/gamebarge",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "r58Playz/aoc",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Coding-G/Weather-App",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ferrumc-rs/docs",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "Yo-of/Portfolio",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Baraban511/busee",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ByteAtATime/skyblock-inventory-api",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "DynamicWhiteHat/Pixel-Predictor",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "aryn-pathak/filetransferapp",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Zuzek16/Billards-in-JS",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "CoffeeCoder1/Simple-Fops",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tobycm/obs-on-browser",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "nguyengiabach1201/blogs",
-    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   }
