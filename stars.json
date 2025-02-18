@@ -1,14 +1,32 @@
 [
   {
+    "full_name": "hackclub/sock",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "numtide/flake-utils",
+    "stargazers_count": 1288,
+    "open_issues_count": 23,
+    "forks_count": 83
+  },
+  {
+    "full_name": "nix-community/nixpkgs.lib",
+    "stargazers_count": 74,
+    "open_issues_count": 4,
+    "forks_count": 11
+  },
+  {
     "full_name": "twbs/rfs",
-    "stargazers_count": 3343,
+    "stargazers_count": 3345,
     "open_issues_count": 9,
     "forks_count": 215
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 22304,
-    "open_issues_count": 264,
+    "stargazers_count": 22400,
+    "open_issues_count": 269,
     "forks_count": 655
   },
   {
@@ -19,39 +37,33 @@
   },
   {
     "full_name": "DSharpPlus/DSharpPlus",
-    "stargazers_count": 1269,
+    "stargazers_count": 1272,
     "open_issues_count": 78,
     "forks_count": 312
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 1962,
+    "stargazers_count": 1968,
     "open_issues_count": 84,
     "forks_count": 146
   },
   {
     "full_name": "nix-community/home-manager",
-    "stargazers_count": 7554,
-    "open_issues_count": 957,
-    "forks_count": 1927
+    "stargazers_count": 7572,
+    "open_issues_count": 959,
+    "forks_count": 1931
   },
   {
     "full_name": "n0-computer/awesome-iroh",
-    "stargazers_count": 73,
+    "stargazers_count": 76,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "dzhng/deep-research",
-    "stargazers_count": 11398,
-    "open_issues_count": 44,
-    "forks_count": 1082
-  },
-  {
-    "full_name": "EthanJCanterbury/dns",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 12296,
+    "open_issues_count": 52,
+    "forks_count": 1211
   },
   {
     "full_name": "Gupo-33/Infinite-Rotation",
@@ -86,7 +98,7 @@
   {
     "full_name": "nas5w/govsky",
     "stargazers_count": 15,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
@@ -163,18 +175,6 @@
   },
   {
     "full_name": "Arcade-scrapbook/Aiming-Game",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "123xxgamer/glucose-control",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "arjun654321/Twist-and-Turn",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
