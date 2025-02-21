@@ -1,15 +1,33 @@
 [
   {
-    "full_name": "hackclub/sock",
-    "stargazers_count": 2,
+    "full_name": "hackclub/webring",
+    "stargazers_count": 49,
+    "open_issues_count": 1,
+    "forks_count": 62
+  },
+  {
+    "full_name": "nimaid/binary-waterfall",
+    "stargazers_count": 127,
+    "open_issues_count": 15,
+    "forks_count": 6
+  },
+  {
+    "full_name": "GitbookIO/community",
+    "stargazers_count": 131,
     "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 16
+  },
+  {
+    "full_name": "hackclub/sock",
+    "stargazers_count": 3,
+    "open_issues_count": 2,
+    "forks_count": 2
   },
   {
     "full_name": "numtide/flake-utils",
-    "stargazers_count": 1288,
+    "stargazers_count": 1293,
     "open_issues_count": 23,
-    "forks_count": 83
+    "forks_count": 82
   },
   {
     "full_name": "nix-community/nixpkgs.lib",
@@ -19,15 +37,15 @@
   },
   {
     "full_name": "twbs/rfs",
-    "stargazers_count": 3345,
+    "stargazers_count": 3343,
     "open_issues_count": 9,
     "forks_count": 215
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 22400,
+    "stargazers_count": 22484,
     "open_issues_count": 269,
-    "forks_count": 655
+    "forks_count": 656
   },
   {
     "full_name": "ajhalili2006/buildx",
@@ -39,31 +57,31 @@
     "full_name": "DSharpPlus/DSharpPlus",
     "stargazers_count": 1272,
     "open_issues_count": 78,
-    "forks_count": 312
+    "forks_count": 310
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 1968,
-    "open_issues_count": 84,
+    "stargazers_count": 1972,
+    "open_issues_count": 85,
     "forks_count": 146
   },
   {
     "full_name": "nix-community/home-manager",
-    "stargazers_count": 7572,
-    "open_issues_count": 959,
-    "forks_count": 1931
+    "stargazers_count": 7585,
+    "open_issues_count": 968,
+    "forks_count": 1936
   },
   {
     "full_name": "n0-computer/awesome-iroh",
     "stargazers_count": 76,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "dzhng/deep-research",
-    "stargazers_count": 12296,
-    "open_issues_count": 52,
-    "forks_count": 1211
+    "stargazers_count": 12724,
+    "open_issues_count": 55,
+    "forks_count": 1255
   },
   {
     "full_name": "Gupo-33/Infinite-Rotation",
@@ -121,7 +139,7 @@
   },
   {
     "full_name": "JasonLovesDoggo/abacus",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -158,24 +176,6 @@
   {
     "full_name": "PawiX25/Emoji2Pic",
     "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "rockwillck/SmilesDB",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "staudyy/mazeRunner",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Arcade-scrapbook/Aiming-Game",
-    "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
   }
