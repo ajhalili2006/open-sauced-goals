@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "nasa/meza",
+    "stargazers_count": 19,
+    "open_issues_count": 3,
+    "forks_count": 12
+  },
+  {
+    "full_name": "hackclub/solvian",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Figma-Linux/figma-linux-font-helper",
     "stargazers_count": 435,
     "open_issues_count": 23,
@@ -7,9 +19,9 @@
   },
   {
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2825,
+    "stargazers_count": 2830,
     "open_issues_count": 143,
-    "forks_count": 172
+    "forks_count": 173
   },
   {
     "full_name": "hackclub/icons",
@@ -19,15 +31,15 @@
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 4711,
-    "open_issues_count": 138,
-    "forks_count": 1276
+    "stargazers_count": 4723,
+    "open_issues_count": 140,
+    "forks_count": 1279
   },
   {
     "full_name": "t3dotgg/unduck",
-    "stargazers_count": 657,
-    "open_issues_count": 64,
-    "forks_count": 168
+    "stargazers_count": 710,
+    "open_issues_count": 66,
+    "forks_count": 187
   },
   {
     "full_name": "taciturnaxolotl/cachet",
@@ -44,18 +56,18 @@
   {
     "full_name": "hackclub/webring",
     "stargazers_count": 48,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 64
   },
   {
     "full_name": "nimaid/binary-waterfall",
-    "stargazers_count": 129,
+    "stargazers_count": 135,
     "open_issues_count": 15,
     "forks_count": 6
   },
   {
     "full_name": "GitbookIO/community",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 16
   },
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "numtide/flake-utils",
-    "stargazers_count": 1300,
+    "stargazers_count": 1304,
     "open_issues_count": 23,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "nix-community/nixpkgs.lib",
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 22688,
-    "open_issues_count": 276,
-    "forks_count": 665
+    "stargazers_count": 22751,
+    "open_issues_count": 275,
+    "forks_count": 666
   },
   {
     "full_name": "ajhalili2006/buildx",
@@ -98,32 +110,32 @@
   {
     "full_name": "DSharpPlus/DSharpPlus",
     "stargazers_count": 1278,
-    "open_issues_count": 81,
-    "forks_count": 311
+    "open_issues_count": 83,
+    "forks_count": 312
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 1990,
+    "stargazers_count": 1994,
     "open_issues_count": 85,
     "forks_count": 148
   },
   {
     "full_name": "nix-community/home-manager",
-    "stargazers_count": 7651,
-    "open_issues_count": 956,
-    "forks_count": 1952
+    "stargazers_count": 7665,
+    "open_issues_count": 950,
+    "forks_count": 1953
   },
   {
     "full_name": "n0-computer/awesome-iroh",
-    "stargazers_count": 84,
+    "stargazers_count": 87,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "dzhng/deep-research",
-    "stargazers_count": 13667,
-    "open_issues_count": 63,
-    "forks_count": 1380
+    "stargazers_count": 13890,
+    "open_issues_count": 64,
+    "forks_count": 1410
   },
   {
     "full_name": "Gupo-33/Infinite-Rotation",
@@ -163,18 +175,6 @@
   },
   {
     "full_name": "GaoYeGithub/PyFruitNinja",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Debroskii/The-Box-Game",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "kroune/artifacts-size-plot",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
