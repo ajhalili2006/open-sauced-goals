@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "recaptime-dev/hashbang-dotfiles",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "hashbang/dotfiles",
+    "stargazers_count": 21,
+    "open_issues_count": 5,
+    "forks_count": 12
+  },
+  {
+    "full_name": "mateodelnorte/meta",
+    "stargazers_count": 2111,
+    "open_issues_count": 30,
+    "forks_count": 100
+  },
+  {
     "full_name": "nasa/meza",
     "stargazers_count": 19,
     "open_issues_count": 3,
@@ -13,33 +31,33 @@
   },
   {
     "full_name": "Figma-Linux/figma-linux-font-helper",
-    "stargazers_count": 435,
+    "stargazers_count": 436,
     "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2830,
+    "stargazers_count": 2831,
     "open_issues_count": 143,
-    "forks_count": 173
+    "forks_count": 174
   },
   {
     "full_name": "hackclub/icons",
     "stargazers_count": 42,
     "open_issues_count": 12,
-    "forks_count": 15
+    "forks_count": 14
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 4723,
-    "open_issues_count": 140,
-    "forks_count": 1279
+    "stargazers_count": 4737,
+    "open_issues_count": 143,
+    "forks_count": 1283
   },
   {
     "full_name": "t3dotgg/unduck",
-    "stargazers_count": 710,
-    "open_issues_count": 66,
-    "forks_count": 187
+    "stargazers_count": 736,
+    "open_issues_count": 68,
+    "forks_count": 199
   },
   {
     "full_name": "taciturnaxolotl/cachet",
@@ -56,18 +74,18 @@
   {
     "full_name": "hackclub/webring",
     "stargazers_count": 48,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 64
   },
   {
     "full_name": "nimaid/binary-waterfall",
     "stargazers_count": 135,
     "open_issues_count": 15,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "GitbookIO/community",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 0,
     "forks_count": 16
   },
@@ -79,27 +97,27 @@
   },
   {
     "full_name": "numtide/flake-utils",
-    "stargazers_count": 1304,
+    "stargazers_count": 1307,
     "open_issues_count": 23,
     "forks_count": 84
   },
   {
     "full_name": "nix-community/nixpkgs.lib",
-    "stargazers_count": 75,
+    "stargazers_count": 76,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "twbs/rfs",
-    "stargazers_count": 3344,
+    "stargazers_count": 3346,
     "open_issues_count": 9,
     "forks_count": 215
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 22751,
-    "open_issues_count": 275,
-    "forks_count": 666
+    "stargazers_count": 22830,
+    "open_issues_count": 276,
+    "forks_count": 669
   },
   {
     "full_name": "ajhalili2006/buildx",
@@ -109,33 +127,33 @@
   },
   {
     "full_name": "DSharpPlus/DSharpPlus",
-    "stargazers_count": 1278,
-    "open_issues_count": 83,
+    "stargazers_count": 1277,
+    "open_issues_count": 81,
     "forks_count": 312
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 1994,
-    "open_issues_count": 85,
+    "stargazers_count": 1995,
+    "open_issues_count": 86,
     "forks_count": 148
   },
   {
     "full_name": "nix-community/home-manager",
-    "stargazers_count": 7665,
-    "open_issues_count": 950,
-    "forks_count": 1953
+    "stargazers_count": 7679,
+    "open_issues_count": 931,
+    "forks_count": 1959
   },
   {
     "full_name": "n0-computer/awesome-iroh",
-    "stargazers_count": 87,
+    "stargazers_count": 90,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "dzhng/deep-research",
-    "stargazers_count": 13890,
-    "open_issues_count": 64,
-    "forks_count": 1410
+    "stargazers_count": 14240,
+    "open_issues_count": 66,
+    "forks_count": 1445
   },
   {
     "full_name": "Gupo-33/Infinite-Rotation",
@@ -160,23 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "CycloneAddons/battery-protector",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "nas5w/govsky",
-    "stargazers_count": 17,
-    "open_issues_count": 1,
-    "forks_count": 5
-  },
-  {
-    "full_name": "GaoYeGithub/PyFruitNinja",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
