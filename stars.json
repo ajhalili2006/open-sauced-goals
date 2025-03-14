@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "zedeus/nitter",
+    "stargazers_count": 10578,
+    "open_issues_count": 218,
+    "forks_count": 561
+  },
+  {
     "full_name": "recaptime-dev/hashbang-dotfiles",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -13,7 +19,7 @@
   },
   {
     "full_name": "mateodelnorte/meta",
-    "stargazers_count": 2111,
+    "stargazers_count": 2112,
     "open_issues_count": 30,
     "forks_count": 100
   },
@@ -26,18 +32,18 @@
   {
     "full_name": "hackclub/solvian",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "Figma-Linux/figma-linux-font-helper",
-    "stargazers_count": 436,
+    "stargazers_count": 437,
     "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2831,
+    "stargazers_count": 2835,
     "open_issues_count": 143,
     "forks_count": 174
   },
@@ -49,15 +55,15 @@
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 4737,
-    "open_issues_count": 143,
-    "forks_count": 1283
+    "stargazers_count": 4739,
+    "open_issues_count": 145,
+    "forks_count": 1287
   },
   {
     "full_name": "t3dotgg/unduck",
-    "stargazers_count": 736,
-    "open_issues_count": 68,
-    "forks_count": 199
+    "stargazers_count": 745,
+    "open_issues_count": 69,
+    "forks_count": 206
   },
   {
     "full_name": "taciturnaxolotl/cachet",
@@ -75,11 +81,11 @@
     "full_name": "hackclub/webring",
     "stargazers_count": 48,
     "open_issues_count": 1,
-    "forks_count": 64
+    "forks_count": 65
   },
   {
     "full_name": "nimaid/binary-waterfall",
-    "stargazers_count": 135,
+    "stargazers_count": 137,
     "open_issues_count": 15,
     "forks_count": 7
   },
@@ -87,17 +93,17 @@
     "full_name": "GitbookIO/community",
     "stargazers_count": 133,
     "open_issues_count": 0,
-    "forks_count": 16
+    "forks_count": 17
   },
   {
     "full_name": "hackclub/sock",
     "stargazers_count": 3,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "numtide/flake-utils",
-    "stargazers_count": 1307,
+    "stargazers_count": 1310,
     "open_issues_count": 23,
     "forks_count": 84
   },
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "twbs/rfs",
-    "stargazers_count": 3346,
+    "stargazers_count": 3347,
     "open_issues_count": 9,
-    "forks_count": 215
+    "forks_count": 217
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 22830,
-    "open_issues_count": 276,
-    "forks_count": 669
+    "stargazers_count": 22905,
+    "open_issues_count": 279,
+    "forks_count": 670
   },
   {
     "full_name": "ajhalili2006/buildx",
@@ -127,33 +133,33 @@
   },
   {
     "full_name": "DSharpPlus/DSharpPlus",
-    "stargazers_count": 1277,
+    "stargazers_count": 1278,
     "open_issues_count": 81,
     "forks_count": 312
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 1995,
+    "stargazers_count": 1997,
     "open_issues_count": 86,
     "forks_count": 148
   },
   {
     "full_name": "nix-community/home-manager",
-    "stargazers_count": 7679,
-    "open_issues_count": 931,
+    "stargazers_count": 7687,
+    "open_issues_count": 932,
     "forks_count": 1959
   },
   {
     "full_name": "n0-computer/awesome-iroh",
-    "stargazers_count": 90,
+    "stargazers_count": 92,
     "open_issues_count": 2,
     "forks_count": 5
   },
   {
     "full_name": "dzhng/deep-research",
-    "stargazers_count": 14240,
-    "open_issues_count": 66,
-    "forks_count": 1445
+    "stargazers_count": 14401,
+    "open_issues_count": 67,
+    "forks_count": 1467
   },
   {
     "full_name": "Gupo-33/Infinite-Rotation",
@@ -172,11 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "shoaib2000857/ElyonTheGuide",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
