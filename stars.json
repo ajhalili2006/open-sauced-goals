@@ -1,9 +1,45 @@
 [
   {
+    "full_name": "PostHog/posthog",
+    "stargazers_count": 25010,
+    "open_issues_count": 1776,
+    "forks_count": 1548
+  },
+  {
+    "full_name": "home-sweet-gnome/dash-to-panel",
+    "stargazers_count": 3939,
+    "open_issues_count": 170,
+    "forks_count": 293
+  },
+  {
+    "full_name": "unikraft/unikraft",
+    "stargazers_count": 3016,
+    "open_issues_count": 296,
+    "forks_count": 1461
+  },
+  {
+    "full_name": "SkyfallWasTaken/Archimedes",
+    "stargazers_count": 3,
+    "open_issues_count": 8,
+    "forks_count": 0
+  },
+  {
+    "full_name": "SkyfallWasTaken/at-channel",
+    "stargazers_count": 2,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "prplwtf/writea",
+    "stargazers_count": 36,
+    "open_issues_count": 2,
+    "forks_count": 9
+  },
+  {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 10578,
-    "open_issues_count": 218,
-    "forks_count": 561
+    "stargazers_count": 10599,
+    "open_issues_count": 219,
+    "forks_count": 563
   },
   {
     "full_name": "recaptime-dev/hashbang-dotfiles",
@@ -19,7 +55,7 @@
   },
   {
     "full_name": "mateodelnorte/meta",
-    "stargazers_count": 2112,
+    "stargazers_count": 2113,
     "open_issues_count": 30,
     "forks_count": 100
   },
@@ -37,13 +73,13 @@
   },
   {
     "full_name": "Figma-Linux/figma-linux-font-helper",
-    "stargazers_count": 437,
+    "stargazers_count": 438,
     "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2835,
+    "stargazers_count": 2838,
     "open_issues_count": 143,
     "forks_count": 174
   },
@@ -51,19 +87,19 @@
     "full_name": "hackclub/icons",
     "stargazers_count": 42,
     "open_issues_count": 12,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 4739,
-    "open_issues_count": 145,
-    "forks_count": 1287
+    "stargazers_count": 4753,
+    "open_issues_count": 147,
+    "forks_count": 1289
   },
   {
     "full_name": "t3dotgg/unduck",
-    "stargazers_count": 745,
-    "open_issues_count": 69,
-    "forks_count": 206
+    "stargazers_count": 769,
+    "open_issues_count": 71,
+    "forks_count": 210
   },
   {
     "full_name": "taciturnaxolotl/cachet",
@@ -79,9 +115,9 @@
   },
   {
     "full_name": "hackclub/webring",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 1,
-    "forks_count": 65
+    "forks_count": 67
   },
   {
     "full_name": "nimaid/binary-waterfall",
@@ -103,9 +139,9 @@
   },
   {
     "full_name": "numtide/flake-utils",
-    "stargazers_count": 1310,
+    "stargazers_count": 1313,
     "open_issues_count": 23,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "nix-community/nixpkgs.lib",
@@ -121,9 +157,9 @@
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 22905,
-    "open_issues_count": 279,
-    "forks_count": 670
+    "stargazers_count": 22998,
+    "open_issues_count": 278,
+    "forks_count": 672
   },
   {
     "full_name": "ajhalili2006/buildx",
@@ -133,50 +169,14 @@
   },
   {
     "full_name": "DSharpPlus/DSharpPlus",
-    "stargazers_count": 1278,
-    "open_issues_count": 81,
+    "stargazers_count": 1277,
+    "open_issues_count": 82,
     "forks_count": 312
   },
   {
     "full_name": "nix-community/nixos-generators",
-    "stargazers_count": 1997,
+    "stargazers_count": 2002,
     "open_issues_count": 86,
     "forks_count": 148
-  },
-  {
-    "full_name": "nix-community/home-manager",
-    "stargazers_count": 7687,
-    "open_issues_count": 932,
-    "forks_count": 1959
-  },
-  {
-    "full_name": "n0-computer/awesome-iroh",
-    "stargazers_count": 92,
-    "open_issues_count": 2,
-    "forks_count": 5
-  },
-  {
-    "full_name": "dzhng/deep-research",
-    "stargazers_count": 14401,
-    "open_issues_count": 67,
-    "forks_count": 1467
-  },
-  {
-    "full_name": "Gupo-33/Infinite-Rotation",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "RitvikGoyal1/ChristmasTime",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "arbusam/github-rewind",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
