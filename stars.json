@@ -1,21 +1,39 @@
 [
   {
+    "full_name": "NixOS/nixos-homepage",
+    "stargazers_count": 340,
+    "open_issues_count": 85,
+    "forks_count": 336
+  },
+  {
+    "full_name": "ekala-project/eka",
+    "stargazers_count": 58,
+    "open_issues_count": 4,
+    "forks_count": 3
+  },
+  {
+    "full_name": "ekala-project/eeps",
+    "stargazers_count": 15,
+    "open_issues_count": 22,
+    "forks_count": 1
+  },
+  {
     "full_name": "3kh0/3kh0-lite",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 1,
-    "forks_count": 555
+    "forks_count": 559
   },
   {
     "full_name": "Martichou/rquickshare",
-    "stargazers_count": 1943,
-    "open_issues_count": 19,
-    "forks_count": 36
+    "stargazers_count": 1951,
+    "open_issues_count": 24,
+    "forks_count": 37
   },
   {
     "full_name": "openpubkey/opkssh",
-    "stargazers_count": 1073,
-    "open_issues_count": 31,
-    "forks_count": 36
+    "stargazers_count": 1184,
+    "open_issues_count": 42,
+    "forks_count": 39
   },
   {
     "full_name": "recaptimedev-archivebot/recaptimedev-archivebot",
@@ -31,9 +49,9 @@
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 2748,
-    "open_issues_count": 55,
-    "forks_count": 59
+    "stargazers_count": 2972,
+    "open_issues_count": 68,
+    "forks_count": 68
   },
   {
     "full_name": "AlexFlipnote/GiveMeBadge",
@@ -51,30 +69,30 @@
     "full_name": "ThaTiemsz/Discord-Emoji-Downloader",
     "stargazers_count": 450,
     "open_issues_count": 9,
-    "forks_count": 88
+    "forks_count": 87
   },
   {
     "full_name": "glanceapp/glance",
-    "stargazers_count": 21149,
-    "open_issues_count": 159,
-    "forks_count": 774
+    "stargazers_count": 21549,
+    "open_issues_count": 166,
+    "forks_count": 789
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 25410,
-    "open_issues_count": 1804,
-    "forks_count": 1576
+    "stargazers_count": 25513,
+    "open_issues_count": 1829,
+    "forks_count": 1579
   },
   {
     "full_name": "home-sweet-gnome/dash-to-panel",
-    "stargazers_count": 3963,
+    "stargazers_count": 3968,
     "open_issues_count": 173,
     "forks_count": 291
   },
   {
     "full_name": "unikraft/unikraft",
-    "stargazers_count": 3035,
-    "open_issues_count": 311,
+    "stargazers_count": 3047,
+    "open_issues_count": 315,
     "forks_count": 1456
   },
   {
@@ -97,7 +115,7 @@
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 10685,
+    "stargazers_count": 10697,
     "open_issues_count": 222,
     "forks_count": 567
   },
@@ -122,7 +140,7 @@
   {
     "full_name": "nasa/meza",
     "stargazers_count": 19,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 13
   },
   {
@@ -133,13 +151,13 @@
   },
   {
     "full_name": "Figma-Linux/figma-linux-font-helper",
-    "stargazers_count": 442,
+    "stargazers_count": 443,
     "open_issues_count": 23,
     "forks_count": 35
   },
   {
     "full_name": "Figma-Linux/figma-linux",
-    "stargazers_count": 2851,
+    "stargazers_count": 2856,
     "open_issues_count": 142,
     "forks_count": 174
   },
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "actions/cache",
-    "stargazers_count": 4785,
-    "open_issues_count": 149,
-    "forks_count": 1303
+    "stargazers_count": 4793,
+    "open_issues_count": 148,
+    "forks_count": 1300
   },
   {
     "full_name": "t3dotgg/unduck",
-    "stargazers_count": 825,
-    "open_issues_count": 73,
-    "forks_count": 231
-  },
-  {
-    "full_name": "taciturnaxolotl/cachet",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "computerclubco/bus-avoider",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "hackclub/webring",
-    "stargazers_count": 49,
-    "open_issues_count": 0,
-    "forks_count": 68
+    "stargazers_count": 829,
+    "open_issues_count": 72,
+    "forks_count": 233
   }
 ]
