@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "MarshalX/atproto",
+    "stargazers_count": 557,
+    "open_issues_count": 16,
+    "forks_count": 64
+  },
+  {
+    "full_name": "jaredwray/keyv",
+    "stargazers_count": 2823,
+    "open_issues_count": 1,
+    "forks_count": 171
+  },
+  {
     "full_name": "antiwork/gumroad",
-    "stargazers_count": 4085,
-    "open_issues_count": 26,
-    "forks_count": 484
+    "stargazers_count": 4748,
+    "open_issues_count": 23,
+    "forks_count": 636
   },
   {
     "full_name": "karakeep-app/karakeep",
-    "stargazers_count": 14828,
-    "open_issues_count": 275,
-    "forks_count": 578
+    "stargazers_count": 14902,
+    "open_issues_count": 283,
+    "forks_count": 583
   },
   {
     "full_name": "sussy-code/browser-ext",
@@ -26,18 +38,18 @@
   {
     "full_name": "hackclub/wormhole",
     "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
+    "open_issues_count": 0,
+    "forks_count": 2
   },
   {
     "full_name": "NixOS/nixos-homepage",
     "stargazers_count": 342,
-    "open_issues_count": 86,
+    "open_issues_count": 85,
     "forks_count": 336
   },
   {
     "full_name": "ekala-project/eka",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 4,
     "forks_count": 3
   },
@@ -49,21 +61,21 @@
   },
   {
     "full_name": "3kh0/3kh0-lite",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 1,
-    "forks_count": 560
+    "forks_count": 565
   },
   {
     "full_name": "Martichou/rquickshare",
-    "stargazers_count": 2014,
-    "open_issues_count": 27,
+    "stargazers_count": 2025,
+    "open_issues_count": 28,
     "forks_count": 36
   },
   {
     "full_name": "openpubkey/opkssh",
-    "stargazers_count": 1222,
-    "open_issues_count": 44,
-    "forks_count": 43
+    "stargazers_count": 1293,
+    "open_issues_count": 45,
+    "forks_count": 44
   },
   {
     "full_name": "recaptimedev-archivebot/recaptimedev-archivebot",
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 3228,
-    "open_issues_count": 67,
-    "forks_count": 75
+    "stargazers_count": 3388,
+    "open_issues_count": 73,
+    "forks_count": 80
   },
   {
     "full_name": "AlexFlipnote/GiveMeBadge",
@@ -103,25 +115,25 @@
   },
   {
     "full_name": "glanceapp/glance",
-    "stargazers_count": 21921,
+    "stargazers_count": 22180,
     "open_issues_count": 174,
-    "forks_count": 807
+    "forks_count": 820
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 25640,
-    "open_issues_count": 1845,
-    "forks_count": 1589
+    "stargazers_count": 25722,
+    "open_issues_count": 1846,
+    "forks_count": 1596
   },
   {
     "full_name": "home-sweet-gnome/dash-to-panel",
-    "stargazers_count": 3971,
-    "open_issues_count": 173,
-    "forks_count": 291
+    "stargazers_count": 3974,
+    "open_issues_count": 169,
+    "forks_count": 290
   },
   {
     "full_name": "unikraft/unikraft",
-    "stargazers_count": 3058,
+    "stargazers_count": 3061,
     "open_issues_count": 317,
     "forks_count": 1457
   },
@@ -145,7 +157,7 @@
   },
   {
     "full_name": "zedeus/nitter",
-    "stargazers_count": 10712,
+    "stargazers_count": 10730,
     "open_issues_count": 222,
     "forks_count": 568
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "mateodelnorte/meta",
-    "stargazers_count": 2114,
+    "stargazers_count": 2118,
     "open_issues_count": 30,
     "forks_count": 100
-  },
-  {
-    "full_name": "nasa/meza",
-    "stargazers_count": 19,
-    "open_issues_count": 5,
-    "forks_count": 13
-  },
-  {
-    "full_name": "hackclub/solvian",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
