@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "Automattic/newspack-multibranded-site",
+    "stargazers_count": 11,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "recaptime-dev/dotenvx-secretstore",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "getsentry/sentry",
+    "stargazers_count": 40675,
+    "open_issues_count": 2459,
+    "forks_count": 4327
+  },
+  {
+    "full_name": "elder-plinius/CL4R1T4S",
+    "stargazers_count": 1578,
+    "open_issues_count": 6,
+    "forks_count": 466
+  },
+  {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 11621,
-    "open_issues_count": 202,
-    "forks_count": 275
+    "stargazers_count": 11744,
+    "open_issues_count": 208,
+    "forks_count": 277
   },
   {
     "full_name": "amnweb/monospace-idx-theme",
@@ -13,51 +37,51 @@
   },
   {
     "full_name": "NixOS/nixfmt",
-    "stargazers_count": 1103,
+    "stargazers_count": 1106,
     "open_issues_count": 26,
-    "forks_count": 49
+    "forks_count": 50
   },
   {
     "full_name": "abhishekkrthakur/colabcode",
-    "stargazers_count": 2112,
+    "stargazers_count": 2110,
     "open_issues_count": 64,
     "forks_count": 282
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 5211,
-    "open_issues_count": 26,
-    "forks_count": 414
+    "stargazers_count": 5292,
+    "open_issues_count": 24,
+    "forks_count": 420
   },
   {
     "full_name": "firebase/genkit",
-    "stargazers_count": 1686,
-    "open_issues_count": 459,
-    "forks_count": 229
+    "stargazers_count": 1710,
+    "open_issues_count": 465,
+    "forks_count": 234
   },
   {
     "full_name": "MarshalX/atproto",
-    "stargazers_count": 562,
+    "stargazers_count": 565,
     "open_issues_count": 14,
     "forks_count": 64
   },
   {
     "full_name": "jaredwray/keyv",
-    "stargazers_count": 2830,
+    "stargazers_count": 2833,
     "open_issues_count": 0,
-    "forks_count": 172
+    "forks_count": 173
   },
   {
     "full_name": "antiwork/gumroad",
-    "stargazers_count": 5223,
-    "open_issues_count": 29,
-    "forks_count": 743
+    "stargazers_count": 5258,
+    "open_issues_count": 30,
+    "forks_count": 753
   },
   {
     "full_name": "karakeep-app/karakeep",
-    "stargazers_count": 15366,
-    "open_issues_count": 279,
-    "forks_count": 610
+    "stargazers_count": 15460,
+    "open_issues_count": 286,
+    "forks_count": 620
   },
   {
     "full_name": "sussy-code/browser-ext",
@@ -85,32 +109,32 @@
   },
   {
     "full_name": "ekala-project/eka",
-    "stargazers_count": 59,
+    "stargazers_count": 61,
     "open_issues_count": 4,
     "forks_count": 3
   },
   {
     "full_name": "ekala-project/eeps",
     "stargazers_count": 15,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 1
   },
   {
     "full_name": "3kh0/3kh0-lite",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 1,
     "forks_count": 572
   },
   {
     "full_name": "Martichou/rquickshare",
-    "stargazers_count": 2064,
-    "open_issues_count": 30,
-    "forks_count": 38
+    "stargazers_count": 2077,
+    "open_issues_count": 32,
+    "forks_count": 37
   },
   {
     "full_name": "openpubkey/opkssh",
-    "stargazers_count": 1432,
-    "open_issues_count": 46,
+    "stargazers_count": 1449,
+    "open_issues_count": 48,
     "forks_count": 49
   },
   {
@@ -127,13 +151,13 @@
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 4565,
-    "open_issues_count": 87,
-    "forks_count": 101
+    "stargazers_count": 4913,
+    "open_issues_count": 102,
+    "forks_count": 113
   },
   {
     "full_name": "AlexFlipnote/GiveMeBadge",
-    "stargazers_count": 515,
+    "stargazers_count": 516,
     "open_issues_count": 0,
     "forks_count": 238
   },
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "glanceapp/glance",
-    "stargazers_count": 22726,
-    "open_issues_count": 176,
-    "forks_count": 845
-  },
-  {
-    "full_name": "PostHog/posthog",
-    "stargazers_count": 25949,
-    "open_issues_count": 1882,
-    "forks_count": 1614
-  },
-  {
-    "full_name": "home-sweet-gnome/dash-to-panel",
-    "stargazers_count": 3991,
-    "open_issues_count": 163,
-    "forks_count": 291
-  },
-  {
-    "full_name": "unikraft/unikraft",
-    "stargazers_count": 3087,
-    "open_issues_count": 314,
-    "forks_count": 1456
-  },
-  {
-    "full_name": "hackclub/archimedes",
-    "stargazers_count": 7,
-    "open_issues_count": 8,
-    "forks_count": 0
+    "stargazers_count": 22824,
+    "open_issues_count": 173,
+    "forks_count": 854
   }
 ]
