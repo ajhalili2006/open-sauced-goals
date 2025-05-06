@@ -1,15 +1,15 @@
 [
   {
     "full_name": "cloudflare/workers-oauth-provider",
-    "stargazers_count": 138,
-    "open_issues_count": 4,
-    "forks_count": 12
+    "stargazers_count": 146,
+    "open_issues_count": 5,
+    "forks_count": 14
   },
   {
     "full_name": "opencode-ai/opencode",
-    "stargazers_count": 2313,
-    "open_issues_count": 36,
-    "forks_count": 143
+    "stargazers_count": 2367,
+    "open_issues_count": 42,
+    "forks_count": 154
   },
   {
     "full_name": "Automattic/newspack-multibranded-site",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 40728,
-    "open_issues_count": 2453,
-    "forks_count": 4333
+    "stargazers_count": 40752,
+    "open_issues_count": 2467,
+    "forks_count": 4336
   },
   {
     "full_name": "elder-plinius/CL4R1T4S",
-    "stargazers_count": 2276,
-    "open_issues_count": 8,
-    "forks_count": 669
+    "stargazers_count": 2423,
+    "open_issues_count": 10,
+    "forks_count": 715
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 11871,
-    "open_issues_count": 194,
-    "forks_count": 282
+    "stargazers_count": 11911,
+    "open_issues_count": 207,
+    "forks_count": 283
   },
   {
     "full_name": "amnweb/monospace-idx-theme",
@@ -49,51 +49,51 @@
   },
   {
     "full_name": "NixOS/nixfmt",
-    "stargazers_count": 1118,
-    "open_issues_count": 29,
+    "stargazers_count": 1126,
+    "open_issues_count": 30,
     "forks_count": 53
   },
   {
     "full_name": "abhishekkrthakur/colabcode",
-    "stargazers_count": 2114,
+    "stargazers_count": 2112,
     "open_issues_count": 64,
     "forks_count": 282
   },
   {
     "full_name": "Mail-0/Zero",
-    "stargazers_count": 5435,
-    "open_issues_count": 28,
-    "forks_count": 443
+    "stargazers_count": 5883,
+    "open_issues_count": 40,
+    "forks_count": 484
   },
   {
     "full_name": "firebase/genkit",
-    "stargazers_count": 1766,
-    "open_issues_count": 462,
-    "forks_count": 242
+    "stargazers_count": 1792,
+    "open_issues_count": 470,
+    "forks_count": 244
   },
   {
     "full_name": "MarshalX/atproto",
-    "stargazers_count": 569,
-    "open_issues_count": 16,
+    "stargazers_count": 571,
+    "open_issues_count": 17,
     "forks_count": 65
   },
   {
     "full_name": "jaredwray/keyv",
-    "stargazers_count": 2839,
+    "stargazers_count": 2846,
     "open_issues_count": 1,
     "forks_count": 176
   },
   {
     "full_name": "antiwork/gumroad",
-    "stargazers_count": 5501,
-    "open_issues_count": 37,
-    "forks_count": 791
+    "stargazers_count": 5651,
+    "open_issues_count": 38,
+    "forks_count": 808
   },
   {
     "full_name": "karakeep-app/karakeep",
-    "stargazers_count": 15679,
-    "open_issues_count": 304,
-    "forks_count": 631
+    "stargazers_count": 15783,
+    "open_issues_count": 317,
+    "forks_count": 633
   },
   {
     "full_name": "sussy-code/browser-ext",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "NixOS/nixos-homepage",
-    "stargazers_count": 340,
-    "open_issues_count": 85,
-    "forks_count": 337
+    "stargazers_count": 342,
+    "open_issues_count": 86,
+    "forks_count": 339
   },
   {
     "full_name": "ekala-project/eka",
@@ -135,19 +135,19 @@
     "full_name": "3kh0/3kh0-lite",
     "stargazers_count": 141,
     "open_issues_count": 1,
-    "forks_count": 580
+    "forks_count": 584
   },
   {
     "full_name": "Martichou/rquickshare",
-    "stargazers_count": 2176,
-    "open_issues_count": 37,
-    "forks_count": 37
+    "stargazers_count": 2253,
+    "open_issues_count": 28,
+    "forks_count": 41
   },
   {
     "full_name": "openpubkey/opkssh",
-    "stargazers_count": 1470,
-    "open_issues_count": 47,
-    "forks_count": 49
+    "stargazers_count": 1476,
+    "open_issues_count": 49,
+    "forks_count": 52
   },
   {
     "full_name": "recaptimedev-archivebot/recaptimedev-archivebot",
@@ -163,13 +163,13 @@
   },
   {
     "full_name": "TecharoHQ/anubis",
-    "stargazers_count": 5607,
-    "open_issues_count": 99,
-    "forks_count": 138
+    "stargazers_count": 6109,
+    "open_issues_count": 105,
+    "forks_count": 148
   },
   {
     "full_name": "AlexFlipnote/GiveMeBadge",
-    "stargazers_count": 518,
+    "stargazers_count": 519,
     "open_issues_count": 0,
     "forks_count": 239
   },
