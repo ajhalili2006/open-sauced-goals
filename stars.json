@@ -1,21 +1,33 @@
 [
   {
+    "full_name": "apple/containerization",
+    "stargazers_count": 6342,
+    "open_issues_count": 27,
+    "forks_count": 121
+  },
+  {
+    "full_name": "apple/container",
+    "stargazers_count": 11812,
+    "open_issues_count": 71,
+    "forks_count": 214
+  },
+  {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3320,
-    "open_issues_count": 29,
+    "stargazers_count": 3324,
+    "open_issues_count": 31,
     "forks_count": 103
   },
   {
     "full_name": "nozwock/packet",
-    "stargazers_count": 300,
-    "open_issues_count": 13,
-    "forks_count": 6
+    "stargazers_count": 355,
+    "open_issues_count": 11,
+    "forks_count": 8
   },
   {
     "full_name": "canonical/cloud-init",
-    "stargazers_count": 3274,
-    "open_issues_count": 535,
-    "forks_count": 956
+    "stargazers_count": 3275,
+    "open_issues_count": 536,
+    "forks_count": 959
   },
   {
     "full_name": "cmj2002/r2-dir-list",
@@ -25,7 +37,7 @@
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 1289,
+    "stargazers_count": 1290,
     "open_issues_count": 388,
     "forks_count": 319
   },
@@ -43,15 +55,15 @@
   },
   {
     "full_name": "jsonwebtoken/jsonwebtoken.github.io",
-    "stargazers_count": 570,
-    "open_issues_count": 34,
-    "forks_count": 342
+    "stargazers_count": 572,
+    "open_issues_count": 35,
+    "forks_count": 343
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 31368,
-    "open_issues_count": 191,
-    "forks_count": 847
+    "stargazers_count": 31449,
+    "open_issues_count": 196,
+    "forks_count": 854
   },
   {
     "full_name": "burkeholland/i-love-lamp-build-2025",
@@ -61,33 +73,33 @@
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1579,
+    "stargazers_count": 1583,
     "open_issues_count": 43,
-    "forks_count": 71
+    "forks_count": 70
   },
   {
     "full_name": "bluesky-social/feed-generator",
-    "stargazers_count": 1872,
+    "stargazers_count": 1873,
     "open_issues_count": 52,
-    "forks_count": 670
+    "forks_count": 671
   },
   {
     "full_name": "microlinkhq/unavatar",
-    "stargazers_count": 1308,
+    "stargazers_count": 1310,
     "open_issues_count": 4,
     "forks_count": 76
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 14526,
-    "open_issues_count": 20,
-    "forks_count": 521
+    "stargazers_count": 14579,
+    "open_issues_count": 21,
+    "forks_count": 523
   },
   {
     "full_name": "greensock/GSAP",
-    "stargazers_count": 22083,
+    "stargazers_count": 22119,
     "open_issues_count": 8,
-    "forks_count": 1828
+    "forks_count": 1829
   },
   {
     "full_name": "3kh0/hcbscan",
@@ -97,19 +109,19 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 64782,
-    "open_issues_count": 200,
-    "forks_count": 4333
+    "stargazers_count": 64837,
+    "open_issues_count": 199,
+    "forks_count": 4339
   },
   {
     "full_name": "cloudflare/workers-for-platforms-example",
-    "stargazers_count": 293,
+    "stargazers_count": 295,
     "open_issues_count": 15,
-    "forks_count": 100
+    "forks_count": 102
   },
   {
     "full_name": "AltraMayor/f3",
-    "stargazers_count": 2743,
+    "stargazers_count": 2744,
     "open_issues_count": 69,
     "forks_count": 150
   },
@@ -127,15 +139,15 @@
   },
   {
     "full_name": "cloudflare/workers-oauth-provider",
-    "stargazers_count": 1065,
-    "open_issues_count": 17,
-    "forks_count": 56
+    "stargazers_count": 1231,
+    "open_issues_count": 20,
+    "forks_count": 65
   },
   {
     "full_name": "opencode-ai/opencode",
-    "stargazers_count": 3669,
-    "open_issues_count": 76,
-    "forks_count": 304
+    "stargazers_count": 3945,
+    "open_issues_count": 83,
+    "forks_count": 327
   },
   {
     "full_name": "Automattic/newspack-multibranded-site",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 41070,
-    "open_issues_count": 2401,
-    "forks_count": 4361
+    "stargazers_count": 41095,
+    "open_issues_count": 2389,
+    "forks_count": 4362
   },
   {
     "full_name": "elder-plinius/CL4R1T4S",
-    "stargazers_count": 6441,
+    "stargazers_count": 6570,
     "open_issues_count": 25,
-    "forks_count": 1414
+    "forks_count": 1448
   },
   {
     "full_name": "suitenumerique/docs",
-    "stargazers_count": 12576,
-    "open_issues_count": 233,
+    "stargazers_count": 12604,
+    "open_issues_count": 219,
     "forks_count": 335
-  },
-  {
-    "full_name": "amnweb/monospace-idx-theme",
-    "stargazers_count": 14,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "NixOS/nixfmt",
-    "stargazers_count": 1168,
-    "open_issues_count": 32,
-    "forks_count": 58
   }
 ]
