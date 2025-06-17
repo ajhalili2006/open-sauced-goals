@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "okx/wallet-core",
+    "stargazers_count": 30,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "Purelymail/purelymail-issues",
+    "stargazers_count": 48,
+    "open_issues_count": 145,
+    "forks_count": 0
+  },
+  {
     "full_name": "apple/containerization",
-    "stargazers_count": 6342,
-    "open_issues_count": 27,
-    "forks_count": 121
+    "stargazers_count": 6981,
+    "open_issues_count": 32,
+    "forks_count": 149
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 11812,
-    "open_issues_count": 71,
-    "forks_count": 214
+    "stargazers_count": 14241,
+    "open_issues_count": 72,
+    "forks_count": 261
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3324,
-    "open_issues_count": 31,
+    "stargazers_count": 3330,
+    "open_issues_count": 30,
     "forks_count": 103
   },
   {
     "full_name": "nozwock/packet",
-    "stargazers_count": 355,
-    "open_issues_count": 11,
-    "forks_count": 8
+    "stargazers_count": 380,
+    "open_issues_count": 12,
+    "forks_count": 9
   },
   {
     "full_name": "canonical/cloud-init",
-    "stargazers_count": 3275,
-    "open_issues_count": 536,
-    "forks_count": 959
+    "stargazers_count": 3280,
+    "open_issues_count": 535,
+    "forks_count": 960
   },
   {
     "full_name": "cmj2002/r2-dir-list",
@@ -37,9 +49,9 @@
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 1290,
-    "open_issues_count": 388,
-    "forks_count": 319
+    "stargazers_count": 1291,
+    "open_issues_count": 387,
+    "forks_count": 318
   },
   {
     "full_name": "recaptimedev-labs/workers-config-schema",
@@ -56,14 +68,14 @@
   {
     "full_name": "jsonwebtoken/jsonwebtoken.github.io",
     "stargazers_count": 572,
-    "open_issues_count": 35,
+    "open_issues_count": 37,
     "forks_count": 343
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 31449,
-    "open_issues_count": 196,
-    "forks_count": 854
+    "stargazers_count": 31585,
+    "open_issues_count": 197,
+    "forks_count": 865
   },
   {
     "full_name": "burkeholland/i-love-lamp-build-2025",
@@ -73,33 +85,33 @@
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1583,
+    "stargazers_count": 1599,
     "open_issues_count": 43,
     "forks_count": 70
   },
   {
     "full_name": "bluesky-social/feed-generator",
-    "stargazers_count": 1873,
+    "stargazers_count": 1875,
     "open_issues_count": 52,
     "forks_count": 671
   },
   {
     "full_name": "microlinkhq/unavatar",
-    "stargazers_count": 1310,
+    "stargazers_count": 1311,
     "open_issues_count": 4,
     "forks_count": 76
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 14579,
+    "stargazers_count": 14667,
     "open_issues_count": 21,
-    "forks_count": 523
+    "forks_count": 528
   },
   {
     "full_name": "greensock/GSAP",
-    "stargazers_count": 22119,
+    "stargazers_count": 22148,
     "open_issues_count": 8,
-    "forks_count": 1829
+    "forks_count": 1831
   },
   {
     "full_name": "3kh0/hcbscan",
@@ -109,25 +121,25 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 64837,
-    "open_issues_count": 199,
-    "forks_count": 4339
+    "stargazers_count": 64916,
+    "open_issues_count": 210,
+    "forks_count": 4343
   },
   {
     "full_name": "cloudflare/workers-for-platforms-example",
-    "stargazers_count": 295,
+    "stargazers_count": 296,
     "open_issues_count": 15,
-    "forks_count": 102
+    "forks_count": 108
   },
   {
     "full_name": "AltraMayor/f3",
-    "stargazers_count": 2744,
+    "stargazers_count": 2749,
     "open_issues_count": 69,
     "forks_count": 150
   },
   {
     "full_name": "jamielinux/bashmount",
-    "stargazers_count": 245,
+    "stargazers_count": 246,
     "open_issues_count": 12,
     "forks_count": 29
   },
@@ -139,15 +151,15 @@
   },
   {
     "full_name": "cloudflare/workers-oauth-provider",
-    "stargazers_count": 1231,
-    "open_issues_count": 20,
-    "forks_count": 65
+    "stargazers_count": 1308,
+    "open_issues_count": 19,
+    "forks_count": 66
   },
   {
     "full_name": "opencode-ai/opencode",
-    "stargazers_count": 3945,
-    "open_issues_count": 83,
-    "forks_count": 327
+    "stargazers_count": 4315,
+    "open_issues_count": 88,
+    "forks_count": 357
   },
   {
     "full_name": "Automattic/newspack-multibranded-site",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "getsentry/sentry",
-    "stargazers_count": 41095,
-    "open_issues_count": 2389,
-    "forks_count": 4362
-  },
-  {
-    "full_name": "elder-plinius/CL4R1T4S",
-    "stargazers_count": 6570,
-    "open_issues_count": 25,
-    "forks_count": 1448
-  },
-  {
-    "full_name": "suitenumerique/docs",
-    "stargazers_count": 12604,
-    "open_issues_count": 219,
-    "forks_count": 335
+    "stargazers_count": 41110,
+    "open_issues_count": 2391,
+    "forks_count": 4363
   }
 ]
