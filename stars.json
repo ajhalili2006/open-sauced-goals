@@ -7,45 +7,45 @@
   },
   {
     "full_name": "okx/wallet-core",
-    "stargazers_count": 30,
-    "open_issues_count": 0,
-    "forks_count": 5
+    "stargazers_count": 31,
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "Purelymail/purelymail-issues",
     "stargazers_count": 48,
-    "open_issues_count": 148,
+    "open_issues_count": 147,
     "forks_count": 0
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 7258,
-    "open_issues_count": 32,
+    "stargazers_count": 7307,
+    "open_issues_count": 27,
     "forks_count": 156
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 15491,
-    "open_issues_count": 80,
-    "forks_count": 296
+    "stargazers_count": 15791,
+    "open_issues_count": 69,
+    "forks_count": 305
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3341,
-    "open_issues_count": 29,
+    "stargazers_count": 3352,
+    "open_issues_count": 30,
     "forks_count": 103
   },
   {
     "full_name": "nozwock/packet",
-    "stargazers_count": 417,
+    "stargazers_count": 423,
     "open_issues_count": 15,
     "forks_count": 9
   },
   {
     "full_name": "canonical/cloud-init",
-    "stargazers_count": 3297,
+    "stargazers_count": 3299,
     "open_issues_count": 531,
-    "forks_count": 960
+    "forks_count": 961
   },
   {
     "full_name": "cmj2002/r2-dir-list",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 1294,
+    "stargazers_count": 1295,
     "open_issues_count": 387,
     "forks_count": 318
   },
@@ -74,14 +74,14 @@
   {
     "full_name": "jsonwebtoken/jsonwebtoken.github.io",
     "stargazers_count": 572,
-    "open_issues_count": 37,
-    "forks_count": 343
+    "open_issues_count": 39,
+    "forks_count": 344
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 32060,
-    "open_issues_count": 200,
-    "forks_count": 888
+    "stargazers_count": 32294,
+    "open_issues_count": 195,
+    "forks_count": 895
   },
   {
     "full_name": "burkeholland/i-love-lamp-build-2025",
@@ -91,33 +91,33 @@
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1607,
-    "open_issues_count": 43,
-    "forks_count": 70
+    "stargazers_count": 1610,
+    "open_issues_count": 44,
+    "forks_count": 69
   },
   {
     "full_name": "bluesky-social/feed-generator",
-    "stargazers_count": 1877,
+    "stargazers_count": 1878,
     "open_issues_count": 52,
     "forks_count": 670
   },
   {
     "full_name": "microlinkhq/unavatar",
-    "stargazers_count": 1312,
+    "stargazers_count": 1313,
     "open_issues_count": 4,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 14790,
-    "open_issues_count": 21,
-    "forks_count": 525
+    "stargazers_count": 14847,
+    "open_issues_count": 19,
+    "forks_count": 527
   },
   {
     "full_name": "greensock/GSAP",
-    "stargazers_count": 22218,
+    "stargazers_count": 22251,
     "open_issues_count": 8,
-    "forks_count": 1833
+    "forks_count": 1834
   },
   {
     "full_name": "3kh0/hcbscan",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 65082,
+    "stargazers_count": 65149,
     "open_issues_count": 216,
-    "forks_count": 4362
+    "forks_count": 4369
   },
   {
     "full_name": "cloudflare/workers-for-platforms-example",
-    "stargazers_count": 298,
-    "open_issues_count": 15,
-    "forks_count": 108
+    "stargazers_count": 299,
+    "open_issues_count": 16,
+    "forks_count": 110
   },
   {
     "full_name": "AltraMayor/f3",
-    "stargazers_count": 2755,
+    "stargazers_count": 2756,
     "open_issues_count": 68,
     "forks_count": 149
   },
@@ -153,19 +153,19 @@
     "full_name": "openSUSE/news-o-o",
     "stargazers_count": 29,
     "open_issues_count": 9,
-    "forks_count": 73
-  },
-  {
-    "full_name": "cloudflare/workers-oauth-provider",
-    "stargazers_count": 1402,
-    "open_issues_count": 19,
     "forks_count": 72
   },
   {
+    "full_name": "cloudflare/workers-oauth-provider",
+    "stargazers_count": 1430,
+    "open_issues_count": 19,
+    "forks_count": 73
+  },
+  {
     "full_name": "opencode-ai/opencode",
-    "stargazers_count": 4990,
-    "open_issues_count": 95,
-    "forks_count": 405
+    "stargazers_count": 5723,
+    "open_issues_count": 100,
+    "forks_count": 431
   },
   {
     "full_name": "Automattic/newspack-multibranded-site",
