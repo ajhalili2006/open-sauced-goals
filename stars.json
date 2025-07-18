@@ -3,17 +3,17 @@
     "full_name": "Libera-Chat/libera-chat.github.io",
     "stargazers_count": 478,
     "open_issues_count": 20,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 21173,
-    "open_issues_count": 91,
-    "forks_count": 1717
+    "stargazers_count": 25157,
+    "open_issues_count": 115,
+    "forks_count": 2124
   },
   {
     "full_name": "metabrainz/musicbrainz-server",
-    "stargazers_count": 914,
+    "stargazers_count": 915,
     "open_issues_count": 75,
     "forks_count": 293
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "lay295/TwitchDownloader",
-    "stargazers_count": 3255,
+    "stargazers_count": 3259,
     "open_issues_count": 203,
     "forks_count": 296
   },
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "BenjaminAster/CSS-Minecraft",
-    "stargazers_count": 1657,
+    "stargazers_count": 1674,
     "open_issues_count": 3,
     "forks_count": 72
   },
@@ -67,44 +67,44 @@
   },
   {
     "full_name": "okx/wallet-core",
-    "stargazers_count": 35,
-    "open_issues_count": 1,
-    "forks_count": 12
+    "stargazers_count": 37,
+    "open_issues_count": 2,
+    "forks_count": 11
   },
   {
     "full_name": "Purelymail/purelymail-issues",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 149,
     "forks_count": 0
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 7509,
-    "open_issues_count": 33,
-    "forks_count": 165
+    "stargazers_count": 7531,
+    "open_issues_count": 32,
+    "forks_count": 166
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 17056,
-    "open_issues_count": 67,
-    "forks_count": 340
+    "stargazers_count": 17229,
+    "open_issues_count": 72,
+    "forks_count": 352
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3385,
+    "stargazers_count": 3395,
     "open_issues_count": 30,
     "forks_count": 104
   },
   {
     "full_name": "nozwock/packet",
-    "stargazers_count": 525,
-    "open_issues_count": 20,
+    "stargazers_count": 535,
+    "open_issues_count": 21,
     "forks_count": 13
   },
   {
     "full_name": "canonical/cloud-init",
-    "stargazers_count": 3327,
-    "open_issues_count": 540,
+    "stargazers_count": 3328,
+    "open_issues_count": 537,
     "forks_count": 973
   },
   {
@@ -116,8 +116,8 @@
   {
     "full_name": "NixOS/hydra",
     "stargazers_count": 1305,
-    "open_issues_count": 390,
-    "forks_count": 321
+    "open_issues_count": 385,
+    "forks_count": 322
   },
   {
     "full_name": "recaptimedev-labs/workers-config-schema",
@@ -134,14 +134,14 @@
   {
     "full_name": "jsonwebtoken/jsonwebtoken.github.io",
     "stargazers_count": 575,
-    "open_issues_count": 39,
-    "forks_count": 347
+    "open_issues_count": 40,
+    "forks_count": 348
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 33022,
-    "open_issues_count": 166,
-    "forks_count": 941
+    "stargazers_count": 33141,
+    "open_issues_count": 168,
+    "forks_count": 943
   },
   {
     "full_name": "burkeholland/i-love-lamp-build-2025",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1633,
+    "stargazers_count": 1636,
     "open_issues_count": 43,
     "forks_count": 70
   },
   {
     "full_name": "bluesky-social/feed-generator",
-    "stargazers_count": 1892,
+    "stargazers_count": 1894,
     "open_issues_count": 54,
-    "forks_count": 677
+    "forks_count": 678
   },
   {
     "full_name": "microlinkhq/unavatar",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 15201,
-    "open_issues_count": 17,
+    "stargazers_count": 15267,
+    "open_issues_count": 16,
     "forks_count": 533
   },
   {
     "full_name": "greensock/GSAP",
-    "stargazers_count": 22415,
-    "open_issues_count": 8,
-    "forks_count": 1841
+    "stargazers_count": 22443,
+    "open_issues_count": 9,
+    "forks_count": 1842
   }
 ]
