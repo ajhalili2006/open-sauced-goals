@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "hc-unipo/unipo",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ungive/discord-music-presence",
+    "stargazers_count": 1198,
+    "open_issues_count": 27,
+    "forks_count": 19
+  },
+  {
     "full_name": "Libera-Chat/libera-chat.github.io",
     "stargazers_count": 479,
     "open_issues_count": 21,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 26982,
-    "open_issues_count": 147,
-    "forks_count": 2419
+    "stargazers_count": 27484,
+    "open_issues_count": 154,
+    "forks_count": 2500
   },
   {
     "full_name": "metabrainz/musicbrainz-server",
-    "stargazers_count": 915,
-    "open_issues_count": 75,
-    "forks_count": 295
+    "stargazers_count": 916,
+    "open_issues_count": 74,
+    "forks_count": 296
   },
   {
     "full_name": "cs50/ai-workshop",
@@ -37,21 +49,21 @@
   },
   {
     "full_name": "lay295/TwitchDownloader",
-    "stargazers_count": 3269,
-    "open_issues_count": 208,
+    "stargazers_count": 3274,
+    "open_issues_count": 211,
     "forks_count": 296
   },
   {
     "full_name": "mohad12211/twitch-downloader-gui",
-    "stargazers_count": 66,
+    "stargazers_count": 67,
     "open_issues_count": 4,
     "forks_count": 5
   },
   {
     "full_name": "BenjaminAster/CSS-Minecraft",
-    "stargazers_count": 1708,
+    "stargazers_count": 1745,
     "open_issues_count": 3,
-    "forks_count": 74
+    "forks_count": 75
   },
   {
     "full_name": "thebrowsercompany/swift-build",
@@ -79,33 +91,33 @@
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 7578,
+    "stargazers_count": 7609,
     "open_issues_count": 36,
-    "forks_count": 168
+    "forks_count": 170
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 17528,
-    "open_issues_count": 73,
-    "forks_count": 362
+    "stargazers_count": 17707,
+    "open_issues_count": 88,
+    "forks_count": 371
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3400,
+    "stargazers_count": 3410,
     "open_issues_count": 30,
     "forks_count": 104
   },
   {
     "full_name": "nozwock/packet",
-    "stargazers_count": 546,
+    "stargazers_count": 557,
     "open_issues_count": 24,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "canonical/cloud-init",
-    "stargazers_count": 3337,
-    "open_issues_count": 539,
-    "forks_count": 974
+    "stargazers_count": 3350,
+    "open_issues_count": 543,
+    "forks_count": 975
   },
   {
     "full_name": "cmj2002/r2-dir-list",
@@ -115,7 +127,7 @@
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 1313,
+    "stargazers_count": 1315,
     "open_issues_count": 385,
     "forks_count": 321
   },
@@ -133,15 +145,15 @@
   },
   {
     "full_name": "jsonwebtoken/jsonwebtoken.github.io",
-    "stargazers_count": 575,
+    "stargazers_count": 576,
     "open_issues_count": 39,
     "forks_count": 348
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 33358,
-    "open_issues_count": 173,
-    "forks_count": 950
+    "stargazers_count": 33529,
+    "open_issues_count": 178,
+    "forks_count": 963
   },
   {
     "full_name": "burkeholland/i-love-lamp-build-2025",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "BaldissaraMatheus/Tasks.md",
-    "stargazers_count": 1641,
+    "stargazers_count": 1643,
     "open_issues_count": 45,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "bluesky-social/feed-generator",
-    "stargazers_count": 1897,
+    "stargazers_count": 1898,
     "open_issues_count": 54,
-    "forks_count": 679
+    "forks_count": 680
   },
   {
     "full_name": "microlinkhq/unavatar",
-    "stargazers_count": 1320,
-    "open_issues_count": 6,
+    "stargazers_count": 1321,
+    "open_issues_count": 7,
     "forks_count": 78
-  },
-  {
-    "full_name": "fastfetch-cli/fastfetch",
-    "stargazers_count": 15388,
-    "open_issues_count": 20,
-    "forks_count": 538
-  },
-  {
-    "full_name": "greensock/GSAP",
-    "stargazers_count": 22492,
-    "open_issues_count": 9,
-    "forks_count": 1847
   }
 ]
