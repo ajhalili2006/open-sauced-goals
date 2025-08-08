@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "pbatard/rufus",
+    "stargazers_count": 32241,
+    "open_issues_count": 8,
+    "forks_count": 2784
+  },
+  {
     "full_name": "tailscale/go",
     "stargazers_count": 73,
     "open_issues_count": 12,
@@ -7,13 +13,13 @@
   },
   {
     "full_name": "community/community",
-    "stargazers_count": 7414,
+    "stargazers_count": 7425,
     "open_issues_count": 0,
-    "forks_count": 2957
+    "forks_count": 2970
   },
   {
     "full_name": "cyphar/paperback",
-    "stargazers_count": 1336,
+    "stargazers_count": 1337,
     "open_issues_count": 19,
     "forks_count": 44
   },
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "ungive/discord-music-presence",
-    "stargazers_count": 1240,
+    "stargazers_count": 1260,
     "open_issues_count": 28,
-    "forks_count": 20
+    "forks_count": 21
   },
   {
     "full_name": "Libera-Chat/libera-chat.github.io",
-    "stargazers_count": 480,
-    "open_issues_count": 22,
+    "stargazers_count": 481,
+    "open_issues_count": 21,
     "forks_count": 121
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 29369,
-    "open_issues_count": 171,
-    "forks_count": 2710
+    "stargazers_count": 29742,
+    "open_issues_count": 180,
+    "forks_count": 2774
   },
   {
     "full_name": "metabrainz/musicbrainz-server",
@@ -67,9 +73,9 @@
   },
   {
     "full_name": "lay295/TwitchDownloader",
-    "stargazers_count": 3284,
-    "open_issues_count": 213,
-    "forks_count": 300
+    "stargazers_count": 3290,
+    "open_issues_count": 215,
+    "forks_count": 299
   },
   {
     "full_name": "mohad12211/twitch-downloader-gui",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "BenjaminAster/CSS-Minecraft",
-    "stargazers_count": 1770,
+    "stargazers_count": 1783,
     "open_issues_count": 3,
     "forks_count": 81
   },
@@ -104,38 +110,38 @@
   {
     "full_name": "Purelymail/purelymail-issues",
     "stargazers_count": 53,
-    "open_issues_count": 149,
+    "open_issues_count": 151,
     "forks_count": 0
   },
   {
     "full_name": "apple/containerization",
-    "stargazers_count": 7672,
-    "open_issues_count": 38,
-    "forks_count": 172
+    "stargazers_count": 7688,
+    "open_issues_count": 37,
+    "forks_count": 175
   },
   {
     "full_name": "apple/container",
-    "stargazers_count": 18030,
-    "open_issues_count": 125,
-    "forks_count": 384
+    "stargazers_count": 18174,
+    "open_issues_count": 130,
+    "forks_count": 392
   },
   {
     "full_name": "t3-oss/t3-env",
-    "stargazers_count": 3422,
+    "stargazers_count": 3430,
     "open_issues_count": 30,
     "forks_count": 104
   },
   {
     "full_name": "nozwock/packet",
-    "stargazers_count": 579,
+    "stargazers_count": 581,
     "open_issues_count": 24,
     "forks_count": 15
   },
   {
     "full_name": "canonical/cloud-init",
-    "stargazers_count": 3366,
-    "open_issues_count": 540,
-    "forks_count": 976
+    "stargazers_count": 3370,
+    "open_issues_count": 545,
+    "forks_count": 979
   },
   {
     "full_name": "cmj2002/r2-dir-list",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "NixOS/hydra",
-    "stargazers_count": 1316,
-    "open_issues_count": 386,
-    "forks_count": 321
+    "stargazers_count": 1318,
+    "open_issues_count": 388,
+    "forks_count": 322
   },
   {
     "full_name": "recaptimedev-labs/workers-config-schema",
@@ -164,19 +170,13 @@
   {
     "full_name": "jsonwebtoken/jsonwebtoken.github.io",
     "stargazers_count": 576,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 348
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 33783,
+    "stargazers_count": 33887,
     "open_issues_count": 183,
-    "forks_count": 978
-  },
-  {
-    "full_name": "burkeholland/i-love-lamp-build-2025",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 983
   }
 ]
