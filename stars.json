@@ -1,9 +1,9 @@
 [
   {
     "full_name": "henrysipp/omarchy-nix",
-    "stargazers_count": 298,
-    "open_issues_count": 2,
-    "forks_count": 30
+    "stargazers_count": 354,
+    "open_issues_count": 0,
+    "forks_count": 31
   },
   {
     "full_name": "recaptime-dev/infra-ghost-docker",
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "TryGhost/ghost-docker",
-    "stargazers_count": 37,
-    "open_issues_count": 7,
-    "forks_count": 23
+    "stargazers_count": 41,
+    "open_issues_count": 8,
+    "forks_count": 25
   },
   {
     "full_name": "kkrishguptaa/spotbuds",
-    "stargazers_count": 2,
+    "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "kkrishguptaa/dockyard",
-    "stargazers_count": 4,
+    "stargazers_count": 3,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -39,13 +39,13 @@
     "full_name": "kkrishguptaa/tastebuds",
     "stargazers_count": 1,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "basecamp/once-campfire",
-    "stargazers_count": 3106,
-    "open_issues_count": 8,
-    "forks_count": 472
+    "stargazers_count": 3196,
+    "open_issues_count": 9,
+    "forks_count": 485
   },
   {
     "full_name": "pivilartisant/news-room",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "3kh0/fuck-anubis",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 52809,
-    "open_issues_count": 842,
-    "forks_count": 4681
+    "stargazers_count": 52836,
+    "open_issues_count": 840,
+    "forks_count": 4688
   },
   {
     "full_name": "zokugun/vscode-vsix-manager",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "Rust-GCC/gccrs",
-    "stargazers_count": 2705,
+    "stargazers_count": 2706,
     "open_issues_count": 579,
     "forks_count": 187
   },
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "beeper/bridge-manager",
-    "stargazers_count": 1187,
+    "stargazers_count": 1189,
     "open_issues_count": 19,
     "forks_count": 79
   },
   {
     "full_name": "youwen5/zen-browser-flake",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 2,
     "forks_count": 17
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 13637,
-    "open_issues_count": 3574,
+    "stargazers_count": 13656,
+    "open_issues_count": 3585,
     "forks_count": 2943
   },
   {
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "alpinelinux/aports",
-    "stargazers_count": 683,
+    "stargazers_count": 684,
     "open_issues_count": 0,
     "forks_count": 697
   },
   {
     "full_name": "moeru-ai/airi",
-    "stargazers_count": 14347,
-    "open_issues_count": 57,
-    "forks_count": 1226
+    "stargazers_count": 14473,
+    "open_issues_count": 55,
+    "forks_count": 1240
   },
   {
     "full_name": "kellnerd/harmony",
-    "stargazers_count": 131,
-    "open_issues_count": 68,
+    "stargazers_count": 132,
+    "open_issues_count": 69,
     "forks_count": 15
   },
   {
     "full_name": "pbatard/rufus",
-    "stargazers_count": 32756,
-    "open_issues_count": 10,
-    "forks_count": 2812
+    "stargazers_count": 32819,
+    "open_issues_count": 8,
+    "forks_count": 2819
   },
   {
     "full_name": "tailscale/go",
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "community/community",
-    "stargazers_count": 7552,
+    "stargazers_count": 7561,
     "open_issues_count": 3,
-    "forks_count": 3074
+    "forks_count": 3081
   },
   {
     "full_name": "cyphar/paperback",
-    "stargazers_count": 1355,
-    "open_issues_count": 19,
+    "stargazers_count": 1354,
+    "open_issues_count": 18,
     "forks_count": 47
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "ungive/discord-music-presence",
-    "stargazers_count": 1573,
-    "open_issues_count": 32,
-    "forks_count": 31
+    "stargazers_count": 1599,
+    "open_issues_count": 35,
+    "forks_count": 33
   },
   {
     "full_name": "Libera-Chat/libera-chat.github.io",
-    "stargazers_count": 491,
+    "stargazers_count": 493,
     "open_issues_count": 21,
-    "forks_count": 123
+    "forks_count": 124
   },
   {
     "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 34090,
-    "open_issues_count": 201,
-    "forks_count": 3303
+    "stargazers_count": 38598,
+    "open_issues_count": 211,
+    "forks_count": 3619
   }
 ]
