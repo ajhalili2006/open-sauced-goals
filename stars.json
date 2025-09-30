@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "kukuruzka165/materialgram",
+    "stargazers_count": 899,
+    "open_issues_count": 40,
+    "forks_count": 25
+  },
+  {
     "full_name": "henrysipp/omarchy-nix",
-    "stargazers_count": 354,
+    "stargazers_count": 396,
     "open_issues_count": 0,
-    "forks_count": 31
+    "forks_count": 33
   },
   {
     "full_name": "recaptime-dev/infra-ghost-docker",
@@ -21,7 +27,7 @@
     "full_name": "TryGhost/ghost-docker",
     "stargazers_count": 41,
     "open_issues_count": 8,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "kkrishguptaa/spotbuds",
@@ -43,9 +49,9 @@
   },
   {
     "full_name": "basecamp/once-campfire",
-    "stargazers_count": 3196,
-    "open_issues_count": 9,
-    "forks_count": 485
+    "stargazers_count": 3257,
+    "open_issues_count": 10,
+    "forks_count": 496
   },
   {
     "full_name": "pivilartisant/news-room",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 52836,
-    "open_issues_count": 840,
-    "forks_count": 4688
+    "stargazers_count": 52889,
+    "open_issues_count": 845,
+    "forks_count": 4699
   },
   {
     "full_name": "zokugun/vscode-vsix-manager",
@@ -73,19 +79,19 @@
   },
   {
     "full_name": "Rust-GCC/gccrs",
-    "stargazers_count": 2706,
-    "open_issues_count": 579,
-    "forks_count": 187
+    "stargazers_count": 2711,
+    "open_issues_count": 580,
+    "forks_count": 188
   },
   {
     "full_name": "django/deps",
-    "stargazers_count": 502,
+    "stargazers_count": 503,
     "open_issues_count": 10,
     "forks_count": 86
   },
   {
     "full_name": "beeper/bridge-manager",
-    "stargazers_count": 1189,
+    "stargazers_count": 1191,
     "open_issues_count": 19,
     "forks_count": 79
   },
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 13656,
-    "open_issues_count": 3585,
-    "forks_count": 2943
+    "stargazers_count": 13675,
+    "open_issues_count": 3580,
+    "forks_count": 2946
   },
   {
     "full_name": "nordstromlabs/som-monitor",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "moeru-ai/airi",
-    "stargazers_count": 14473,
-    "open_issues_count": 55,
-    "forks_count": 1240
+    "stargazers_count": 14596,
+    "open_issues_count": 44,
+    "forks_count": 1259
   },
   {
     "full_name": "kellnerd/harmony",
     "stargazers_count": 132,
     "open_issues_count": 69,
-    "forks_count": 15
+    "forks_count": 16
   },
   {
     "full_name": "pbatard/rufus",
-    "stargazers_count": 32819,
-    "open_issues_count": 8,
-    "forks_count": 2819
+    "stargazers_count": 32912,
+    "open_issues_count": 9,
+    "forks_count": 2826
   },
   {
     "full_name": "tailscale/go",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "community/community",
-    "stargazers_count": 7561,
+    "stargazers_count": 7577,
     "open_issues_count": 3,
-    "forks_count": 3081
+    "forks_count": 3095
   },
   {
     "full_name": "cyphar/paperback",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "ungive/discord-music-presence",
-    "stargazers_count": 1599,
-    "open_issues_count": 35,
+    "stargazers_count": 1628,
+    "open_issues_count": 38,
     "forks_count": 33
   },
   {
     "full_name": "Libera-Chat/libera-chat.github.io",
-    "stargazers_count": 493,
+    "stargazers_count": 494,
     "open_issues_count": 21,
-    "forks_count": 124
-  },
-  {
-    "full_name": "OpenCut-app/OpenCut",
-    "stargazers_count": 38598,
-    "open_issues_count": 211,
-    "forks_count": 3619
+    "forks_count": 125
   }
 ]
