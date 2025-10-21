@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "DotLYHiyou/Zenithub",
+    "stargazers_count": 59,
+    "open_issues_count": 0,
+    "forks_count": 75
+  },
+  {
+    "full_name": "sourcegraph/docsite",
+    "stargazers_count": 71,
+    "open_issues_count": 12,
+    "forks_count": 11
+  },
+  {
+    "full_name": "containers/image",
+    "stargazers_count": 937,
+    "open_issues_count": 0,
+    "forks_count": 396
+  },
+  {
     "full_name": "hackclub-community/.github",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -14,38 +32,38 @@
   {
     "full_name": "hackclub-community/atproto-pds",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 4,
     "forks_count": 0
   },
   {
     "full_name": "ThatOtherAndrew/Hexecute",
-    "stargazers_count": 229,
+    "stargazers_count": 289,
     "open_issues_count": 7,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "nirui/sshwifty",
-    "stargazers_count": 2894,
+    "stargazers_count": 2895,
     "open_issues_count": 40,
     "forks_count": 383
   },
   {
     "full_name": "mozilla/readability",
-    "stargazers_count": 10512,
-    "open_issues_count": 290,
+    "stargazers_count": 10523,
+    "open_issues_count": 291,
     "forks_count": 688
   },
   {
     "full_name": "danielrobbins/keychain",
-    "stargazers_count": 857,
+    "stargazers_count": 860,
     "open_issues_count": 21,
     "forks_count": 114
   },
   {
     "full_name": "nix-community/nixos-vscode-server",
-    "stargazers_count": 515,
+    "stargazers_count": 518,
     "open_issues_count": 13,
-    "forks_count": 90
+    "forks_count": 91
   },
   {
     "full_name": "andreijirohdev-labs/docker-zulip",
@@ -56,20 +74,20 @@
   {
     "full_name": "zulip/docker-zulip",
     "stargazers_count": 653,
-    "open_issues_count": 64,
-    "forks_count": 284
+    "open_issues_count": 66,
+    "forks_count": 285
   },
   {
     "full_name": "kukuruzka165/materialgram",
-    "stargazers_count": 914,
+    "stargazers_count": 919,
     "open_issues_count": 40,
     "forks_count": 26
   },
   {
     "full_name": "henrysipp/omarchy-nix",
-    "stargazers_count": 479,
-    "open_issues_count": 1,
-    "forks_count": 37
+    "stargazers_count": 494,
+    "open_issues_count": 2,
+    "forks_count": 39
   },
   {
     "full_name": "recaptime-dev/infra-ghost-docker",
@@ -98,7 +116,7 @@
   {
     "full_name": "kkrishguptaa/dockyard",
     "stargazers_count": 3,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
@@ -109,9 +127,9 @@
   },
   {
     "full_name": "basecamp/once-campfire",
-    "stargazers_count": 3407,
-    "open_issues_count": 13,
-    "forks_count": 528
+    "stargazers_count": 3432,
+    "open_issues_count": 14,
+    "forks_count": 530
   },
   {
     "full_name": "pivilartisant/news-room",
@@ -127,9 +145,9 @@
   },
   {
     "full_name": "appwrite/appwrite",
-    "stargazers_count": 53121,
-    "open_issues_count": 860,
-    "forks_count": 4753
+    "stargazers_count": 53146,
+    "open_issues_count": 856,
+    "forks_count": 4758
   },
   {
     "full_name": "zokugun/vscode-vsix-manager",
@@ -139,8 +157,8 @@
   },
   {
     "full_name": "Rust-GCC/gccrs",
-    "stargazers_count": 2725,
-    "open_issues_count": 581,
+    "stargazers_count": 2728,
+    "open_issues_count": 590,
     "forks_count": 191
   },
   {
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "beeper/bridge-manager",
-    "stargazers_count": 1201,
+    "stargazers_count": 1205,
     "open_issues_count": 19,
     "forks_count": 79
   },
   {
     "full_name": "youwen5/zen-browser-flake",
     "stargazers_count": 101,
-    "open_issues_count": 2,
-    "forks_count": 17
-  },
-  {
-    "full_name": "recaptime-dev/base-repo-setup",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "musescore/MuseScore",
-    "stargazers_count": 13811,
-    "open_issues_count": 3622,
-    "forks_count": 2971
-  },
-  {
-    "full_name": "nordstromlabs/som-monitor",
-    "stargazers_count": 45,
     "open_issues_count": 1,
-    "forks_count": 3
+    "forks_count": 17
   }
 ]
