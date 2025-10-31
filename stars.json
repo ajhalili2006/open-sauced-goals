@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "graze-social/aip",
+    "stargazers_count": 93,
+    "open_issues_count": 12,
+    "forks_count": 12
+  },
+  {
     "full_name": "ImShyMike/timesplit",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -13,9 +19,9 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 54376,
-    "open_issues_count": 595,
-    "forks_count": 2394
+    "stargazers_count": 54737,
+    "open_issues_count": 600,
+    "forks_count": 2420
   },
   {
     "full_name": "andreijiroh-dev/dns.dino.icu",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "DotLYHiyou/Zenithub",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 0,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "sourcegraph/docsite",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "containers/image",
-    "stargazers_count": 938,
+    "stargazers_count": 939,
     "open_issues_count": 0,
     "forks_count": 396
   },
@@ -73,31 +79,31 @@
   },
   {
     "full_name": "ThatOtherAndrew/Hexecute",
-    "stargazers_count": 337,
-    "open_issues_count": 8,
+    "stargazers_count": 352,
+    "open_issues_count": 9,
     "forks_count": 13
   },
   {
     "full_name": "nirui/sshwifty",
-    "stargazers_count": 2900,
+    "stargazers_count": 2902,
     "open_issues_count": 40,
-    "forks_count": 384
+    "forks_count": 382
   },
   {
     "full_name": "mozilla/readability",
-    "stargazers_count": 10544,
+    "stargazers_count": 10557,
     "open_issues_count": 291,
-    "forks_count": 688
+    "forks_count": 689
   },
   {
     "full_name": "danielrobbins/keychain",
-    "stargazers_count": 864,
+    "stargazers_count": 865,
     "open_issues_count": 20,
     "forks_count": 115
   },
   {
     "full_name": "nix-community/nixos-vscode-server",
-    "stargazers_count": 520,
+    "stargazers_count": 521,
     "open_issues_count": 13,
     "forks_count": 93
   },
@@ -109,21 +115,21 @@
   },
   {
     "full_name": "zulip/docker-zulip",
-    "stargazers_count": 654,
-    "open_issues_count": 61,
+    "stargazers_count": 656,
+    "open_issues_count": 62,
     "forks_count": 286
   },
   {
     "full_name": "kukuruzka165/materialgram",
-    "stargazers_count": 925,
+    "stargazers_count": 928,
     "open_issues_count": 42,
     "forks_count": 26
   },
   {
     "full_name": "henrysipp/omarchy-nix",
-    "stargazers_count": 531,
+    "stargazers_count": 534,
     "open_issues_count": 3,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "recaptime-dev/infra-ghost-docker",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "TryGhost/ghost-docker",
-    "stargazers_count": 41,
+    "stargazers_count": 42,
     "open_issues_count": 15,
-    "forks_count": 38
+    "forks_count": 40
   },
   {
     "full_name": "kkrishguptaa/spotbuds",
@@ -152,7 +158,7 @@
   {
     "full_name": "kkrishguptaa/dockyard",
     "stargazers_count": 3,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 2
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "basecamp/once-campfire",
-    "stargazers_count": 3465,
-    "open_issues_count": 12,
-    "forks_count": 538
+    "stargazers_count": 3483,
+    "open_issues_count": 13,
+    "forks_count": 541
   },
   {
     "full_name": "pivilartisant/news-room",
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "3kh0/fuck-anubis",
-    "stargazers_count": 5,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
