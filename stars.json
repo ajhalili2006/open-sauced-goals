@@ -7,9 +7,9 @@
   },
   {
     "full_name": "tale/headplane",
-    "stargazers_count": 1629,
+    "stargazers_count": 1647,
     "open_issues_count": 40,
-    "forks_count": 111
+    "forks_count": 112
   },
   {
     "full_name": "transcental/slack-extra",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "oddlama/agenix-rekey",
-    "stargazers_count": 351,
+    "stargazers_count": 354,
     "open_issues_count": 22,
     "forks_count": 39
   },
   {
     "full_name": "0xc000022070/zen-browser-flake",
-    "stargazers_count": 681,
-    "open_issues_count": 6,
-    "forks_count": 62
+    "stargazers_count": 687,
+    "open_issues_count": 7,
+    "forks_count": 64
   },
   {
     "full_name": "nostrband/noauth",
-    "stargazers_count": 109,
-    "open_issues_count": 43,
-    "forks_count": 18
+    "stargazers_count": 110,
+    "open_issues_count": 44,
+    "forks_count": 17
   },
   {
     "full_name": "scsibug/nostr-rs-relay",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 55741,
-    "open_issues_count": 647,
-    "forks_count": 2491
+    "stargazers_count": 55865,
+    "open_issues_count": 648,
+    "forks_count": 2499
   },
   {
     "full_name": "andreijiroh-dev/dns.dino.icu",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "souramoo/commentoplusplus",
-    "stargazers_count": 419,
+    "stargazers_count": 420,
     "open_issues_count": 47,
     "forks_count": 68
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "containers/image",
-    "stargazers_count": 943,
+    "stargazers_count": 944,
     "open_issues_count": 0,
     "forks_count": 396
   },
@@ -121,31 +121,31 @@
   },
   {
     "full_name": "ThatOtherAndrew/Hexecute",
-    "stargazers_count": 415,
+    "stargazers_count": 418,
     "open_issues_count": 8,
     "forks_count": 15
   },
   {
     "full_name": "nirui/sshwifty",
-    "stargazers_count": 2926,
+    "stargazers_count": 2933,
     "open_issues_count": 40,
-    "forks_count": 385
+    "forks_count": 386
   },
   {
     "full_name": "mozilla/readability",
-    "stargazers_count": 10615,
-    "open_issues_count": 292,
-    "forks_count": 690
+    "stargazers_count": 10629,
+    "open_issues_count": 294,
+    "forks_count": 692
   },
   {
     "full_name": "danielrobbins/keychain",
-    "stargazers_count": 891,
+    "stargazers_count": 894,
     "open_issues_count": 15,
     "forks_count": 115
   },
   {
     "full_name": "nix-community/nixos-vscode-server",
-    "stargazers_count": 522,
+    "stargazers_count": 523,
     "open_issues_count": 14,
     "forks_count": 93
   },
@@ -157,21 +157,21 @@
   },
   {
     "full_name": "zulip/docker-zulip",
-    "stargazers_count": 667,
-    "open_issues_count": 50,
+    "stargazers_count": 669,
+    "open_issues_count": 49,
     "forks_count": 285
   },
   {
     "full_name": "kukuruzka165/materialgram",
-    "stargazers_count": 950,
+    "stargazers_count": 949,
     "open_issues_count": 41,
     "forks_count": 26
   },
   {
     "full_name": "henrysipp/omarchy-nix",
-    "stargazers_count": 593,
+    "stargazers_count": 599,
     "open_issues_count": 3,
-    "forks_count": 51
+    "forks_count": 53
   },
   {
     "full_name": "recaptime-dev/infra-ghost-docker",
