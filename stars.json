@@ -1,9 +1,39 @@
 [
   {
+    "full_name": "Tampermonkey/tamperdav",
+    "stargazers_count": 271,
+    "open_issues_count": 2,
+    "forks_count": 53
+  },
+  {
+    "full_name": "workflow/dotfiles",
+    "stargazers_count": 65,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "SmartRSS/Smart-RSS",
+    "stargazers_count": 124,
+    "open_issues_count": 33,
+    "forks_count": 16
+  },
+  {
+    "full_name": "zed-industries/zed",
+    "stargazers_count": 70876,
+    "open_issues_count": 3252,
+    "forks_count": 6160
+  },
+  {
+    "full_name": "zed-extensions/prisma",
+    "stargazers_count": 15,
+    "open_issues_count": 7,
+    "forks_count": 7
+  },
+  {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 37553,
-    "open_issues_count": 237,
-    "forks_count": 3233
+    "stargazers_count": 37609,
+    "open_issues_count": 241,
+    "forks_count": 3242
   },
   {
     "full_name": "spacevini8/zIRConium",
@@ -13,9 +43,9 @@
   },
   {
     "full_name": "tazjin/nixery",
-    "stargazers_count": 1949,
-    "open_issues_count": 36,
-    "forks_count": 77
+    "stargazers_count": 1951,
+    "open_issues_count": 35,
+    "forks_count": 76
   },
   {
     "full_name": "taciturnaxolotl/irc-slack-bridge",
@@ -37,9 +67,9 @@
   },
   {
     "full_name": "tale/headplane",
-    "stargazers_count": 1682,
-    "open_issues_count": 41,
-    "forks_count": 113
+    "stargazers_count": 1688,
+    "open_issues_count": 38,
+    "forks_count": 115
   },
   {
     "full_name": "transcental/slack-extra",
@@ -49,51 +79,51 @@
   },
   {
     "full_name": "oddlama/agenix-rekey",
-    "stargazers_count": 357,
+    "stargazers_count": 358,
     "open_issues_count": 22,
     "forks_count": 39
   },
   {
     "full_name": "0xc000022070/zen-browser-flake",
-    "stargazers_count": 695,
-    "open_issues_count": 8,
-    "forks_count": 64
+    "stargazers_count": 697,
+    "open_issues_count": 7,
+    "forks_count": 63
   },
   {
     "full_name": "nostrband/noauth",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 44,
     "forks_count": 17
   },
   {
     "full_name": "scsibug/nostr-rs-relay",
-    "stargazers_count": 656,
+    "stargazers_count": 658,
     "open_issues_count": 56,
     "forks_count": 184
   },
   {
     "full_name": "graze-social/aip",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 11,
     "forks_count": 13
   },
   {
     "full_name": "ImShyMike/timesplit",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "NeonGamerBot-QK/slack-zeon",
     "stargazers_count": 13,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 1
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 56087,
+    "stargazers_count": 56331,
     "open_issues_count": 638,
-    "forks_count": 2505
+    "forks_count": 2521
   },
   {
     "full_name": "andreijiroh-dev/dns.dino.icu",
@@ -123,13 +153,13 @@
     "full_name": "sourcegraph/docsite",
     "stargazers_count": 71,
     "open_issues_count": 12,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "containers/image",
-    "stargazers_count": 944,
+    "stargazers_count": 945,
     "open_issues_count": 1,
-    "forks_count": 396
+    "forks_count": 395
   },
   {
     "full_name": "hackclub-community/.github",
@@ -148,35 +178,5 @@
     "stargazers_count": 1,
     "open_issues_count": 5,
     "forks_count": 0
-  },
-  {
-    "full_name": "ThatOtherAndrew/Hexecute",
-    "stargazers_count": 425,
-    "open_issues_count": 8,
-    "forks_count": 15
-  },
-  {
-    "full_name": "nirui/sshwifty",
-    "stargazers_count": 2940,
-    "open_issues_count": 40,
-    "forks_count": 386
-  },
-  {
-    "full_name": "mozilla/readability",
-    "stargazers_count": 10653,
-    "open_issues_count": 294,
-    "forks_count": 690
-  },
-  {
-    "full_name": "danielrobbins/keychain",
-    "stargazers_count": 899,
-    "open_issues_count": 15,
-    "forks_count": 115
-  },
-  {
-    "full_name": "nix-community/nixos-vscode-server",
-    "stargazers_count": 520,
-    "open_issues_count": 14,
-    "forks_count": 93
   }
 ]
