@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "chaotic-cx/nyx",
+    "stargazers_count": 640,
+    "open_issues_count": 0,
+    "forks_count": 75
+  },
+  {
+    "full_name": "Tazer/years-in-review",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "Tampermonkey/tamperdav",
     "stargazers_count": 271,
     "open_issues_count": 2,
-    "forks_count": 53
+    "forks_count": 54
   },
   {
     "full_name": "workflow/dotfiles",
-    "stargazers_count": 65,
+    "stargazers_count": 66,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,21 +31,21 @@
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 70876,
-    "open_issues_count": 3252,
-    "forks_count": 6160
+    "stargazers_count": 71085,
+    "open_issues_count": 3308,
+    "forks_count": 6201
   },
   {
     "full_name": "zed-extensions/prisma",
     "stargazers_count": 15,
-    "open_issues_count": 7,
-    "forks_count": 7
+    "open_issues_count": 9,
+    "forks_count": 8
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 37609,
-    "open_issues_count": 241,
-    "forks_count": 3242
+    "stargazers_count": 37680,
+    "open_issues_count": 249,
+    "forks_count": 3264
   },
   {
     "full_name": "spacevini8/zIRConium",
@@ -67,13 +79,13 @@
   },
   {
     "full_name": "tale/headplane",
-    "stargazers_count": 1688,
-    "open_issues_count": 38,
-    "forks_count": 115
+    "stargazers_count": 1702,
+    "open_issues_count": 37,
+    "forks_count": 118
   },
   {
     "full_name": "transcental/slack-extra",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 0
   },
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "0xc000022070/zen-browser-flake",
-    "stargazers_count": 697,
-    "open_issues_count": 7,
-    "forks_count": 63
+    "stargazers_count": 704,
+    "open_issues_count": 8,
+    "forks_count": 62
   },
   {
     "full_name": "nostrband/noauth",
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "scsibug/nostr-rs-relay",
-    "stargazers_count": 658,
+    "stargazers_count": 661,
     "open_issues_count": 56,
     "forks_count": 184
   },
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 56331,
-    "open_issues_count": 638,
-    "forks_count": 2521
+    "stargazers_count": 56461,
+    "open_issues_count": 643,
+    "forks_count": 2536
   },
   {
     "full_name": "andreijiroh-dev/dns.dino.icu",
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "souramoo/commentoplusplus",
-    "stargazers_count": 420,
+    "stargazers_count": 421,
     "open_issues_count": 47,
     "forks_count": 68
   },
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "containers/image",
-    "stargazers_count": 945,
+    "stargazers_count": 946,
     "open_issues_count": 1,
     "forks_count": 395
   },
@@ -165,18 +177,6 @@
     "full_name": "hackclub-community/.github",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "andreijiroh-dev/golang-pkgs",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hackclub-community/atproto-pds",
-    "stargazers_count": 1,
-    "open_issues_count": 5,
     "forks_count": 0
   }
 ]
