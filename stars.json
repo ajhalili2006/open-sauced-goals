@@ -1,9 +1,33 @@
 [
   {
-    "full_name": "chaotic-cx/nyx",
-    "stargazers_count": 640,
+    "full_name": "recaptime-dev/devenvkit",
+    "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 75
+    "forks_count": 0
+  },
+  {
+    "full_name": "sctg-development/clean-image-for-docker",
+    "stargazers_count": 13,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "is-a-dev/register",
+    "stargazers_count": 9217,
+    "open_issues_count": 43,
+    "forks_count": 16786
+  },
+  {
+    "full_name": "pizzalover125/hackatime-wrapped",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "chaotic-cx/nyx",
+    "stargazers_count": 645,
+    "open_issues_count": 0,
+    "forks_count": 80
   },
   {
     "full_name": "Tazer/years-in-review",
@@ -25,15 +49,15 @@
   },
   {
     "full_name": "SmartRSS/Smart-RSS",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 33,
     "forks_count": 16
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 71085,
-    "open_issues_count": 3308,
-    "forks_count": 6201
+    "stargazers_count": 71277,
+    "open_issues_count": 3294,
+    "forks_count": 6232
   },
   {
     "full_name": "zed-extensions/prisma",
@@ -43,9 +67,9 @@
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 37680,
-    "open_issues_count": 249,
-    "forks_count": 3264
+    "stargazers_count": 37773,
+    "open_issues_count": 256,
+    "forks_count": 3276
   },
   {
     "full_name": "spacevini8/zIRConium",
@@ -79,8 +103,8 @@
   },
   {
     "full_name": "tale/headplane",
-    "stargazers_count": 1702,
-    "open_issues_count": 37,
+    "stargazers_count": 1718,
+    "open_issues_count": 38,
     "forks_count": 118
   },
   {
@@ -91,13 +115,13 @@
   },
   {
     "full_name": "oddlama/agenix-rekey",
-    "stargazers_count": 358,
+    "stargazers_count": 359,
     "open_issues_count": 22,
     "forks_count": 39
   },
   {
     "full_name": "0xc000022070/zen-browser-flake",
-    "stargazers_count": 704,
+    "stargazers_count": 709,
     "open_issues_count": 8,
     "forks_count": 62
   },
@@ -111,7 +135,7 @@
     "full_name": "scsibug/nostr-rs-relay",
     "stargazers_count": 661,
     "open_issues_count": 56,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "graze-social/aip",
@@ -121,7 +145,7 @@
   },
   {
     "full_name": "ImShyMike/timesplit",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -133,9 +157,9 @@
   },
   {
     "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 56461,
+    "stargazers_count": 56499,
     "open_issues_count": 643,
-    "forks_count": 2536
+    "forks_count": 2543
   },
   {
     "full_name": "andreijiroh-dev/dns.dino.icu",
@@ -154,29 +178,5 @@
     "stargazers_count": 421,
     "open_issues_count": 47,
     "forks_count": 68
-  },
-  {
-    "full_name": "DotLYHiyou/Zenithub",
-    "stargazers_count": 62,
-    "open_issues_count": 0,
-    "forks_count": 87
-  },
-  {
-    "full_name": "sourcegraph/docsite",
-    "stargazers_count": 71,
-    "open_issues_count": 12,
-    "forks_count": 10
-  },
-  {
-    "full_name": "containers/image",
-    "stargazers_count": 946,
-    "open_issues_count": 1,
-    "forks_count": 395
-  },
-  {
-    "full_name": "hackclub-community/.github",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
