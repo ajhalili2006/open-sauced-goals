@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "hackclub-community/hackatime-wrapped",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "binwiederhier/ntfy",
+    "stargazers_count": 27747,
+    "open_issues_count": 410,
+    "forks_count": 1123
+  },
+  {
+    "full_name": "NamtaoProductions/namtao-com",
+    "stargazers_count": 42,
+    "open_issues_count": 8,
+    "forks_count": 2
+  },
+  {
+    "full_name": "ItsFelix5/n8n",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
     "full_name": "recaptime-dev/devenvkit",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -13,9 +37,9 @@
   },
   {
     "full_name": "is-a-dev/register",
-    "stargazers_count": 9217,
-    "open_issues_count": 43,
-    "forks_count": 16786
+    "stargazers_count": 9233,
+    "open_issues_count": 71,
+    "forks_count": 16852
   },
   {
     "full_name": "pizzalover125/hackatime-wrapped",
@@ -25,13 +49,13 @@
   },
   {
     "full_name": "chaotic-cx/nyx",
-    "stargazers_count": 645,
+    "stargazers_count": 648,
     "open_issues_count": 0,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "Tazer/years-in-review",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -39,7 +63,7 @@
     "full_name": "Tampermonkey/tamperdav",
     "stargazers_count": 271,
     "open_issues_count": 2,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "workflow/dotfiles",
@@ -55,9 +79,9 @@
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 71277,
-    "open_issues_count": 3294,
-    "forks_count": 6232
+    "stargazers_count": 71522,
+    "open_issues_count": 3248,
+    "forks_count": 6278
   },
   {
     "full_name": "zed-extensions/prisma",
@@ -67,9 +91,9 @@
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 37773,
-    "open_issues_count": 256,
-    "forks_count": 3276
+    "stargazers_count": 37939,
+    "open_issues_count": 257,
+    "forks_count": 3300
   },
   {
     "full_name": "spacevini8/zIRConium",
@@ -79,7 +103,7 @@
   },
   {
     "full_name": "tazjin/nixery",
-    "stargazers_count": 1951,
+    "stargazers_count": 1952,
     "open_issues_count": 35,
     "forks_count": 76
   },
@@ -103,9 +127,9 @@
   },
   {
     "full_name": "tale/headplane",
-    "stargazers_count": 1718,
-    "open_issues_count": 38,
-    "forks_count": 118
+    "stargazers_count": 1727,
+    "open_issues_count": 33,
+    "forks_count": 121
   },
   {
     "full_name": "transcental/slack-extra",
@@ -115,15 +139,15 @@
   },
   {
     "full_name": "oddlama/agenix-rekey",
-    "stargazers_count": 359,
+    "stargazers_count": 361,
     "open_issues_count": 22,
     "forks_count": 39
   },
   {
     "full_name": "0xc000022070/zen-browser-flake",
-    "stargazers_count": 709,
-    "open_issues_count": 8,
-    "forks_count": 62
+    "stargazers_count": 718,
+    "open_issues_count": 9,
+    "forks_count": 63
   },
   {
     "full_name": "nostrband/noauth",
@@ -133,7 +157,7 @@
   },
   {
     "full_name": "scsibug/nostr-rs-relay",
-    "stargazers_count": 661,
+    "stargazers_count": 663,
     "open_issues_count": 56,
     "forks_count": 185
   },
@@ -145,7 +169,7 @@
   },
   {
     "full_name": "ImShyMike/timesplit",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 13,
     "open_issues_count": 7,
     "forks_count": 1
-  },
-  {
-    "full_name": "LadybirdBrowser/ladybird",
-    "stargazers_count": 56499,
-    "open_issues_count": 643,
-    "forks_count": 2543
-  },
-  {
-    "full_name": "andreijiroh-dev/dns.dino.icu",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "hackclub-community/meta",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "souramoo/commentoplusplus",
-    "stargazers_count": 421,
-    "open_issues_count": 47,
-    "forks_count": 68
   }
 ]
