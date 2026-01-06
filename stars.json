@@ -13,9 +13,9 @@
   },
   {
     "full_name": "minio/minio",
-    "stargazers_count": 59543,
+    "stargazers_count": 59590,
     "open_issues_count": 75,
-    "forks_count": 6846
+    "forks_count": 6859
   },
   {
     "full_name": "ss098/certmagic-s3",
@@ -26,11 +26,11 @@
   {
     "full_name": "hackclub-community/community-services-status",
     "stargazers_count": 2,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
-    "full_name": "Inglan/links",
+    "full_name": "ingoau/links",
     "stargazers_count": 4,
     "open_issues_count": 1,
     "forks_count": 0
@@ -38,14 +38,14 @@
   {
     "full_name": "hackclub/ships",
     "stargazers_count": 10,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 2
   },
   {
     "full_name": "JetBrains/kotlin",
-    "stargazers_count": 52101,
-    "open_issues_count": 205,
-    "forks_count": 6169
+    "stargazers_count": 52116,
+    "open_issues_count": 204,
+    "forks_count": 6171
   },
   {
     "full_name": "pyrou/traefik.me",
@@ -62,7 +62,7 @@
   {
     "full_name": "hackclub/auth",
     "stargazers_count": 59,
-    "open_issues_count": 55,
+    "open_issues_count": 56,
     "forks_count": 20
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "binwiederhier/ntfy",
-    "stargazers_count": 27983,
+    "stargazers_count": 28044,
     "open_issues_count": 411,
-    "forks_count": 1142
+    "forks_count": 1145
   },
   {
     "full_name": "NamtaoProductions/namtao-com",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "is-a-dev/register",
-    "stargazers_count": 9338,
-    "open_issues_count": 47,
-    "forks_count": 17214
+    "stargazers_count": 9359,
+    "open_issues_count": 93,
+    "forks_count": 17310
   },
   {
     "full_name": "pizzalover125/hackatime-wrapped",
@@ -117,7 +117,7 @@
     "full_name": "chaotic-cx/nyx",
     "stargazers_count": 651,
     "open_issues_count": 0,
-    "forks_count": 80
+    "forks_count": 77
   },
   {
     "full_name": "Tazer/years-in-review",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 72413,
-    "open_issues_count": 3217,
-    "forks_count": 6442
+    "stargazers_count": 72646,
+    "open_issues_count": 3210,
+    "forks_count": 6493
   },
   {
     "full_name": "zed-extensions/prisma",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 38376,
-    "open_issues_count": 277,
-    "forks_count": 3359
+    "stargazers_count": 38472,
+    "open_issues_count": 267,
+    "forks_count": 3372
   },
   {
     "full_name": "spacevini8/zIRConium",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "tazjin/nixery",
-    "stargazers_count": 1958,
+    "stargazers_count": 1959,
     "open_issues_count": 35,
     "forks_count": 77
   },
