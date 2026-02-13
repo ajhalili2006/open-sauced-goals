@@ -1,31 +1,37 @@
 [
   {
-    "full_name": "zensical/zensical",
-    "stargazers_count": 2938,
+    "full_name": "orta/keytrace",
+    "stargazers_count": 19,
     "open_issues_count": 3,
-    "forks_count": 73
+    "forks_count": 1
+  },
+  {
+    "full_name": "zensical/zensical",
+    "stargazers_count": 2977,
+    "open_issues_count": 2,
+    "forks_count": 74
   },
   {
     "full_name": "mijorus/gearlever",
-    "stargazers_count": 1541,
-    "open_issues_count": 154,
+    "stargazers_count": 1550,
+    "open_issues_count": 156,
     "forks_count": 61
   },
   {
     "full_name": "intent-solutions-io/iam-git-with-intent",
     "stargazers_count": 8,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "cuskiy/nixy",
-    "stargazers_count": 21,
+    "stargazers_count": 23,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "4O4-wasd/Microslop",
-    "stargazers_count": 94,
+    "stargazers_count": 98,
     "open_issues_count": 4,
     "forks_count": 9
   },
@@ -38,32 +44,32 @@
   {
     "full_name": "canonical/ubuntu-server-documentation",
     "stargazers_count": 64,
-    "open_issues_count": 82,
+    "open_issues_count": 83,
     "forks_count": 108
   },
   {
     "full_name": "qualifire-dev/rogue",
-    "stargazers_count": 987,
-    "open_issues_count": 44,
-    "forks_count": 158
+    "stargazers_count": 1002,
+    "open_issues_count": 45,
+    "forks_count": 159
   },
   {
     "full_name": "github/copilot-sdk",
-    "stargazers_count": 6948,
-    "open_issues_count": 89,
-    "forks_count": 815
+    "stargazers_count": 7086,
+    "open_issues_count": 115,
+    "forks_count": 838
   },
   {
     "full_name": "google/material-design-icons",
-    "stargazers_count": 52849,
+    "stargazers_count": 52860,
     "open_issues_count": 389,
-    "forks_count": 9729
+    "forks_count": 9733
   },
   {
     "full_name": "codyogden/killedbygoogle",
-    "stargazers_count": 2642,
-    "open_issues_count": 62,
-    "forks_count": 399
+    "stargazers_count": 2645,
+    "open_issues_count": 64,
+    "forks_count": 400
   },
   {
     "full_name": "recaptime-app/authentik-receipes",
@@ -73,15 +79,15 @@
   },
   {
     "full_name": "MCXboxBroadcast/Broadcaster",
-    "stargazers_count": 532,
+    "stargazers_count": 533,
     "open_issues_count": 10,
-    "forks_count": 70
+    "forks_count": 72
   },
   {
     "full_name": "kejonaMC/MCProfile.io",
     "stargazers_count": 27,
     "open_issues_count": 4,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "devramsean0/Site-v4",
@@ -91,14 +97,14 @@
   },
   {
     "full_name": "mycroftsnm/UEFIGame",
-    "stargazers_count": 331,
+    "stargazers_count": 332,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "cosmik-network/semble",
-    "stargazers_count": 51,
-    "open_issues_count": 173,
+    "stargazers_count": 53,
+    "open_issues_count": 180,
     "forks_count": 6
   },
   {
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "BDX-town/Mangane",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 47,
     "forks_count": 34
   },
   {
     "full_name": "minio/minio",
-    "stargazers_count": 60163,
-    "open_issues_count": 79,
-    "forks_count": 6960
+    "stargazers_count": 60210,
+    "open_issues_count": 80,
+    "forks_count": 6970
   },
   {
     "full_name": "ss098/certmagic-s3",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "JetBrains/kotlin",
-    "stargazers_count": 52276,
-    "open_issues_count": 214,
-    "forks_count": 6214
+    "stargazers_count": 52297,
+    "open_issues_count": 217,
+    "forks_count": 6215
   },
   {
     "full_name": "pyrou/traefik.me",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "hackclub/auth",
-    "stargazers_count": 66,
-    "open_issues_count": 26,
-    "forks_count": 29
+    "stargazers_count": 67,
+    "open_issues_count": 25,
+    "forks_count": 30
   },
   {
     "full_name": "hackclub-community/hackatime-wrapped",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "binwiederhier/ntfy",
-    "stargazers_count": 28654,
-    "open_issues_count": 309,
-    "forks_count": 1173
   }
 ]
