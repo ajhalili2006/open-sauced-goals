@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "Nako0/devglobe-extension",
+    "stargazers_count": 19,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 17274,
-    "open_issues_count": 56,
-    "forks_count": 685
+    "stargazers_count": 19628,
+    "open_issues_count": 82,
+    "forks_count": 873
   },
   {
     "full_name": "timvisee/send",
-    "stargazers_count": 5687,
+    "stargazers_count": 5688,
     "open_issues_count": 85,
-    "forks_count": 337
+    "forks_count": 338
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 18015,
-    "open_issues_count": 1724,
+    "stargazers_count": 18039,
+    "open_issues_count": 1723,
     "forks_count": 2634
   },
   {
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5439,
-    "open_issues_count": 48,
-    "forks_count": 316
+    "stargazers_count": 5474,
+    "open_issues_count": 49,
+    "forks_count": 324
   },
   {
     "full_name": "miraheze/phorge-extensions",
@@ -45,7 +51,7 @@
     "full_name": "phorgeit/phorge",
     "stargazers_count": 163,
     "open_issues_count": 0,
-    "forks_count": 34
+    "forks_count": 35
   },
   {
     "full_name": "cooperspencer/phorge",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "GoogleContainerTools/distroless",
-    "stargazers_count": 22339,
-    "open_issues_count": 13,
-    "forks_count": 1359
+    "stargazers_count": 22351,
+    "open_issues_count": 14,
+    "forks_count": 1363
   },
   {
     "full_name": "compdemocracy/polis",
-    "stargazers_count": 1131,
-    "open_issues_count": 341,
-    "forks_count": 245
+    "stargazers_count": 1133,
+    "open_issues_count": 347,
+    "forks_count": 246
   },
   {
     "full_name": "wetherc/phorge-docker",
@@ -79,21 +85,21 @@
   },
   {
     "full_name": "orta/keytrace",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "zensical/zensical",
-    "stargazers_count": 3456,
-    "open_issues_count": 4,
-    "forks_count": 87
+    "stargazers_count": 3515,
+    "open_issues_count": 0,
+    "forks_count": 92
   },
   {
     "full_name": "mijorus/gearlever",
-    "stargazers_count": 1628,
-    "open_issues_count": 162,
-    "forks_count": 67
+    "stargazers_count": 1643,
+    "open_issues_count": 161,
+    "forks_count": 68
   },
   {
     "full_name": "intent-solutions-io/iam-git-with-intent",
@@ -109,8 +115,8 @@
   },
   {
     "full_name": "4O4-wasd/Microslop",
-    "stargazers_count": 153,
-    "open_issues_count": 9,
+    "stargazers_count": 155,
+    "open_issues_count": 8,
     "forks_count": 15
   },
   {
@@ -122,31 +128,31 @@
   {
     "full_name": "canonical/ubuntu-server-documentation",
     "stargazers_count": 70,
-    "open_issues_count": 82,
+    "open_issues_count": 81,
     "forks_count": 119
   },
   {
     "full_name": "qualifire-dev/rogue",
-    "stargazers_count": 1013,
+    "stargazers_count": 1012,
     "open_issues_count": 46,
     "forks_count": 160
   },
   {
     "full_name": "github/copilot-sdk",
-    "stargazers_count": 7639,
-    "open_issues_count": 171,
-    "forks_count": 941
+    "stargazers_count": 7769,
+    "open_issues_count": 152,
+    "forks_count": 966
   },
   {
     "full_name": "google/material-design-icons",
-    "stargazers_count": 52965,
+    "stargazers_count": 52969,
     "open_issues_count": 396,
-    "forks_count": 9736
+    "forks_count": 9735
   },
   {
     "full_name": "codyogden/killedbygoogle",
-    "stargazers_count": 2654,
-    "open_issues_count": 67,
+    "stargazers_count": 2656,
+    "open_issues_count": 68,
     "forks_count": 402
   },
   {
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "MCXboxBroadcast/Broadcaster",
-    "stargazers_count": 537,
+    "stargazers_count": 538,
     "open_issues_count": 11,
-    "forks_count": 73
+    "forks_count": 72
   },
   {
     "full_name": "kejonaMC/MCProfile.io",
@@ -172,11 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "mycroftsnm/UEFIGame",
-    "stargazers_count": 336,
-    "open_issues_count": 0,
-    "forks_count": 4
   }
 ]
