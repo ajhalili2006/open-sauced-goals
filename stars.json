@@ -1,31 +1,43 @@
 [
   {
+    "full_name": "ProperDocs/properdocs",
+    "stargazers_count": 73,
+    "open_issues_count": 4,
+    "forks_count": 4
+  },
+  {
+    "full_name": "jaywhj/mkdocs-materialx",
+    "stargazers_count": 80,
+    "open_issues_count": 0,
+    "forks_count": 6
+  },
+  {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7725,
+    "stargazers_count": 7745,
     "open_issues_count": 382,
-    "forks_count": 1152
+    "forks_count": 1155
   },
   {
     "full_name": "safe-research/safenet",
     "stargazers_count": 7,
-    "open_issues_count": 16,
+    "open_issues_count": 14,
     "forks_count": 0
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 113904,
-    "open_issues_count": 302,
-    "forks_count": 5814
+    "stargazers_count": 114043,
+    "open_issues_count": 301,
+    "forks_count": 5837
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
     "stargazers_count": 322,
     "open_issues_count": 56,
-    "forks_count": 159
+    "forks_count": 160
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29492,
+    "stargazers_count": 29485,
     "open_issues_count": 6,
     "forks_count": 1809
   },
@@ -43,33 +55,33 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 43617,
-    "open_issues_count": 64,
-    "forks_count": 2515
+    "stargazers_count": 43744,
+    "open_issues_count": 65,
+    "forks_count": 2526
   },
   {
     "full_name": "Nako0/devglobe-extension",
-    "stargazers_count": 79,
+    "stargazers_count": 80,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 22675,
-    "open_issues_count": 48,
-    "forks_count": 1090
+    "stargazers_count": 23221,
+    "open_issues_count": 53,
+    "forks_count": 1138
   },
   {
     "full_name": "timvisee/send",
-    "stargazers_count": 5693,
+    "stargazers_count": 5698,
     "open_issues_count": 85,
     "forks_count": 340
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 18095,
-    "open_issues_count": 1746,
-    "forks_count": 2642
+    "stargazers_count": 18103,
+    "open_issues_count": 1747,
+    "forks_count": 2647
   },
   {
     "full_name": "hackclub/error-pages",
@@ -79,9 +91,9 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5565,
-    "open_issues_count": 53,
-    "forks_count": 334
+    "stargazers_count": 5574,
+    "open_issues_count": 54,
+    "forks_count": 335
   },
   {
     "full_name": "miraheze/phorge-extensions",
@@ -97,9 +109,9 @@
   },
   {
     "full_name": "phorgeit/phorge",
-    "stargazers_count": 168,
+    "stargazers_count": 169,
     "open_issues_count": 0,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "cooperspencer/phorge",
@@ -110,19 +122,19 @@
   {
     "full_name": "recaptime-dev/infra-docker-phorge",
     "stargazers_count": 1,
-    "open_issues_count": 5,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "GoogleContainerTools/distroless",
-    "stargazers_count": 22430,
+    "stargazers_count": 22448,
     "open_issues_count": 16,
-    "forks_count": 1367
+    "forks_count": 1369
   },
   {
     "full_name": "compdemocracy/polis",
     "stargazers_count": 1137,
-    "open_issues_count": 371,
+    "open_issues_count": 383,
     "forks_count": 247
   },
   {
@@ -133,21 +145,21 @@
   },
   {
     "full_name": "orta/keytrace",
-    "stargazers_count": 56,
+    "stargazers_count": 59,
     "open_issues_count": 7,
     "forks_count": 3
   },
   {
     "full_name": "zensical/zensical",
-    "stargazers_count": 3905,
+    "stargazers_count": 4012,
     "open_issues_count": 5,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "mijorus/gearlever",
-    "stargazers_count": 1676,
-    "open_issues_count": 163,
-    "forks_count": 67
+    "stargazers_count": 1689,
+    "open_issues_count": 166,
+    "forks_count": 66
   },
   {
     "full_name": "intent-solutions-io/iam-git-with-intent",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "cuskiy/nixy",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "4O4-wasd/Microslop",
-    "stargazers_count": 163,
+    "stargazers_count": 166,
     "open_issues_count": 8,
     "forks_count": 17
-  },
-  {
-    "full_name": "tmdecker/collection-browser-for-musicbrainz",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "canonical/ubuntu-server-documentation",
-    "stargazers_count": 70,
-    "open_issues_count": 65,
-    "forks_count": 122
   }
 ]
