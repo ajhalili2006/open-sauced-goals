@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "fileverse/walk-away",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
     "full_name": "xp-technologies-dev/userscript",
     "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 1,
+    "forks_count": 1
   },
   {
     "full_name": "groknt/P-Stream-Userscript",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 52679,
-    "open_issues_count": 714,
-    "forks_count": 3994
+    "stargazers_count": 52853,
+    "open_issues_count": 715,
+    "forks_count": 4022
   },
   {
     "full_name": "huckabarry/afterword-sveltekit-pds",
@@ -25,33 +31,33 @@
   },
   {
     "full_name": "supabase-community/supabase-ssh",
-    "stargazers_count": 29,
-    "open_issues_count": 1,
-    "forks_count": 5
+    "stargazers_count": 31,
+    "open_issues_count": 2,
+    "forks_count": 6
   },
   {
     "full_name": "linuxfoundation/insights",
-    "stargazers_count": 205,
-    "open_issues_count": 87,
+    "stargazers_count": 206,
+    "open_issues_count": 85,
     "forks_count": 47
   },
   {
     "full_name": "ProperDocs/properdocs",
-    "stargazers_count": 84,
+    "stargazers_count": 90,
     "open_issues_count": 5,
-    "forks_count": 5
+    "forks_count": 7
   },
   {
     "full_name": "jaywhj/mkdocs-materialx",
-    "stargazers_count": 88,
-    "open_issues_count": 3,
+    "stargazers_count": 92,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7762,
+    "stargazers_count": 7773,
     "open_issues_count": 369,
-    "forks_count": 1164
+    "forks_count": 1166
   },
   {
     "full_name": "safe-research/safenet",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 114286,
-    "open_issues_count": 294,
-    "forks_count": 5872
+    "stargazers_count": 114386,
+    "open_issues_count": 296,
+    "forks_count": 5886
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
@@ -73,7 +79,7 @@
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29474,
+    "stargazers_count": 29465,
     "open_issues_count": 6,
     "forks_count": 1811
   },
@@ -91,33 +97,33 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 44103,
-    "open_issues_count": 65,
-    "forks_count": 2563
+    "stargazers_count": 44300,
+    "open_issues_count": 84,
+    "forks_count": 2573
   },
   {
     "full_name": "Nako0/devglobe-extension",
-    "stargazers_count": 85,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "stargazers_count": 101,
+    "open_issues_count": 1,
+    "forks_count": 8
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 23984,
-    "open_issues_count": 63,
-    "forks_count": 1203
+    "stargazers_count": 24230,
+    "open_issues_count": 66,
+    "forks_count": 1226
   },
   {
     "full_name": "timvisee/send",
-    "stargazers_count": 5698,
+    "stargazers_count": 5701,
     "open_issues_count": 85,
     "forks_count": 341
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 18140,
-    "open_issues_count": 1749,
-    "forks_count": 2652
+    "stargazers_count": 18169,
+    "open_issues_count": 1754,
+    "forks_count": 2650
   },
   {
     "full_name": "hackclub/error-pages",
@@ -127,8 +133,8 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5592,
-    "open_issues_count": 57,
+    "stargazers_count": 5612,
+    "open_issues_count": 59,
     "forks_count": 339
   },
   {
@@ -147,7 +153,7 @@
     "full_name": "phorgeit/phorge",
     "stargazers_count": 171,
     "open_issues_count": 0,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "cooperspencer/phorge",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "GoogleContainerTools/distroless",
-    "stargazers_count": 22477,
+    "stargazers_count": 22481,
     "open_issues_count": 16,
-    "forks_count": 1374
+    "forks_count": 1376
   },
   {
     "full_name": "compdemocracy/polis",
     "stargazers_count": 1141,
-    "open_issues_count": 385,
-    "forks_count": 248
-  },
-  {
-    "full_name": "wetherc/phorge-docker",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "open_issues_count": 393,
+    "forks_count": 250
   }
 ]
