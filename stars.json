@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "tailscale/tailscale-rs",
+    "stargazers_count": 229,
+    "open_issues_count": 47,
+    "forks_count": 10
+  },
+  {
     "full_name": "JetBrains/swot",
     "stargazers_count": 2228,
-    "open_issues_count": 179,
-    "forks_count": 35003
+    "open_issues_count": 153,
+    "forks_count": 35097
   },
   {
     "full_name": "zitadel/zitadel",
-    "stargazers_count": 13515,
-    "open_issues_count": 990,
-    "forks_count": 1025
+    "stargazers_count": 13539,
+    "open_issues_count": 991,
+    "forks_count": 1030
   },
   {
     "full_name": "fileverse/walk-away",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 52990,
-    "open_issues_count": 723,
-    "forks_count": 4048
+    "stargazers_count": 53604,
+    "open_issues_count": 730,
+    "forks_count": 4153
   },
   {
     "full_name": "huckabarry/afterword-sveltekit-pds",
@@ -43,57 +49,57 @@
   },
   {
     "full_name": "supabase-community/supabase-ssh",
-    "stargazers_count": 35,
-    "open_issues_count": 4,
+    "stargazers_count": 37,
+    "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "linuxfoundation/insights",
-    "stargazers_count": 209,
+    "stargazers_count": 213,
     "open_issues_count": 79,
-    "forks_count": 47
+    "forks_count": 49
   },
   {
     "full_name": "ProperDocs/properdocs",
-    "stargazers_count": 90,
+    "stargazers_count": 95,
     "open_issues_count": 5,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "jaywhj/mkdocs-materialx",
-    "stargazers_count": 92,
-    "open_issues_count": 1,
+    "stargazers_count": 94,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7783,
-    "open_issues_count": 374,
-    "forks_count": 1171
+    "stargazers_count": 7790,
+    "open_issues_count": 379,
+    "forks_count": 1172
   },
   {
     "full_name": "safe-research/safenet",
     "stargazers_count": 8,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 0
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 114576,
-    "open_issues_count": 22,
-    "forks_count": 5905
+    "stargazers_count": 114681,
+    "open_issues_count": 16,
+    "forks_count": 5920
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
-    "stargazers_count": 322,
+    "stargazers_count": 324,
     "open_issues_count": 56,
     "forks_count": 162
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29465,
+    "stargazers_count": 29463,
     "open_issues_count": 6,
-    "forks_count": 1810
+    "forks_count": 1808
   },
   {
     "full_name": "blockful/shutter-security-council",
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 44475,
-    "open_issues_count": 86,
-    "forks_count": 2577
+    "stargazers_count": 44605,
+    "open_issues_count": 79,
+    "forks_count": 2580
   },
   {
     "full_name": "Nako0/devglobe-extension",
@@ -121,21 +127,21 @@
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 24595,
-    "open_issues_count": 88,
-    "forks_count": 1248
+    "stargazers_count": 24849,
+    "open_issues_count": 81,
+    "forks_count": 1270
   },
   {
     "full_name": "timvisee/send",
-    "stargazers_count": 5705,
+    "stargazers_count": 5706,
     "open_issues_count": 85,
-    "forks_count": 341
+    "forks_count": 342
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 18181,
+    "stargazers_count": 18196,
     "open_issues_count": 1757,
-    "forks_count": 2654
+    "forks_count": 2651
   },
   {
     "full_name": "hackclub/error-pages",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5629,
-    "open_issues_count": 54,
-    "forks_count": 341
+    "stargazers_count": 5640,
+    "open_issues_count": 56,
+    "forks_count": 344
   },
   {
     "full_name": "miraheze/phorge-extensions",
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "phorgeit/phorge",
-    "stargazers_count": 171,
+    "stargazers_count": 172,
     "open_issues_count": 0,
     "forks_count": 39
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "recaptime-dev/infra-docker-phorge",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
   }
 ]
