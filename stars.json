@@ -1,9 +1,9 @@
 [
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 1437,
-    "open_issues_count": 318,
-    "forks_count": 592
+    "stargazers_count": 1438,
+    "open_issues_count": 319,
+    "forks_count": 591
   },
   {
     "full_name": "hackclub-community/HCEP",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "brittanyellich/command-center-lite",
-    "stargazers_count": 72,
+    "stargazers_count": 74,
     "open_issues_count": 16,
-    "forks_count": 20
+    "forks_count": 22
   },
   {
     "full_name": "kellnerd/musicbrainz-ts",
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 676,
+    "stargazers_count": 693,
     "open_issues_count": 49,
-    "forks_count": 25
+    "forks_count": 27
   },
   {
     "full_name": "JetBrains/swot",
-    "stargazers_count": 2233,
-    "open_issues_count": 160,
-    "forks_count": 35237
+    "stargazers_count": 2234,
+    "open_issues_count": 151,
+    "forks_count": 35326
   },
   {
     "full_name": "zitadel/zitadel",
-    "stargazers_count": 13616,
-    "open_issues_count": 1001,
-    "forks_count": 1039
+    "stargazers_count": 13645,
+    "open_issues_count": 1007,
+    "forks_count": 1042
   },
   {
     "full_name": "fileverse/walk-away",
@@ -69,13 +69,13 @@
     "full_name": "groknt/P-Stream-Userscript",
     "stargazers_count": 2,
     "open_issues_count": 0,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 54118,
-    "open_issues_count": 753,
-    "forks_count": 4237
+    "stargazers_count": 54296,
+    "open_issues_count": 716,
+    "forks_count": 4280
   },
   {
     "full_name": "huckabarry/afterword-sveltekit-pds",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "supabase-community/supabase-ssh",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "linuxfoundation/insights",
-    "stargazers_count": 213,
-    "open_issues_count": 81,
+    "stargazers_count": 214,
+    "open_issues_count": 80,
     "forks_count": 48
   },
   {
     "full_name": "ProperDocs/properdocs",
-    "stargazers_count": 104,
+    "stargazers_count": 109,
     "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "jaywhj/mkdocs-materialx",
-    "stargazers_count": 97,
-    "open_issues_count": 3,
+    "stargazers_count": 100,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7810,
-    "open_issues_count": 389,
-    "forks_count": 1175
+    "stargazers_count": 7821,
+    "open_issues_count": 394,
+    "forks_count": 1178
   },
   {
     "full_name": "safe-research/safenet",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 115104,
-    "open_issues_count": 8,
-    "forks_count": 5995
+    "stargazers_count": 115553,
+    "open_issues_count": 12,
+    "forks_count": 6042
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
@@ -133,14 +133,14 @@
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29451,
+    "stargazers_count": 29446,
     "open_issues_count": 6,
-    "forks_count": 1807
+    "forks_count": 1806
   },
   {
     "full_name": "blockful/shutter-security-council",
     "stargazers_count": 1,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 44825,
-    "open_issues_count": 56,
-    "forks_count": 2587
+    "stargazers_count": 44920,
+    "open_issues_count": 66,
+    "forks_count": 2589
   },
   {
     "full_name": "Nako0/devglobe-extension",
-    "stargazers_count": 104,
+    "stargazers_count": 106,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 25282,
-    "open_issues_count": 94,
-    "forks_count": 1292
+    "stargazers_count": 25482,
+    "open_issues_count": 87,
+    "forks_count": 1309
   },
   {
     "full_name": "timvisee/send",
-    "stargazers_count": 5711,
+    "stargazers_count": 5715,
     "open_issues_count": 86,
     "forks_count": 343
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 18235,
-    "open_issues_count": 1794,
-    "forks_count": 2652
+    "stargazers_count": 18262,
+    "open_issues_count": 1810,
+    "forks_count": 2657
   }
 ]
