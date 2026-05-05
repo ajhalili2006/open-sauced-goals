@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "mrshu/github-statuses",
+    "stargazers_count": 329,
+    "open_issues_count": 13,
+    "forks_count": 17
+  },
+  {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 81524,
-    "open_issues_count": 426,
-    "forks_count": 3184
+    "stargazers_count": 81557,
+    "open_issues_count": 427,
+    "forks_count": 3183
   },
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 1443,
-    "open_issues_count": 318,
-    "forks_count": 590
+    "stargazers_count": 1446,
+    "open_issues_count": 324,
+    "forks_count": 593
   },
   {
     "full_name": "hackclub-community/HCEP",
@@ -25,15 +31,15 @@
   },
   {
     "full_name": "ashleymcnamara/gophers",
-    "stargazers_count": 3069,
+    "stargazers_count": 3070,
     "open_issues_count": 1,
     "forks_count": 144
   },
   {
     "full_name": "brittanyellich/command-center-lite",
-    "stargazers_count": 75,
+    "stargazers_count": 77,
     "open_issues_count": 16,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "kellnerd/musicbrainz-ts",
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 708,
-    "open_issues_count": 51,
-    "forks_count": 28
+    "stargazers_count": 714,
+    "open_issues_count": 52,
+    "forks_count": 29
   },
   {
     "full_name": "JetBrains/swot",
-    "stargazers_count": 2237,
-    "open_issues_count": 162,
-    "forks_count": 35378
+    "stargazers_count": 2240,
+    "open_issues_count": 167,
+    "forks_count": 35456
   },
   {
     "full_name": "zitadel/zitadel",
-    "stargazers_count": 13665,
-    "open_issues_count": 1006,
-    "forks_count": 1048
+    "stargazers_count": 13698,
+    "open_issues_count": 1008,
+    "forks_count": 1053
   },
   {
     "full_name": "fileverse/walk-away",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 54448,
-    "open_issues_count": 725,
-    "forks_count": 4298
+    "stargazers_count": 54579,
+    "open_issues_count": 736,
+    "forks_count": 4318
   },
   {
     "full_name": "huckabarry/afterword-sveltekit-pds",
@@ -91,32 +97,32 @@
   },
   {
     "full_name": "supabase-community/supabase-ssh",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 6,
     "forks_count": 7
   },
   {
     "full_name": "linuxfoundation/insights",
-    "stargazers_count": 216,
-    "open_issues_count": 88,
-    "forks_count": 49
+    "stargazers_count": 217,
+    "open_issues_count": 89,
+    "forks_count": 48
   },
   {
     "full_name": "ProperDocs/properdocs",
-    "stargazers_count": 112,
+    "stargazers_count": 116,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "jaywhj/mkdocs-materialx",
-    "stargazers_count": 102,
-    "open_issues_count": 1,
+    "stargazers_count": 106,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7824,
-    "open_issues_count": 400,
+    "stargazers_count": 7837,
+    "open_issues_count": 402,
     "forks_count": 1180
   },
   {
@@ -127,9 +133,9 @@
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 115642,
-    "open_issues_count": 8,
-    "forks_count": 6061
+    "stargazers_count": 115921,
+    "open_issues_count": 4,
+    "forks_count": 6085
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29434,
+    "stargazers_count": 29430,
     "open_issues_count": 6,
-    "forks_count": 1807
+    "forks_count": 1806
   },
   {
     "full_name": "blockful/shutter-security-council",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 45026,
-    "open_issues_count": 61,
-    "forks_count": 2595
+    "stargazers_count": 45119,
+    "open_issues_count": 59,
+    "forks_count": 2603
   },
   {
     "full_name": "Nako0/devglobe-extension",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 25594,
+    "stargazers_count": 25747,
     "open_issues_count": 88,
-    "forks_count": 1315
-  },
-  {
-    "full_name": "timvisee/send",
-    "stargazers_count": 5719,
-    "open_issues_count": 86,
-    "forks_count": 344
+    "forks_count": 1334
   }
 ]
