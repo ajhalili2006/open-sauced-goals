@@ -1,21 +1,21 @@
 [
   {
     "full_name": "mrshu/github-statuses",
-    "stargazers_count": 329,
-    "open_issues_count": 13,
-    "forks_count": 17
+    "stargazers_count": 371,
+    "open_issues_count": 11,
+    "forks_count": 18
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 81557,
+    "stargazers_count": 81570,
     "open_issues_count": 427,
-    "forks_count": 3183
+    "forks_count": 3185
   },
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 1446,
-    "open_issues_count": 324,
-    "forks_count": 593
+    "stargazers_count": 1451,
+    "open_issues_count": 321,
+    "forks_count": 595
   },
   {
     "full_name": "hackclub-community/HCEP",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "brittanyellich/command-center-lite",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 16,
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "full_name": "kellnerd/musicbrainz-ts",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 714,
-    "open_issues_count": 52,
-    "forks_count": 29
+    "stargazers_count": 716,
+    "open_issues_count": 53,
+    "forks_count": 32
   },
   {
     "full_name": "JetBrains/swot",
-    "stargazers_count": 2240,
-    "open_issues_count": 167,
-    "forks_count": 35456
+    "stargazers_count": 2243,
+    "open_issues_count": 176,
+    "forks_count": 35535
   },
   {
     "full_name": "zitadel/zitadel",
-    "stargazers_count": 13698,
-    "open_issues_count": 1008,
-    "forks_count": 1053
+    "stargazers_count": 13716,
+    "open_issues_count": 1013,
+    "forks_count": 1054
   },
   {
     "full_name": "fileverse/walk-away",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 54579,
-    "open_issues_count": 736,
-    "forks_count": 4318
+    "stargazers_count": 54680,
+    "open_issues_count": 745,
+    "forks_count": 4336
   },
   {
     "full_name": "huckabarry/afterword-sveltekit-pds",
@@ -104,38 +104,38 @@
   {
     "full_name": "linuxfoundation/insights",
     "stargazers_count": 217,
-    "open_issues_count": 89,
+    "open_issues_count": 88,
     "forks_count": 48
   },
   {
     "full_name": "ProperDocs/properdocs",
-    "stargazers_count": 116,
+    "stargazers_count": 153,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "jaywhj/mkdocs-materialx",
-    "stargazers_count": 106,
+    "stargazers_count": 109,
     "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7837,
-    "open_issues_count": 402,
-    "forks_count": 1180
+    "stargazers_count": 7842,
+    "open_issues_count": 403,
+    "forks_count": 1181
   },
   {
     "full_name": "safe-research/safenet",
     "stargazers_count": 8,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 0
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 115921,
-    "open_issues_count": 4,
-    "forks_count": 6085
+    "stargazers_count": 116019,
+    "open_issues_count": 8,
+    "forks_count": 6105
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29430,
+    "stargazers_count": 29429,
     "open_issues_count": 6,
     "forks_count": 1806
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 45119,
-    "open_issues_count": 59,
-    "forks_count": 2603
+    "stargazers_count": 45217,
+    "open_issues_count": 55,
+    "forks_count": 2605
   },
   {
     "full_name": "Nako0/devglobe-extension",
-    "stargazers_count": 106,
+    "stargazers_count": 109,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 25747,
-    "open_issues_count": 88,
-    "forks_count": 1334
+    "stargazers_count": 25895,
+    "open_issues_count": 91,
+    "forks_count": 1347
   }
 ]
