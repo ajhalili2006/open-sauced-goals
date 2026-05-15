@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "Raiper34/spooty",
+    "stargazers_count": 1786,
+    "open_issues_count": 19,
+    "forks_count": 115
+  },
+  {
     "full_name": "mrshu/github-statuses",
-    "stargazers_count": 392,
+    "stargazers_count": 400,
     "open_issues_count": 11,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "tonsky/FiraCode",
-    "stargazers_count": 81591,
+    "stargazers_count": 81614,
     "open_issues_count": 427,
     "forks_count": 3187
   },
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 1451,
+    "stargazers_count": 1452,
     "open_issues_count": 326,
-    "forks_count": 597
+    "forks_count": 599
   },
   {
     "full_name": "hackclub-community/HCEP",
@@ -31,13 +37,13 @@
   },
   {
     "full_name": "ashleymcnamara/gophers",
-    "stargazers_count": 3070,
+    "stargazers_count": 3069,
     "open_issues_count": 1,
     "forks_count": 144
   },
   {
     "full_name": "brittanyellich/command-center-lite",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 16,
     "forks_count": 24
   },
@@ -49,21 +55,21 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 732,
-    "open_issues_count": 56,
-    "forks_count": 33
+    "stargazers_count": 754,
+    "open_issues_count": 54,
+    "forks_count": 35
   },
   {
     "full_name": "JetBrains/swot",
-    "stargazers_count": 2247,
-    "open_issues_count": 185,
-    "forks_count": 35594
+    "stargazers_count": 2246,
+    "open_issues_count": 190,
+    "forks_count": 35679
   },
   {
     "full_name": "zitadel/zitadel",
-    "stargazers_count": 13734,
-    "open_issues_count": 1021,
-    "forks_count": 1060
+    "stargazers_count": 13764,
+    "open_issues_count": 1022,
+    "forks_count": 1063
   },
   {
     "full_name": "fileverse/walk-away",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 54909,
-    "open_issues_count": 753,
-    "forks_count": 4402
+    "stargazers_count": 55096,
+    "open_issues_count": 752,
+    "forks_count": 4470
   },
   {
     "full_name": "huckabarry/afterword-sveltekit-pds",
@@ -103,39 +109,39 @@
   },
   {
     "full_name": "linuxfoundation/insights",
-    "stargazers_count": 218,
-    "open_issues_count": 92,
+    "stargazers_count": 220,
+    "open_issues_count": 98,
     "forks_count": 48
   },
   {
     "full_name": "ProperDocs/properdocs",
-    "stargazers_count": 158,
+    "stargazers_count": 162,
     "open_issues_count": 5,
     "forks_count": 6
   },
   {
     "full_name": "jaywhj/mkdocs-materialx",
-    "stargazers_count": 111,
-    "open_issues_count": 2,
+    "stargazers_count": 113,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "OpenTTD/OpenTTD",
-    "stargazers_count": 7861,
-    "open_issues_count": 409,
-    "forks_count": 1185
+    "stargazers_count": 7868,
+    "open_issues_count": 412,
+    "forks_count": 1186
   },
   {
     "full_name": "safe-research/safenet",
     "stargazers_count": 8,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 0
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 116158,
-    "open_issues_count": 13,
-    "forks_count": 6121
+    "stargazers_count": 116216,
+    "open_issues_count": 9,
+    "forks_count": 6129
   },
   {
     "full_name": "safe-global/safe-apps-sdk",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "bigint/hey",
-    "stargazers_count": 29426,
+    "stargazers_count": 29423,
     "open_issues_count": 6,
-    "forks_count": 1806
+    "forks_count": 1805
   },
   {
     "full_name": "blockful/shutter-security-council",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "tmux/tmux",
-    "stargazers_count": 45382,
-    "open_issues_count": 54,
-    "forks_count": 2617
+    "stargazers_count": 45508,
+    "open_issues_count": 48,
+    "forks_count": 2624
   },
   {
     "full_name": "Nako0/devglobe-extension",
-    "stargazers_count": 110,
+    "stargazers_count": 118,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "googleworkspace/cli",
-    "stargazers_count": 26088,
-    "open_issues_count": 97,
-    "forks_count": 1356
   }
 ]
